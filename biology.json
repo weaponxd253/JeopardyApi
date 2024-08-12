@@ -1,0 +1,144 @@
+{
+    "categories": [
+        { "id": 13, "name": "Cell Biology" },
+        { "id": 14, "name": "Genetics" },
+        { "id": 15, "name": "Human Anatomy" },
+        { "id": 16, "name": "Ecology" },
+        { "id": 17, "name": "Evolution" },
+        { "id": 18, "name": "Microbiology" }
+    ],
+    "questions": {
+        "13": {
+            "100": {
+                "question": "What is the function of the mitochondria?",
+                "answers": ["powerhouse of the cell", "producing atp", "cellular respiration", "energy production"]
+            },
+            "200": {
+                "question": "What is the primary function of the cell membrane?",
+                "answers": ["controls movement of substances", "maintains cell's internal environment", "selective permeability", "cell membrane function"]
+            },
+            "300": {
+                "question": "What structure is responsible for protein synthesis in the cell?",
+                "answers": ["ribosomes", "protein synthesis", "ribosome"]
+            },
+            "400": {
+                "question": "What is the role of the Golgi apparatus?",
+                "answers": ["modifies proteins", "packages proteins", "sorts proteins", "delivery to organelles", "golgi apparatus role"]
+            },
+            "500": {
+                "question": "What is the difference between rough and smooth endoplasmic reticulum?",
+                "answers": ["ribosomes on surface", "protein synthesis", "lipid synthesis", "detoxification", "rough er", "smooth er"]
+            }
+        },
+        "14": {
+            "100": {
+                "question": "What is the difference between genotype and phenotype?",
+                "answers": ["genetic makeup", "observable traits", "physical traits", "physiological traits", "genotype", "phenotype"]
+            },
+            "200": {
+                "question": "What is a Punnett square used for?",
+                "answers": ["predict genotypes", "predict phenotypes", "genetic cross", "punnett square"]
+            },
+            "300": {
+                "question": "What is the term for a gene that masks the expression of another gene?",
+                "answers": ["dominant gene", "dominance", "recessive gene", "masks expression", "gene masking"]
+            },
+            "400": {
+                "question": "What is incomplete dominance?",
+                "answers": ["neither allele dominant", "blend of phenotypes", "heterozygous phenotype", "incomplete dominance"]
+            },
+            "500": {
+                "question": "What is the significance of Mendel's law of independent assortment?",
+                "answers": ["genes inherited independently", "genetic variation", "different traits inheritance", "mendel's law"]
+            }
+        },
+        "15": {
+            "100": {
+                "question": "What is the function of the circulatory system?",
+                "answers": ["transports oxygen", "transports nutrients", "transports hormones", "transports waste", "circulatory system function"]
+            },
+            "200": {
+                "question": "What are the three types of muscle tissue in the human body?",
+                "answers": ["skeletal muscle", "cardiac muscle", "smooth muscle", "three types of muscle"]
+            },
+            "300": {
+                "question": "What is the role of the liver in the body?",
+                "answers": ["detoxifies chemicals", "metabolizes drugs", "produces bile", "digests fats", "liver role"]
+            },
+            "400": {
+                "question": "What is the main function of the small intestine?",
+                "answers": ["absorbs nutrients", "absorbs minerals", "digests food", "small intestine function"]
+            },
+            "500": {
+                "question": "Which part of the brain is responsible for coordinating voluntary movements?",
+                "answers": ["cerebellum", "coordinates movements", "balance", "voluntary movements"]
+            }
+        },
+        "16": {
+            "100": {
+                "question": "What is an ecosystem?",
+                "answers": ["community of organisms", "interacting with environment", "living organisms interaction", "ecosystem"]
+            },
+            "200": {
+                "question": "What is the process by which plants convert carbon dioxide into oxygen?",
+                "answers": ["photosynthesis", "carbon dioxide conversion", "oxygen production", "photosynthesis process"]
+            },
+            "300": {
+                "question": "What is the difference between a food chain and a food web?",
+                "answers": ["linear sequence", "energy flow", "network of food chains", "interconnected chains", "food chain", "food web"]
+            },
+            "400": {
+                "question": "What is the role of a producer in an ecosystem?",
+                "answers": ["creates energy compounds", "photosynthesis", "base of food chain", "ecosystem producer"]
+            },
+            "500": {
+                "question": "What is the term for the variety of life in a particular habitat or ecosystem?",
+                "answers": ["biodiversity", "variety of life", "ecosystem diversity"]
+            }
+        },
+        "17": {
+            "100": {
+                "question": "What is natural selection?",
+                "answers": ["favorable traits", "survival and reproduction", "evolutionary change", "natural selection"]
+            },
+            "200": {
+                "question": "What is the term for the preserved remains or traces of ancient organisms?",
+                "answers": ["fossils", "preserved remains", "ancient organisms traces", "fossil"]
+            },
+            "300": {
+                "question": "What is the significance of the Galápagos Islands to the study of evolution?",
+                "answers": ["darwin's observation", "diverse species", "natural selection", "galapagos islands"]
+            },
+            "400": {
+                "question": "What is an example of a homologous structure?",
+                "answers": ["shared ancestry", "forelimbs of mammals", "similar anatomy", "homologous structure"]
+            },
+            "500": {
+                "question": "What is genetic drift?",
+                "answers": ["random allele change", "evolutionary changes", "population change", "genetic drift"]
+            }
+        },
+        "18": {
+            "100": {
+                "question": "What is a prokaryote?",
+                "answers": ["single-celled organism", "no nucleus", "bacteria", "archaea", "prokaryote"]
+            },
+            "200": {
+                "question": "What is the role of bacteria in the nitrogen cycle?",
+                "answers": ["converts nitrogen gas", "ammonia production", "nitrates production", "bacteria nitrogen cycle"]
+            },
+            "300": {
+                "question": "What is the function of the bacterial cell wall?",
+                "answers": ["structural support", "cell protection", "maintains shape", "bacterial cell wall"]
+            },
+            "400": {
+                "question": "What is an antibiotic?",
+                "answers": ["kills bacteria", "inhibits bacteria", "treats bacterial infections", "antibiotic"]
+            },
+            "500": {
+                "question": "What is the difference between a virus and a bacterium?",
+                "answers": ["non-living particle", "requires host cell", "independent reproduction", "virus vs bacterium"]
+            }
+        }
+    }
+}

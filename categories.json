@@ -1,0 +1,174 @@
+{
+    "categories": [
+        { "id": 1, "name": "HTML" },
+        { "id": 2, "name": "CSS" },
+        { "id": 3, "name": "JavaScript" },
+        { "id": 4, "name": "Python" },
+        { "id": 5, "name": "Java" },
+        { "id": 6, "name": "C++" }
+    ],
+    "questions": {
+        "1": {
+            "100": {
+                "question": "What does HTML stand for?",
+                "answers": ["hypertext markup language", "html"],
+                "explanation": "HTML stands for Hypertext Markup Language. It is the standard language for creating webpages and web applications."
+            },
+            "200": {
+                "question": "What tag is used to create a hyperlink?",
+                "answers": ["a", "<a>", "anchor tag"],
+                "explanation": "The <a> tag, also known as the anchor tag, is used to create hyperlinks in HTML."
+            },
+            "300": {
+                "question": "What tag is used to create a paragraph?",
+                "answers": ["p", "<p>", "paragraph tag"],
+                "explanation": "The <p> tag is used to create paragraphs in HTML."
+            },
+            "400": {
+                "question": "What attribute specifies an image source?",
+                "answers": ["src", "source"],
+                "explanation": "The src attribute specifies the URL of an image in an <img> tag."
+            },
+            "500": {
+                "question": "What tag is used to define a table row?",
+                "answers": ["tr", "<tr>", "table row tag"],
+                "explanation": "The <tr> tag is used to define a row in an HTML table."
+            }
+        },
+        "2": {
+            "100": {
+                "question": "What does CSS stand for?",
+                "answers": ["cascading style sheets", "css"],
+                "explanation": "CSS stands for Cascading Style Sheets. It is used to style and layout web pages."
+            },
+            "200": {
+                "question": "What property is used to change text color?",
+                "answers": ["color", "text color"],
+                "explanation": "The color property in CSS is used to set the color of the text."
+            },
+            "300": {
+                "question": "How do you center a block element?",
+                "answers": ["margin: 0 auto;", "margin 0 auto", "center a block"],
+                "explanation": "To center a block element, you can use the CSS rule 'margin: 0 auto;'."
+            },
+            "400": {
+                "question": "What property is used to change the font size?",
+                "answers": ["font-size", "font size", "change font size"],
+                "explanation": "The font-size property in CSS is used to change the size of the text."
+            },
+            "500": {
+                "question": "What property is used to make text bold?",
+                "answers": ["font-weight", "font weight", "bold"],
+                "explanation": "The font-weight property in CSS is used to make text bold."
+            }
+        },
+        "3": {
+            "100": {
+                "question": "What does JS stand for?",
+                "answers": ["javascript", "js"],
+                "explanation": "JS stands for JavaScript, which is a programming language used to create interactive effects within web browsers."
+            },
+            "200": {
+                "question": "How do you declare a variable?",
+                "answers": ["var", "let", "const", "declare a variable"],
+                "explanation": "In JavaScript, you can declare a variable using var, let, or const."
+            },
+            "300": {
+                "question": "What is a function?",
+                "answers": ["a block of code that performs a task", "function", "code block", "task performing code"],
+                "explanation": "A function is a block of code designed to perform a particular task. It is executed when it is invoked (called)."
+            },
+            "400": {
+                "question": "What is an array?",
+                "answers": ["a collection of items", "array", "list of items", "collection"],
+                "explanation": "An array is a data structure that can hold more than one value at a time. It is a collection of items stored at contiguous memory locations."
+            },
+            "500": {
+                "question": "How do you add an item to an array?",
+                "answers": ["push", "add to array", "array push"],
+                "explanation": "In JavaScript, you can add an item to an array using the push method."
+            }
+        },
+        "4": {
+            "100": {
+                "question": "What does Python stand for?",
+                "answers": ["python", "python language"],
+                "explanation": "Python is a high-level, interpreted programming language known for its easy readability and versatility."
+            },
+            "200": {
+                "question": "How do you define a function in Python?",
+                "answers": ["def", "define function", "python function"],
+                "explanation": "In Python, you define a function using the 'def' keyword followed by the function name and parentheses."
+            },
+            "300": {
+                "question": "What data structure is used to store key-value pairs?",
+                "answers": ["dictionary", "key-value pairs", "dict"],
+                "explanation": "A dictionary is a data structure in Python used to store key-value pairs."
+            },
+            "400": {
+                "question": "What keyword is used to handle exceptions?",
+                "answers": ["try", "handle exceptions", "exception handling"],
+                "explanation": "The 'try' keyword is used to handle exceptions in Python."
+            },
+            "500": {
+                "question": "How do you start a loop in Python?",
+                "answers": ["for", "loop", "for loop"],
+                "explanation": "In Python, you start a loop using the 'for' keyword followed by the iterable."
+            }
+        },
+        "5": {
+            "100": {
+                "question": "What is Java?",
+                "answers": ["a programming language", "java", "programming language"],
+                "explanation": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible."
+            },
+            "200": {
+                "question": "How do you create an object in Java?",
+                "answers": ["new", "create object", "java object"],
+                "explanation": "In Java, you create an object using the 'new' keyword followed by the class name and parentheses."
+            },
+            "300": {
+                "question": "What is inheritance?",
+                "answers": ["a mechanism to acquire properties", "inheritance", "acquire properties"],
+                "explanation": "Inheritance is a mechanism in Java by which one class is allowed to inherit the features (fields and methods) of another class."
+            },
+            "400": {
+                "question": "What is polymorphism?",
+                "answers": ["ability to take many forms", "polymorphism", "multiple forms"],
+                "explanation": "Polymorphism is the ability in programming to present the same interface for differing underlying data types."
+            },
+            "500": {
+                "question": "What is encapsulation?",
+                "answers": ["wrapping data and code together", "encapsulation", "wrap data and code"],
+                "explanation": "Encapsulation is the technique of making the fields in a class private and providing access to the fields via public methods."
+            }
+        },
+        "6": {
+            "100": {
+                "question": "What is C++?",
+                "answers": ["a programming language", "c++", "cpp"],
+                "explanation": "C++ is a general-purpose programming language created as an extension of the C programming language."
+            },
+            "200": {
+                "question": "What is a class?",
+                "answers": ["a blueprint for objects", "class", "object blueprint"],
+                "explanation": "A class in C++ is a blueprint from which objects are created. It can contain data members and member functions."
+            },
+            "300": {
+                "question": "What is a constructor?",
+                "answers": ["a special function to initialize objects", "constructor", "initialize objects"],
+                "explanation": "A constructor is a special member function of a class that is executed whenever we create new objects of that class."
+            },
+            "400": {
+                "question": "What is operator overloading?",
+                "answers": ["defining new operations for operators", "operator overloading", "new operations"],
+                "explanation": "Operator overloading is a type of polymorphism in which an operator is given a new meaning for a user-defined data type."
+            },
+            "500": {
+                "question": "What is a destructor?",
+                "answers": ["a special function to clean up objects", "destructor", "clean up objects"],
+                "explanation": "A destructor is a member function which destructs or deletes an object."
+            }
+        }
+    }
+}

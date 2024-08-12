@@ -1,0 +1,174 @@
+{
+    "categories": [
+        { "id": 13, "name": "Computer Hardware" },
+        { "id": 14, "name": "Networking Basics" },
+        { "id": 15, "name": "Operating Systems" },
+        { "id": 16, "name": "Cybersecurity Fundamentals" },
+        { "id": 17, "name": "Software and Applications" },
+        { "id": 18, "name": "IT Troubleshooting" }
+    ],
+    "questions": {
+        "13": {
+            "100": {
+                "question": "This is the primary component of a computer responsible for processing instructions.",
+                "answers": ["CPU", "Central Processing Unit", "What is the CPU?", "What is the Central Processing Unit?"],
+                "explanation": "The CPU, or Central Processing Unit, is often referred to as the 'brain' of the computer, as it performs most of the processing inside a computer."
+            },
+            "200": {
+                "question": "This type of memory is volatile and is used to store data temporarily while a computer is running.",
+                "answers": ["RAM", "Random Access Memory", "What is RAM?", "What is Random Access Memory?"],
+                "explanation": "RAM, or Random Access Memory, is used by a computer to store data that is being used or processed. It is erased when the computer is turned off."
+            },
+            "300": {
+                "question": "This component is used to store data permanently and can be a traditional spinning disk or a solid-state device.",
+                "answers": ["hard drive", "HDD", "SSD", "solid-state drive", "What is a hard drive?", "What is an HDD?", "What is an SSD?", "What is a solid-state drive?"],
+                "explanation": "Hard drives and solid-state drives are storage devices used to store data persistently, with SSDs being faster and more durable than HDDs."
+            },
+            "400": {
+                "question": "This device outputs visual information from the computer to the user.",
+                "answers": ["monitor", "What is a monitor?"],
+                "explanation": "A monitor displays the visual output from the computer, allowing the user to interact with the system's graphical interface."
+            },
+            "500": {
+                "question": "This peripheral is used to input data into a computer through key presses.",
+                "answers": ["keyboard", "What is a keyboard?"],
+                "explanation": "A keyboard is a peripheral device that allows users to input data into a computer by pressing keys."
+            }
+        },
+        "14": {
+            "100": {
+                "question": "This device routes data between different networks and is essential for internet connectivity.",
+                "answers": ["router", "What is a router?"],
+                "explanation": "A router directs data packets between networks and is crucial for connecting multiple devices to the internet."
+            },
+            "200": {
+                "question": "This protocol is used to assign IP addresses dynamically to devices on a network.",
+                "answers": ["DHCP", "Dynamic Host Configuration Protocol", "What is DHCP?", "What is Dynamic Host Configuration Protocol?"],
+                "explanation": "DHCP automates the assignment of IP addresses, reducing the need for manual configuration."
+            },
+            "300": {
+                "question": "This type of network covers a small geographic area, such as a single building or campus.",
+                "answers": ["LAN", "Local Area Network", "What is a LAN?", "What is a Local Area Network?"],
+                "explanation": "A LAN connects computers and devices within a limited area, enabling resource sharing and communication."
+            },
+            "400": {
+                "question": "This type of network spans large geographic areas and can connect multiple smaller networks.",
+                "answers": ["WAN", "Wide Area Network", "What is a WAN?", "What is a Wide Area Network?"],
+                "explanation": "A WAN connects networks over large distances, such as cities or countries, and is often used by organizations with multiple locations."
+            },
+            "500": {
+                "question": "This network device filters and forwards data packets between network segments.",
+                "answers": ["switch", "What is a switch?"],
+                "explanation": "A switch connects devices within a network and uses MAC addresses to forward data to the correct destination."
+            }
+        },
+        "15": {
+            "100": {
+                "question": "This operating system is known for its graphical user interface and is widely used in personal computers.",
+                "answers": ["Microsoft Windows", "Windows", "What is Microsoft Windows?", "What is Windows?"],
+                "explanation": "Microsoft Windows is a popular operating system with a user-friendly graphical interface, used by millions of people worldwide."
+            },
+            "200": {
+                "question": "This open-source operating system is known for its use in servers and developer environments.",
+                "answers": ["Linux", "What is Linux?"],
+                "explanation": "Linux is an open-source operating system that is highly customizable and commonly used in server environments and by developers."
+            },
+            "300": {
+                "question": "This operating system is used exclusively on Apple computers and devices.",
+                "answers": ["macOS", "What is macOS?"],
+                "explanation": "macOS is the operating system developed by Apple Inc. for use on its Mac computers and is known for its sleek design and integration with other Apple products."
+            },
+            "400": {
+                "question": "This term describes software that manages computer hardware and software resources and provides common services for computer programs.",
+                "answers": ["operating system", "OS", "What is an operating system?", "What is an OS?"],
+                "explanation": "An operating system (OS) manages the computer's hardware and software resources, providing essential services for computer programs."
+            },
+            "500": {
+                "question": "This type of operating system is designed to be embedded in hardware devices, such as routers or IoT devices.",
+                "answers": ["embedded operating system", "What is an embedded operating system?"],
+                "explanation": "Embedded operating systems are specialized OSs designed to run on embedded systems, providing specific functionality for the device they control."
+            }
+        },
+        "16": {
+            "100": {
+                "question": "This type of software is designed to detect, prevent, and remove malicious software.",
+                "answers": ["antivirus software", "What is antivirus software?"],
+                "explanation": "Antivirus software protects computers from malware, such as viruses, by detecting and removing malicious programs."
+            },
+            "200": {
+                "question": "This practice involves creating complex and unique codes to restrict access to systems and data.",
+                "answers": ["password security", "What is password security?"],
+                "explanation": "Password security involves using strong, unique passwords to protect access to systems and data from unauthorized users."
+            },
+            "300": {
+                "question": "This type of attack involves tricking users into providing sensitive information by pretending to be a trustworthy entity.",
+                "answers": ["phishing", "What is phishing?"],
+                "explanation": "Phishing attacks deceive users into revealing personal information, such as passwords or credit card numbers, by posing as legitimate entities."
+            },
+            "400": {
+                "question": "This term describes the process of converting data into a coded format to prevent unauthorized access.",
+                "answers": ["encryption", "What is encryption?"],
+                "explanation": "Encryption transforms data into a secure format that can only be read by someone with the correct decryption key, protecting it from unauthorized access."
+            },
+            "500": {
+                "question": "This security measure involves regularly updating software to fix vulnerabilities and protect against threats.",
+                "answers": ["software updates", "patches", "What are software updates?", "What are patches?"],
+                "explanation": "Software updates and patches address security vulnerabilities and improve software performance, helping to protect systems from cyber threats."
+            }
+        },
+        "17": {
+            "100": {
+                "question": "This type of software allows users to create and edit text documents.",
+                "answers": ["word processor", "What is a word processor?"],
+                "explanation": "A word processor, such as Microsoft Word, enables users to create, edit, and format text documents."
+            },
+            "200": {
+                "question": "This application is used to browse the internet and access websites.",
+                "answers": ["web browser", "What is a web browser?"],
+                "explanation": "A web browser, such as Google Chrome or Mozilla Firefox, allows users to access and navigate the internet."
+            },
+            "300": {
+                "question": "This type of software is used to manage and organize large amounts of data in tables.",
+                "answers": ["spreadsheet", "What is a spreadsheet?"],
+                "explanation": "Spreadsheet software, such as Microsoft Excel, helps users organize, analyze, and visualize data in tabular form."
+            },
+            "400": {
+                "question": "This application is commonly used for creating presentations and slideshows.",
+                "answers": ["presentation software", "What is presentation software?"],
+                "explanation": "Presentation software, such as Microsoft PowerPoint, is used to create and display visual presentations and slideshows."
+            },
+            "500": {
+                "question": "This software category includes tools for editing and manipulating images and graphics.",
+                "answers": ["graphic design software", "What is graphic design software?"],
+                "explanation": "Graphic design software, such as Adobe Photoshop, enables users to create, edit, and manipulate images and graphics."
+            }
+        },
+        "18": {
+            "100": {
+                "question": "This is the first step in the troubleshooting process, involving understanding and identifying the problem.",
+                "answers": ["problem identification", "What is problem identification?"],
+                "explanation": "Problem identification involves gathering information about the issue, such as error messages or symptoms, to understand the problem clearly."
+            },
+            "200": {
+                "question": "This common troubleshooting step involves restarting a computer to resolve various issues.",
+                "answers": ["rebooting", "restarting", "What is rebooting?", "What is restarting?"],
+                "explanation": "Rebooting a computer can resolve many common issues by resetting the system and clearing temporary problems."
+            },
+            "300": {
+                "question": "This term describes the process of checking connections and cables to ensure hardware components are properly connected.",
+                "answers": ["checking physical connections", "What is checking physical connections?"],
+                "explanation": "Ensuring that cables and connections are secure and correctly plugged in is a basic troubleshooting step for resolving hardware issues."
+            },
+            "400": {
+                "question": "This technique involves testing individual components of a system to isolate the source of a problem.",
+                "answers": ["component testing", "What is component testing?"],
+                "explanation": "Component testing involves checking each part of a system, such as the CPU, RAM, or hard drive, to identify faulty components causing the issue."
+            },
+            "500": {
+                "question": "This document or database contains information and solutions for common issues and is often used by IT support staff.",
+                "answers": ["knowledge base", "What is a knowledge base?"],
+                "explanation": "A knowledge base is a collection of articles, FAQs, and troubleshooting steps that help IT support staff quickly resolve common problems."
+            }
+        }
+    }
+}

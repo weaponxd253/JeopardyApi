@@ -1,0 +1,174 @@
+{
+    "categories": [
+        { "id": 19, "name": "SQL Basics" },
+        { "id": 20, "name": "Advanced SQL" },
+        { "id": 21, "name": "Database Design" },
+        { "id": 22, "name": "SQL Performance" },
+        { "id": 23, "name": "Stored Procedures" },
+        { "id": 24, "name": "SQL Security" }
+    ],
+    "questions": {
+        "19": {
+            "100": {
+                "question": "What does SQL stand for?",
+                "answers": ["Structured Query Language", "What is Structured Query Language?"],
+                "explanation": "SQL stands for Structured Query Language, which is used to communicate with and manipulate databases."
+            },
+            "200": {
+                "question": "Which SQL statement is used to fetch data from a database?",
+                "answers": ["SELECT", "What is SELECT?"],
+                "explanation": "The SELECT statement is used to fetch data from a database."
+            },
+            "300": {
+                "question": "What SQL clause is used to filter records?",
+                "answers": ["WHERE", "What is WHERE?"],
+                "explanation": "The WHERE clause is used to filter records in SQL."
+            },
+            "400": {
+                "question": "Which SQL statement is used to insert new records in a table?",
+                "answers": ["INSERT INTO", "What is INSERT INTO?"],
+                "explanation": "The INSERT INTO statement is used to insert new records in a table."
+            },
+            "500": {
+                "question": "Which SQL statement is used to update existing records in a table?",
+                "answers": ["UPDATE", "What is UPDATE?"],
+                "explanation": "The UPDATE statement is used to update existing records in a table."
+            }
+        },
+        "20": {
+            "100": {
+                "question": "What is a JOIN in SQL?",
+                "answers": ["JOIN", "What is JOIN?"],
+                "explanation": "A JOIN clause is used to combine rows from two or more tables, based on a related column between them."
+            },
+            "200": {
+                "question": "What does the SQL UNION operator do?",
+                "answers": ["UNION", "What is UNION?"],
+                "explanation": "The UNION operator is used to combine the result sets of two or more SELECT statements."
+            },
+            "300": {
+                "question": "What is a subquery in SQL?",
+                "answers": ["subquery", "What is a subquery?"],
+                "explanation": "A subquery is a query nested inside another query."
+            },
+            "400": {
+                "question": "What is the purpose of the SQL GROUP BY clause?",
+                "answers": ["GROUP BY", "What is GROUP BY?"],
+                "explanation": "The GROUP BY clause is used to group rows that have the same values in specified columns into summary rows."
+            },
+            "500": {
+                "question": "What is the HAVING clause in SQL?",
+                "answers": ["HAVING", "What is HAVING?"],
+                "explanation": "The HAVING clause is used to filter groups according to specified conditions."
+            }
+        },
+        "21": {
+            "100": {
+                "question": "What is normalization in database design?",
+                "answers": ["normalization", "What is normalization?"],
+                "explanation": "Normalization is the process of organizing data in a database to reduce redundancy and improve data integrity."
+            },
+            "200": {
+                "question": "What is a primary key?",
+                "answers": ["primary key", "What is a primary key?"],
+                "explanation": "A primary key is a unique identifier for a record in a table."
+            },
+            "300": {
+                "question": "What is a foreign key?",
+                "answers": ["foreign key", "What is a foreign key?"],
+                "explanation": "A foreign key is a field in one table that uniquely identifies a row of another table."
+            },
+            "400": {
+                "question": "What is an index in SQL?",
+                "answers": ["index", "What is an index?"],
+                "explanation": "An index is a database object that improves the speed of data retrieval."
+            },
+            "500": {
+                "question": "What is a composite key?",
+                "answers": ["composite key", "What is a composite key?"],
+                "explanation": "A composite key is a primary key composed of multiple columns."
+            }
+        },
+        "22": {
+            "100": {
+                "question": "What is a query plan in SQL?",
+                "answers": ["query plan", "What is a query plan?"],
+                "explanation": "A query plan is a sequence of steps used to access data in a SQL database management system."
+            },
+            "200": {
+                "question": "What is query optimization?",
+                "answers": ["query optimization", "What is query optimization?"],
+                "explanation": "Query optimization is the process of enhancing the performance of a query by choosing the most efficient execution plan."
+            },
+            "300": {
+                "question": "What is a clustered index?",
+                "answers": ["clustered index", "What is a clustered index?"],
+                "explanation": "A clustered index determines the physical order of data in a table."
+            },
+            "400": {
+                "question": "What is a non-clustered index?",
+                "answers": ["non-clustered index", "What is a non-clustered index?"],
+                "explanation": "A non-clustered index is an index that does not alter the physical order of the data."
+            },
+            "500": {
+                "question": "What is a covering index?",
+                "answers": ["covering index", "What is a covering index?"],
+                "explanation": "A covering index is an index that contains all the columns needed for a query."
+            }
+        },
+        "23": {
+            "100": {
+                "question": "What is a stored procedure?",
+                "answers": ["stored procedure", "What is a stored procedure?"],
+                "explanation": "A stored procedure is a prepared SQL code that you can save and reuse."
+            },
+            "200": {
+                "question": "What is the advantage of using stored procedures?",
+                "answers": ["advantages of stored procedures", "What are the advantages of stored procedures?"],
+                "explanation": "Stored procedures can improve performance, provide security, and reduce network traffic."
+            },
+            "300": {
+                "question": "What is a trigger in SQL?",
+                "answers": ["trigger", "What is a trigger?"],
+                "explanation": "A trigger is a set of instructions that are automatically executed in response to certain events on a particular table or view."
+            },
+            "400": {
+                "question": "What is a user-defined function (UDF)?",
+                "answers": ["user-defined function", "UDF", "What is a user-defined function?", "What is a UDF?"],
+                "explanation": "A user-defined function (UDF) is a function provided by the user to apply in a SQL query."
+            },
+            "500": {
+                "question": "What is the difference between a stored procedure and a function?",
+                "answers": ["difference between stored procedure and function", "What is the difference between a stored procedure and a function?"],
+                "explanation": "A stored procedure can perform actions such as inserting and updating data, while a function is used to compute and return a value."
+            }
+        },
+        "24": {
+            "100": {
+                "question": "What is SQL injection?",
+                "answers": ["SQL injection", "What is SQL injection?"],
+                "explanation": "SQL injection is a code injection technique that might destroy your database."
+            },
+            "200": {
+                "question": "How can you prevent SQL injection?",
+                "answers": ["prevent SQL injection", "What are the ways to prevent SQL injection?"],
+                "explanation": "You can prevent SQL injection by using prepared statements, parameterized queries, and stored procedures."
+            },
+            "300": {
+                "question": "What is database encryption?",
+                "answers": ["database encryption", "What is database encryption?"],
+                "explanation": "Database encryption is the process of converting data into a cipher to prevent unauthorized access."
+            },
+            "400": {
+                "question": "What is role-based access control (RBAC)?",
+                "answers": ["role-based access control", "RBAC", "What is role-based access control?", "What is RBAC?"],
+                "explanation": "Role-based access control (RBAC) restricts database access based on the roles of individual users within an enterprise."
+            },
+            "500": {
+                "question": "What is database auditing?",
+                "answers": ["database auditing", "What is database auditing?"],
+                "explanation": "Database auditing is the process of tracking database activities to ensure security and compliance."
+            }
+        }
+    }
+}

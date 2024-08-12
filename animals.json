@@ -1,0 +1,174 @@
+{
+    "categories": [
+        { "id": 7, "name": "Animal Adaptations" },
+        { "id": 8, "name": "Marine Life" },
+        { "id": 9, "name": "Endangered Species" },
+        { "id": 10, "name": "Animal Superlatives" },
+        { "id": 11, "name": "Prehistoric Beasts" },
+        { "id": 12, "name": "Mythical Creatures" }
+    ],
+    "questions": {
+        "7": {
+            "100": {
+                "question": "This desert animal can survive without water for long periods by absorbing moisture from the food it eats.",
+                "answers": ["camel", "a camel", "dromedary"],
+                "explanation": "Camels can survive without water for long periods by storing fat in their humps and obtaining moisture from the food they eat."
+            },
+            "200": {
+                "question": "This Arctic animal has a thick layer of blubber and a dense coat of fur to insulate it from freezing temperatures.",
+                "answers": ["polar bear", "a polar bear", "ursus maritimus"],
+                "explanation": "Polar bears have a thick layer of blubber and dense fur to insulate them from the cold Arctic temperatures."
+            },
+            "300": {
+                "question": "This bird, known for its long migrations, has a special tendon that allows it to sleep while perched without falling.",
+                "answers": ["swift", "a swift"],
+                "explanation": "Swifts have a special tendon in their legs that allows them to lock their toes around a perch, enabling them to sleep without falling."
+            },
+            "400": {
+                "question": "These reptiles can change the color of their skin to blend in with their surroundings or communicate with others.",
+                "answers": ["chameleons", "chameleon", "lizard", "reptile"],
+                "explanation": "Chameleons can change the color of their skin using specialized cells called chromatophores to blend in with their environment or communicate with other chameleons."
+            },
+            "500": {
+                "question": "This fish can inflate its body to appear larger and ward off predators, thanks to its expandable stomach.",
+                "answers": ["pufferfish", "puffer fish", "blowfish", "a pufferfish"],
+                "explanation": "Pufferfish can inflate their bodies by swallowing water or air, making them appear larger and more intimidating to predators."
+            }
+        },
+        "8": {
+            "100": {
+                "question": "This large marine mammal is known for its complex songs that can travel great distances through the ocean.",
+                "answers": ["humpback whale", "a humpback whale", "megaptera novaeangliae"],
+                "explanation": "Humpback whales are known for their long, complex songs, which they use to communicate with each other over great distances in the ocean."
+            },
+            "200": {
+                "question": "These tiny marine organisms are responsible for producing over half of the world’s oxygen through photosynthesis.",
+                "answers": ["phytoplankton", "plankton", "microalgae"],
+                "explanation": "Phytoplankton are microscopic marine organisms that produce more than half of the world's oxygen through the process of photosynthesis."
+            },
+            "300": {
+                "question": "This highly intelligent cephalopod is known for its ability to change color and shape to blend into its surroundings.",
+                "answers": ["octopus", "an octopus", "cephalopod"],
+                "explanation": "Octopuses are highly intelligent cephalopods that can change color and texture to blend into their surroundings, thanks to specialized cells called chromatophores."
+            },
+            "400": {
+                "question": "This ocean predator has been around for over 400 million years and has a highly developed sense of smell.",
+                "answers": ["shark", "a shark", "selachimorpha"],
+                "explanation": "Sharks have been around for over 400 million years and possess a highly developed sense of smell, allowing them to detect prey from miles away."
+            },
+            "500": {
+                "question": "This marine mammal uses echolocation to navigate and hunt in the dark depths of the ocean.",
+                "answers": ["dolphin", "a dolphin", "cetacea"],
+                "explanation": "Dolphins use echolocation, emitting sounds and listening for the echoes, to navigate and hunt for prey in the dark depths of the ocean."
+            }
+        },
+        "9": {
+            "100": {
+                "question": "This large mammal, native to Africa and Asia, is threatened by habitat loss and poaching for its ivory tusks.",
+                "answers": ["elephant", "an elephant", "loxodonta", "elephas"],
+                "explanation": "Elephants are threatened by habitat loss and poaching for their ivory tusks, which are highly valued on the black market."
+            },
+            "200": {
+                "question": "This critically endangered marine reptile is known for its distinctive shell and migratory patterns across oceans.",
+                "answers": ["leatherback sea turtle", "a leatherback sea turtle", "dermochelys coriacea"],
+                "explanation": "Leatherback sea turtles are critically endangered and known for their distinctive shells and long migratory patterns across the oceans."
+            },
+            "300": {
+                "question": "This small primate, native to Southeast Asia, is at risk due to deforestation and the illegal pet trade.",
+                "answers": ["slow loris", "a slow loris", "nycticebus"],
+                "explanation": "Slow lorises are small primates native to Southeast Asia that are at risk due to habitat loss from deforestation and capture for the illegal pet trade."
+            },
+            "400": {
+                "question": "This North American species of big cat is endangered due to habitat fragmentation and loss of prey.",
+                "answers": ["florida panther", "a florida panther", "puma concolor coryi"],
+                "explanation": "The Florida panther, a North American big cat, is endangered primarily due to habitat fragmentation and loss of prey."
+            },
+            "500": {
+                "question": "This iconic Australian marsupial is threatened by climate change and the loss of eucalyptus forests.",
+                "answers": ["koala", "a koala", "phascolarctos cinereus"],
+                "explanation": "Koalas, iconic Australian marsupials, are threatened by climate change and the loss of eucalyptus forests, which are their primary food source."
+            }
+        },
+        "10": {
+            "100": {
+                "question": "This animal holds the title for the fastest land speed, reaching up to 75 mph during a sprint.",
+                "answers": ["cheetah", "a cheetah", "acinonyx jubatus"],
+                "explanation": "Cheetahs are the fastest land animals, capable of reaching speeds up to 75 mph during short sprints."
+            },
+            "200": {
+                "question": "This bird has the largest wingspan of any living species, reaching up to 11 feet.",
+                "answers": ["albatross", "an albatross", "diomedeidae"],
+                "explanation": "Albatrosses have the largest wingspan of any living bird species, reaching up to 11 feet, which helps them glide long distances over the ocean."
+            },
+            "300": {
+                "question": "This massive creature is known as the largest animal to have ever lived on Earth.",
+                "answers": ["blue whale", "a blue whale", "balaenoptera musculus"],
+                "explanation": "The blue whale is the largest animal to have ever lived on Earth, with some individuals reaching lengths of over 100 feet."
+            },
+            "400": {
+                "question": "This insect is considered the strongest in terms of lifting capacity, able to lift 850 times its own body weight.",
+                "answers": ["dung beetle", "a dung beetle", "scarabaeidae"],
+                "explanation": "Dung beetles are considered the strongest insects, capable of lifting and transporting loads that are 850 times their own body weight."
+            },
+            "500": {
+                "question": "This small mammal is known for having the longest hibernation period, sleeping for up to 11 months of the year.",
+                "answers": ["edible dormouse", "an edible dormouse", "glis glis"],
+                "explanation": "The edible dormouse has the longest hibernation period of any known mammal, sleeping for up to 11 months each year."
+            }
+        },
+        "11": {
+            "100": {
+                "question": "This dinosaur, known for its three horns and frilled neck, was a herbivore from the late Cretaceous period.",
+                "answers": ["triceratops", "a triceratops", "triceratops horridus"],
+                "explanation": "Triceratops, a herbivorous dinosaur from the late Cretaceous period, is known for its three facial horns and large frilled neck."
+            },
+            "200": {
+                "question": "This prehistoric marine reptile was known for its large size and predatory nature, often referred to as the \"T. rex of the sea.\"",
+                "answers": ["mosasaurus", "a mosasaurus"],
+                "explanation": "Mosasaurus was a large, predatory marine reptile from the late Cretaceous period, often referred to as the 'T. rex of the sea.'"
+            },
+            "300": {
+                "question": "This feathered dinosaur, often considered a link between birds and dinosaurs, could likely glide short distances.",
+                "answers": ["archaeopteryx", "an archaeopteryx"],
+                "explanation": "Archaeopteryx is a feathered dinosaur that is considered a link between birds and dinosaurs and was likely capable of gliding short distances."
+            },
+            "400": {
+                "question": "This large, long-necked dinosaur was one of the heaviest creatures to roam the Earth during the Jurassic period.",
+                "answers": ["brachiosaurus", "a brachiosaurus"],
+                "explanation": "Brachiosaurus was a large, long-necked dinosaur from the Jurassic period and one of the heaviest creatures to ever roam the Earth."
+            },
+            "500": {
+                "question": "This carnivorous dinosaur is famous for its fearsome appearance and was one of the largest terrestrial predators.",
+                "answers": ["tyrannosaurus rex", "t-rex", "a tyrannosaurus rex"],
+                "explanation": "Tyrannosaurus rex, commonly known as T. rex, was one of the largest and most fearsome terrestrial predators of the late Cretaceous period."
+            }
+        },
+        "12": {
+            "100": {
+                "question": "This legendary bird is said to rise from its ashes, symbolizing rebirth and immortality in many cultures.",
+                "answers": ["phoenix", "a phoenix"],
+                "explanation": "The phoenix is a mythical bird that symbolizes rebirth and immortality, as it is said to rise from its ashes after burning itself."
+            },
+            "200": {
+                "question": "This serpent-like sea monster is known from Norse mythology as the beast that encircles the world.",
+                "answers": ["jormungandr", "the midgard serpent", "midgard serpent"],
+                "explanation": "Jörmungandr, also known as the Midgard Serpent, is a serpent-like sea monster in Norse mythology that is said to encircle the world."
+            },
+            "300": {
+                "question": "This mythical creature is often depicted as a horse with a single spiraling horn on its forehead.",
+                "answers": ["unicorn", "a unicorn"],
+                "explanation": "The unicorn is a mythical creature typically depicted as a horse with a single spiraling horn on its forehead, symbolizing purity and grace."
+            },
+            "400": {
+                "question": "This fire-breathing creature from Western mythology is often portrayed as a large winged reptile.",
+                "answers": ["dragon", "a dragon"],
+                "explanation": "Dragons are mythical creatures from Western mythology, often portrayed as large winged reptiles capable of breathing fire."
+            },
+            "500": {
+                "question": "This half-man, half-bull creature from Greek mythology was said to reside in the Labyrinth.",
+                "answers": ["minotaur", "the minotaur"],
+                "explanation": "The Minotaur is a creature from Greek mythology with the body of a man and the head of a bull, said to reside in the Labyrinth on Crete."
+            }
+        }
+    }
+}

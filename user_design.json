@@ -1,0 +1,174 @@
+{
+    "categories": [
+        { "id": 7, "name": "User Research" },
+        { "id": 8, "name": "Information Architecture" },
+        { "id": 9, "name": "Interaction Design" },
+        { "id": 10, "name": "Visual Design" },
+        { "id": 11, "name": "Usability Principles" },
+        { "id": 12, "name": "Design Thinking" }
+    ],
+    "questions": {
+        "7": {
+            "100": {
+                "question": "What is the process of collecting data about users’ needs, behaviors, and motivations?",
+                "answers": ["user research", "What is user research?"],
+                "explanation": "User research involves gathering qualitative and quantitative data about users to inform design decisions. It helps designers understand the target audience and their requirements."
+            },
+            "200": {
+                "question": "Which method involves observing users in their natural environment to understand their behavior?",
+                "answers": ["ethnographic research", "What is ethnographic research?"],
+                "explanation": "Ethnographic research involves immersing in the user's environment to observe and understand their behaviors, interactions, and experiences in real-life contexts."
+            },
+            "300": {
+                "question": "What is a common qualitative research method involving direct interaction with users to gather insights?",
+                "answers": ["user interviews", "What are user interviews?"],
+                "explanation": "User interviews are one-on-one conversations with users to gather in-depth information about their experiences, needs, and pain points."
+            },
+            "400": {
+                "question": "Which technique uses a set of questions to gather information from a large number of users?",
+                "answers": ["survey", "What is a survey?"],
+                "explanation": "Surveys use structured questionnaires to collect data from many users. They are useful for gathering quantitative data and identifying trends and patterns."
+            },
+            "500": {
+                "question": "What method involves watching users interact with a product to identify usability issues?",
+                "answers": ["usability testing", "What is usability testing?"],
+                "explanation": "Usability testing involves observing users as they complete tasks using a product. It helps identify usability problems and areas for improvement."
+            }
+        },
+        "8": {
+            "100": {
+                "question": "What is the practice of structuring and organizing information in a product or website?",
+                "answers": ["information architecture", "What is information architecture?"],
+                "explanation": "Information architecture (IA) is the process of organizing and structuring content to make it understandable and easy to navigate for users."
+            },
+            "200": {
+                "question": "What is a visual representation of the structure of a website, showing the hierarchy and relationships between pages?",
+                "answers": ["sitemap", "What is a sitemap?"],
+                "explanation": "A sitemap is a diagram that outlines the organization of a website, showing how different pages are interconnected and structured."
+            },
+            "300": {
+                "question": "Which method involves organizing content into categories that make sense to users?",
+                "answers": ["card sorting", "What is card sorting?"],
+                "explanation": "Card sorting is a technique used to help design or evaluate the information architecture of a site by having users group content into categories that make sense to them."
+            },
+            "400": {
+                "question": "What is the term for the main categories or sections of a website?",
+                "answers": ["top-level navigation items", "What are top-level navigation items?"],
+                "explanation": "Top-level navigation items are the primary categories or sections in a website's navigation menu, helping users access the main areas of the site."
+            },
+            "500": {
+                "question": "Which document outlines the major components of a site and their relationships to one another?",
+                "answers": ["site map", "blueprint", "What is a site map?", "What is a blueprint?"],
+                "explanation": "A site map or blueprint provides a detailed overview of the site's structure, showing the relationships between different sections and pages."
+            }
+        },
+        "9": {
+            "100": {
+                "question": "What is the design of the interactive elements of a product, such as buttons, forms, and menus?",
+                "answers": ["interaction design", "What is interaction design?"],
+                "explanation": "Interaction design focuses on creating engaging interfaces with well-thought-out behaviors. It defines how users interact with products and how products respond to user actions."
+            },
+            "200": {
+                "question": "What is the term for the small visual cues that help users understand what actions are possible?",
+                "answers": ["affordances", "What are affordances?"],
+                "explanation": "Affordances are design elements that indicate how an object should be used. For example, a button affords clicking, and a slider affords dragging."
+            },
+            "300": {
+                "question": "Which principle refers to the responsiveness of a system to user input?",
+                "answers": ["feedback", "What is feedback?"],
+                "explanation": "Feedback is the information returned to the user about what action has been done and what has been accomplished, ensuring the user that the system is responding to their input."
+            },
+            "400": {
+                "question": "What is the term for designing interactive elements to be consistent across different parts of a product?",
+                "answers": ["consistency", "What is consistency?"],
+                "explanation": "Consistency in design ensures that similar elements behave in similar ways, helping users learn and predict how to use the interface effectively."
+            },
+            "500": {
+                "question": "What type of design pattern helps guide users through tasks step by step?",
+                "answers": ["wizard", "guided interaction", "What is a wizard?", "What is guided interaction?"],
+                "explanation": "Wizards or guided interactions break down complex tasks into smaller, manageable steps, guiding users through the process and reducing cognitive load."
+            }
+        },
+        "10": {
+            "100": {
+                "question": "What is the arrangement and presentation of elements like text, images, and buttons on a screen?",
+                "answers": ["layout", "What is layout?"],
+                "explanation": "Layout refers to the structured arrangement of visual elements on a screen. Good layout design enhances usability and guides the user's eye through the content."
+            },
+            "200": {
+                "question": "What principle involves ensuring that text is easy to read through the use of appropriate fonts, sizes, and spacing?",
+                "answers": ["typography", "What is typography?"],
+                "explanation": "Typography is the art and technique of arranging type to make written language legible, readable, and visually appealing."
+            },
+            "300": {
+                "question": "What design principle uses contrasting colors to highlight important elements and guide user attention?",
+                "answers": ["contrast", "What is contrast?"],
+                "explanation": "Contrast in design refers to the difference in visual properties that makes an object distinguishable from other objects and the background, aiding in the visual hierarchy."
+            },
+            "400": {
+                "question": "Which principle refers to the balance and harmony of visual elements on a screen?",
+                "answers": ["visual hierarchy", "What is visual hierarchy?"],
+                "explanation": "Visual hierarchy is the arrangement of elements in a way that implies importance, guiding the user’s eye to what is most important first."
+            },
+            "500": {
+                "question": "What is the term for a cohesive set of visual elements and guidelines used across a product?",
+                "answers": ["design system", "style guide", "What is a design system?", "What is a style guide?"],
+                "explanation": "A design system or style guide provides a consistent visual language across a product, ensuring that elements are used consistently to create a cohesive user experience."
+            }
+        },
+        "11": {
+            "100": {
+                "question": "What principle refers to the ease with which users can complete tasks and achieve goals using a product?",
+                "answers": ["usability", "What is usability?"],
+                "explanation": "Usability is a measure of how well a product allows users to accomplish their goals efficiently, effectively, and satisfactorily."
+            },
+            "200": {
+                "question": "Which principle states that users should be able to learn how to use a product quickly and easily?",
+                "answers": ["learnability", "What is learnability?"],
+                "explanation": "Learnability refers to how easy it is for users to begin using a product and quickly become proficient with it."
+            },
+            "300": {
+                "question": "What is the term for the practice of designing interfaces that minimize user errors and make recovery from errors easy?",
+                "answers": ["error prevention and recovery", "What is error prevention and recovery?"],
+                "explanation": "Error prevention and recovery involve designing interfaces that prevent errors from occurring and provide clear instructions and options for recovery if errors do happen."
+            },
+            "400": {
+                "question": "What principle involves designing products that are intuitive and easy to use for people with varying abilities and disabilities?",
+                "answers": ["accessibility", "What is accessibility?"],
+                "explanation": "Accessibility ensures that products are usable by people with disabilities, providing equal access and opportunities to use the product effectively."
+            },
+            "500": {
+                "question": "Which principle refers to the ability of a user interface to remain consistent and predictable across different parts of the product?",
+                "answers": ["consistency", "What is consistency?"],
+                "explanation": "Consistency in UI design helps users build a mental model of the system, making it easier to learn and use by providing predictable interactions."
+            }
+        },
+        "12": {
+            "100": {
+                "question": "What is the first phase in the design thinking process, focusing on understanding the user and their needs?",
+                "answers": ["empathize", "What is empathize?"],
+                "explanation": "The empathize phase involves gaining a deep understanding of the user's needs, experiences, and challenges through research and observation."
+            },
+            "200": {
+                "question": "What term describes generating a wide range of ideas in a short amount of time without judgment or evaluation?",
+                "answers": ["brainstorming", "What is brainstorming?"],
+                "explanation": "Brainstorming is a technique used to encourage creative thinking and the generation of diverse ideas without immediate criticism or analysis."
+            },
+            "300": {
+                "question": "What is the phase in the design thinking process where solutions are tested with real users to gather feedback and make improvements?",
+                "answers": ["prototyping", "What is prototyping?"],
+                "explanation": "Prototyping involves creating low-fidelity versions of solutions to test and refine ideas based on user feedback and interaction."
+            },
+            "400": {
+                "question": "Which phase in the design thinking process focuses on defining the core problem to be addressed based on user insights?",
+                "answers": ["define", "What is define?"],
+                "explanation": "The define phase synthesizes research findings to identify the key problem that the design will aim to solve, providing a clear focus for ideation."
+            },
+            "500": {
+                "question": "What term refers to the iterative process of making continuous improvements based on user feedback and testing?",
+                "answers": ["iteration", "What is iteration?"],
+                "explanation": "Iteration is the practice of repeatedly refining and enhancing a design by incorporating feedback from testing and user interactions to achieve better results."
+            }
+        }
+    }
+}
