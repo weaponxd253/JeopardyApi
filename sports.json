@@ -1,0 +1,174 @@
+{
+    "categories": [
+        { "id": 19, "name": "NFL" },
+        { "id": 20, "name": "NBA" },
+        { "id": 21, "name": "UFC" },
+        { "id": 22, "name": "MLB" },
+        { "id": 23, "name": "MLS" },
+        { "id": 24, "name": "Boxing" }
+    ],
+    "questions": {
+        "19": {
+            "100": {
+                "question": "This quarterback has won the most Super Bowls in NFL history.",
+                "answers": ["Tom Brady", "Who is Tom Brady?"],
+                "explanation": "Tom Brady holds the record for the most Super Bowl wins."
+            },
+            "200": {
+                "question": "This NFL team is known as 'America’s Team.'",
+                "answers": ["Dallas Cowboys", "Who are the Dallas Cowboys?"],
+                "explanation": "The Dallas Cowboys are often referred to as 'America's Team'."
+            },
+            "300": {
+                "question": "This player holds the record for the most career rushing yards in NFL history.",
+                "answers": ["Emmitt Smith", "Who is Emmitt Smith?"],
+                "explanation": "Emmitt Smith holds the NFL record for the most career rushing yards."
+            },
+            "400": {
+                "question": "The 'Immaculate Reception' is a famous play involving this NFL team.",
+                "answers": ["Pittsburgh Steelers", "Who are the Pittsburgh Steelers?"],
+                "explanation": "The Pittsburgh Steelers were part of the 'Immaculate Reception' play."
+            },
+            "500": {
+                "question": "This is the only NFL team to go undefeated and win the Super Bowl.",
+                "answers": ["1972 Miami Dolphins", "Who are the 1972 Miami Dolphins?"],
+                "explanation": "The 1972 Miami Dolphins are the only NFL team to have a perfect season and win the Super Bowl."
+            }
+        },
+        "20": {
+            "100": {
+                "question": "This player is known for his famous 'Skyhook' shot.",
+                "answers": ["Kareem Abdul-Jabbar", "Who is Kareem Abdul-Jabbar?"],
+                "explanation": "Kareem Abdul-Jabbar is famous for his 'Skyhook' shot."
+            },
+            "200": {
+                "question": "This team holds the record for the most NBA championships.",
+                "answers": ["Boston Celtics", "Who are the Boston Celtics?"],
+                "explanation": "The Boston Celtics hold the record for the most NBA championships."
+            },
+            "300": {
+                "question": "This player scored 100 points in a single NBA game.",
+                "answers": ["Wilt Chamberlain", "Who is Wilt Chamberlain?"],
+                "explanation": "Wilt Chamberlain scored 100 points in a single NBA game."
+            },
+            "400": {
+                "question": "This team drafted Michael Jordan in 1984.",
+                "answers": ["Chicago Bulls", "Who are the Chicago Bulls?"],
+                "explanation": "The Chicago Bulls drafted Michael Jordan in 1984."
+            },
+            "500": {
+                "question": "The 'Malice at the Palace' occurred during a game between the Indiana Pacers and this team.",
+                "answers": ["Detroit Pistons", "Who are the Detroit Pistons?"],
+                "explanation": "The 'Malice at the Palace' was a famous brawl during a game between the Pacers and the Pistons."
+            }
+        },
+        "21": {
+            "100": {
+                "question": "This fighter was the first to hold UFC titles in two different weight classes simultaneously.",
+                "answers": ["Conor McGregor", "Who is Conor McGregor?"],
+                "explanation": "Conor McGregor was the first UFC fighter to hold titles in two weight classes simultaneously."
+            },
+            "200": {
+                "question": "This Brazilian fighter is regarded as one of the greatest MMA fighters, holding a 16-fight win streak in the UFC.",
+                "answers": ["Anderson Silva", "Who is Anderson Silva?"],
+                "explanation": "Anderson Silva is regarded as one of the greatest MMA fighters, with a 16-fight win streak in the UFC."
+            },
+            "300": {
+                "question": "The UFC's first event took place in this year.",
+                "answers": ["1993", "What is 1993?"],
+                "explanation": "The UFC's first event took place in 1993."
+            },
+            "400": {
+                "question": "This fighter is known as 'The Last Stylebender.'",
+                "answers": ["Israel Adesanya", "Who is Israel Adesanya?"],
+                "explanation": "Israel Adesanya is known as 'The Last Stylebender.'"
+            },
+            "500": {
+                "question": "This UFC fighter was nicknamed 'Bones.'",
+                "answers": ["Jon Jones", "Who is Jon Jones?"],
+                "explanation": "Jon Jones is known by the nickname 'Bones.'"
+            }
+        },
+        "22": {
+            "100": {
+                "question": "This team has won the most World Series titles.",
+                "answers": ["New York Yankees", "Who are the New York Yankees?"],
+                "explanation": "The New York Yankees hold the record for the most World Series titles."
+            },
+            "200": {
+                "question": "This player holds the record for the most career home runs in MLB history.",
+                "answers": ["Barry Bonds", "Who is Barry Bonds?"],
+                "explanation": "Barry Bonds holds the MLB record for most career home runs."
+            },
+            "300": {
+                "question": "This MLB team was famously cursed by the 'Curse of the Bambino.'",
+                "answers": ["Boston Red Sox", "Who are the Boston Red Sox?"],
+                "explanation": "The Boston Red Sox were famously cursed by the 'Curse of the Bambino.'"
+            },
+            "400": {
+                "question": "This pitcher threw a perfect game in Game 5 of the 1956 World Series.",
+                "answers": ["Don Larsen", "Who is Don Larsen?"],
+                "explanation": "Don Larsen pitched a perfect game in the 1956 World Series."
+            },
+            "500": {
+                "question": "This player earned the nickname 'Mr. October' for his postseason heroics.",
+                "answers": ["Reggie Jackson", "Who is Reggie Jackson?"],
+                "explanation": "Reggie Jackson was nicknamed 'Mr. October' for his postseason performances."
+            }
+        },
+        "23": {
+            "100": {
+                "question": "This team won the first-ever MLS Cup in 1996.",
+                "answers": ["D.C. United", "Who are D.C. United?"],
+                "explanation": "D.C. United won the first MLS Cup in 1996."
+            },
+            "200": {
+                "question": "This player is the all-time leading goal scorer in MLS history.",
+                "answers": ["Chris Wondolowski", "Who is Chris Wondolowski?"],
+                "explanation": "Chris Wondolowski is the all-time leading goal scorer in MLS history."
+            },
+            "300": {
+                "question": "The MLS expansion team Inter Miami CF was co-owned by this former soccer star.",
+                "answers": ["David Beckham", "Who is David Beckham?"],
+                "explanation": "David Beckham is a co-owner of Inter Miami CF."
+            },
+            "400": {
+                "question": "This MLS team is nicknamed 'The Sounders.'",
+                "answers": ["Seattle Sounders FC", "Who are the Seattle Sounders FC?"],
+                "explanation": "Seattle Sounders FC are known as 'The Sounders.'"
+            },
+            "500": {
+                "question": "This MLS club won the league’s first Supporters' Shield.",
+                "answers": ["LA Galaxy", "Who are the LA Galaxy?"],
+                "explanation": "The LA Galaxy won the league’s first Supporters' Shield."
+            }
+        },
+        "24": {
+            "100": {
+                "question": "This boxer was nicknamed 'The Greatest' and became a global icon for his achievements and activism.",
+                "answers": ["Muhammad Ali", "Who is Muhammad Ali?"],
+                "explanation": "Muhammad Ali, also known as 'The Greatest,' became a global icon for his achievements in boxing and his activism."
+            },
+            "200": {
+                "question": "This fighter was known as 'Iron' and became the youngest heavyweight champion in boxing history.",
+                "answers": ["Mike Tyson", "Who is Mike Tyson?"],
+                "explanation": "Mike Tyson became the youngest heavyweight champion in boxing history and was known as 'Iron Mike.'"
+            },
+            "300": {
+                "question": "This Filipino boxer is the only fighter in history to win world titles in eight different weight divisions.",
+                "answers": ["Manny Pacquiao", "Who is Manny Pacquiao?"],
+                "explanation": "Manny Pacquiao is the only fighter to win titles in eight weight divisions."
+            },
+            "400": {
+                "question": "This match between Ali and Frazier was famously dubbed the 'Fight of the Century.'",
+                "answers": ["Ali-Frazier I", "What is the Ali-Frazier I?"],
+                "explanation": "The match between Muhammad Ali and Joe Frazier, known as 'Ali-Frazier I,' was dubbed the 'Fight of the Century.'"
+            },
+            "500": {
+                "question": "This legendary fighter was the first to defeat Muhammad Ali.",
+                "answers": ["Joe Frazier", "Who is Joe Frazier?"],
+                "explanation": "Joe Frazier was the first boxer to defeat Muhammad Ali."
+            }
+        }
+    }
+}
