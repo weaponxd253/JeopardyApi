@@ -1,0 +1,174 @@
+{
+    "categories": [
+        { "id": 1, "name": "Nintendo Classics" },
+        { "id": 2, "name": "PlayStation Powerhouse" },
+        { "id": 3, "name": "Xbox Exclusives" },
+        { "id": 4, "name": "Sega Legends" },
+        { "id": 5, "name": "PC Master Race" },
+        { "id": 6, "name": "Handheld Heroes" }
+    ],
+    "questions": {
+        "1": {
+            "100": {
+                "question": "Who is the main character in The Legend of Zelda series?",
+                "answers": ["Link"],
+                "explanation": "The main character of The Legend of Zelda is Link, a heroic adventurer."
+            },
+            "200": {
+                "question": "What year was the original Nintendo Entertainment System (NES) released in North America?",
+                "answers": ["1985"],
+                "explanation": "The NES was released in North America in 1985, marking the start of Nintendo's console success."
+            },
+            "300": {
+                "question": "Which game introduced the character Yoshi to the Mario series?",
+                "answers": ["Super Mario World"],
+                "explanation": "Yoshi was first introduced in the 1990 game Super Mario World for the SNES."
+            },
+            "400": {
+                "question": "What is the best-selling Nintendo game of all time?",
+                "answers": ["Wii Sports"],
+                "explanation": "Wii Sports, bundled with the Wii console, is the best-selling Nintendo game of all time."
+            },
+            "500": {
+                "question": "In Metroid, what is the true identity of the protagonist Samus Aran?",
+                "answers": ["A female bounty hunter"],
+                "explanation": "Samus Aran is revealed to be a female bounty hunter in the original Metroid."
+            }
+        },
+        "2": {
+            "100": {
+                "question": "Who is the main character in the God of War series?",
+                "answers": ["Kratos"],
+                "explanation": "Kratos, the protagonist of the God of War series, is a Spartan warrior."
+            },
+            "200": {
+                "question": "What is the name of the PlayStation mascot character who starred in a game trilogy in the late 1990s?",
+                "answers": ["Crash Bandicoot"],
+                "explanation": "Crash Bandicoot was Sony's unofficial mascot in the late 1990s."
+            },
+            "300": {
+                "question": "In what year was the PlayStation 2 released?",
+                "answers": ["2000"],
+                "explanation": "The PlayStation 2 was released in 2000 and became the best-selling console of all time."
+            },
+            "400": {
+                "question": "What was the first game developed by Naughty Dog for the PlayStation 3?",
+                "answers": ["Uncharted: Drake's Fortune"],
+                "explanation": "Uncharted: Drake's Fortune was the first game developed by Naughty Dog for the PS3."
+            },
+            "500": {
+                "question": "What was the codename for the original PlayStation before it launched?",
+                "answers": ["PSX"],
+                "explanation": "The original PlayStation was codenamed PSX during its development."
+            }
+        },
+        "3": {
+            "100": {
+                "question": "Which game series popularized the Xbox console with its multiplayer and first-person shooting elements?",
+                "answers": ["Halo"],
+                "explanation": "The Halo series helped make the Xbox popular with its groundbreaking multiplayer."
+            },
+            "200": {
+                "question": "What is the name of the AI companion in the Halo series?",
+                "answers": ["Cortana"],
+                "explanation": "Cortana is the AI companion to Master Chief in the Halo series."
+            },
+            "300": {
+                "question": "In Gears of War, what are the enemies called?",
+                "answers": ["The Locust Horde"],
+                "explanation": "The Locust Horde are the main enemies in the Gears of War series."
+            },
+            "400": {
+                "question": "What was the first Xbox console to introduce backwards compatibility with earlier Xbox games?",
+                "answers": ["Xbox 360"],
+                "explanation": "The Xbox 360 was the first Xbox console to offer backwards compatibility with original Xbox games."
+            },
+            "500": {
+                "question": "What game did Fable creator Peter Molyneux promise to revolutionize the gaming industry with, but it fell short of expectations?",
+                "answers": ["Fable"],
+                "explanation": "Fable was hyped by Peter Molyneux as a revolutionary game but didn't fully live up to its promise."
+            }
+        },
+        "4": {
+            "100": {
+                "question": "Who is Sega’s iconic mascot character?",
+                "answers": ["Sonic the Hedgehog"],
+                "explanation": "Sonic the Hedgehog is Sega’s iconic mascot and one of the fastest video game characters."
+            },
+            "200": {
+                "question": "What year was the Sega Genesis first released in North America?",
+                "answers": ["1989"],
+                "explanation": "The Sega Genesis debuted in North America in 1989, marking Sega's peak in the console wars."
+            },
+            "300": {
+                "question": "Which Sega console was the first to feature internet connectivity?",
+                "answers": ["Sega Dreamcast"],
+                "explanation": "The Sega Dreamcast was the first console to feature internet connectivity out of the box."
+            },
+            "400": {
+                "question": "What fighting game series was a launch title for the Sega Saturn?",
+                "answers": ["Virtua Fighter"],
+                "explanation": "Virtua Fighter was a revolutionary 3D fighting game and a launch title for the Sega Saturn."
+            },
+            "500": {
+                "question": "What was the name of Sega's final home console before exiting the hardware market?",
+                "answers": ["Dreamcast"],
+                "explanation": "The Dreamcast was Sega’s final home console before it became a third-party game developer."
+            }
+        },
+        "5": {
+            "100": {
+                "question": "What massively multiplayer online role-playing game (MMORPG) was developed by Blizzard Entertainment and launched in 2004?",
+                "answers": ["World of Warcraft"],
+                "explanation": "World of Warcraft launched in 2004 and became one of the most popular MMORPGs ever."
+            },
+            "200": {
+                "question": "What real-time strategy game series is known for the Terran, Zerg, and Protoss factions?",
+                "answers": ["StarCraft"],
+                "explanation": "StarCraft is a popular real-time strategy game with three distinct factions: Terran, Zerg, and Protoss."
+            },
+            "300": {
+                "question": "What game is considered the first battle royale game to achieve mainstream success?",
+                "answers": ["PlayerUnknown’s Battlegrounds (PUBG)"],
+                "explanation": "PUBG is considered the first battle royale game to achieve mainstream success."
+            },
+            "400": {
+                "question": "Which game development platform was originally created by Valve Corporation and has grown into the largest digital storefront for PC games?",
+                "answers": ["Steam"],
+                "explanation": "Steam, developed by Valve, is the largest digital storefront for PC games."
+            },
+            "500": {
+                "question": "What is the title of the game that started the popular Doom franchise, released in 1993?",
+                "answers": ["Doom"],
+                "explanation": "The original Doom, released in 1993, is widely considered one of the most influential first-person shooters."
+            }
+        },
+        "6": {
+            "100": {
+                "question": "What was the name of Nintendo’s first major handheld console, released in 1989?",
+                "answers": ["Game Boy"],
+                "explanation": "The Game Boy, released in 1989, was Nintendo’s first major handheld console."
+            },
+            "200": {
+                "question": "What was the successor to the Game Boy called, featuring a backlit screen and shoulder buttons?",
+                "answers": ["Game Boy Advance"],
+                "explanation": "The Game Boy Advance featured improved graphics, a backlit screen, and shoulder buttons."
+            },
+            "300": {
+                "question": "Which Sony handheld console competed directly with the Nintendo DS?",
+                "answers": ["PlayStation Portable (PSP)"],
+                "explanation": "The PlayStation Portable (PSP) was Sony’s first handheld console, competing with the Nintendo DS."
+            },
+            "400": {
+                "question": "What was the last mainline Pokémon game to be released on the Nintendo 3DS?",
+                "answers": ["Pokémon Ultra Sun and Ultra Moon"],
+                "explanation": "Pokémon Ultra Sun and Ultra Moon were the final mainline games for the Nintendo 3DS."
+            },
+            "500": {
+                "question": "What was the full title of the game that was considered the swan song of the PlayStation Vita, developed by DrinkBox Studios?",
+                "answers": ["Severed"],
+                "explanation": "Severed, developed by DrinkBox Studios, was considered the swan song for the PlayStation Vita."
+            }
+        }
+    }
+}

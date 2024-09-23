@@ -1,0 +1,174 @@
+{
+    "categories": [
+        { "id": 1, "name": "Anatomy & Physiology" },
+        { "id": 2, "name": "Nursing Fundamentals" },
+        { "id": 3, "name": "Medical Terminology" },
+        { "id": 4, "name": "Pharmacology Basics" },
+        { "id": 5, "name": "Infection Control" },
+        { "id": 6, "name": "Patient Communication" }
+    ],
+    "questions": {
+        "1": {
+            "100": {
+                "question": "What is the largest organ in the human body?",
+                "answers": ["The skin"],
+                "explanation": "The skin is the largest organ of the human body."
+            },
+            "200": {
+                "question": "What is the main function of the kidneys?",
+                "answers": ["To filter blood and produce urine"],
+                "explanation": "The kidneys filter blood to produce urine and maintain fluid balance."
+            },
+            "300": {
+                "question": "What is the name of the muscle responsible for breathing?",
+                "answers": ["The diaphragm"],
+                "explanation": "The diaphragm is the primary muscle involved in breathing."
+            },
+            "400": {
+                "question": "Which part of the brain is responsible for regulating balance and coordination?",
+                "answers": ["The cerebellum"],
+                "explanation": "The cerebellum controls balance and coordination in the human body."
+            },
+            "500": {
+                "question": "What hormone is produced by the adrenal glands in response to stress?",
+                "answers": ["Cortisol"],
+                "explanation": "Cortisol is a hormone released by the adrenal glands during stress."
+            }
+        },
+        "2": {
+            "100": {
+                "question": "What is the most common site for taking an adult's pulse?",
+                "answers": ["The radial artery"],
+                "explanation": "The radial artery at the wrist is the most common site for pulse checks."
+            },
+            "200": {
+                "question": "What does the acronym 'ADL' stand for in nursing?",
+                "answers": ["Activities of Daily Living"],
+                "explanation": "ADL stands for Activities of Daily Living, which include basic self-care tasks."
+            },
+            "300": {
+                "question": "What is the normal range for an adult's blood pressure?",
+                "answers": ["120/80 mmHg"],
+                "explanation": "The normal range for blood pressure in adults is around 120/80 mmHg."
+            },
+            "400": {
+                "question": "What type of wound healing is characterized by edges that are not approximated and require tissue growth to close?",
+                "answers": ["Secondary intention healing"],
+                "explanation": "Secondary intention healing occurs when wounds are left open to heal from the bottom up."
+            },
+            "500": {
+                "question": "What is the medical term for a temporary cessation of breathing?",
+                "answers": ["Apnea"],
+                "explanation": "Apnea refers to a temporary stoppage in breathing."
+            }
+        },
+        "3": {
+            "100": {
+                "question": "What does the prefix 'hypo-' mean in medical terminology?",
+                "answers": ["Below or under"],
+                "explanation": "'Hypo-' means below or under in medical terms."
+            },
+            "200": {
+                "question": "What is the meaning of the term 'tachycardia'?",
+                "answers": ["Fast or rapid heart rate"],
+                "explanation": "Tachycardia refers to an abnormally fast heart rate."
+            },
+            "300": {
+                "question": "What does the suffix '-ectomy' refer to in medical procedures?",
+                "answers": ["Surgical removal"],
+                "explanation": "'-ectomy' indicates the surgical removal of a body part."
+            },
+            "400": {
+                "question": "What does the term 'hematopoiesis' refer to?",
+                "answers": ["The production of blood cells"],
+                "explanation": "Hematopoiesis is the process of creating new blood cells in the body."
+            },
+            "500": {
+                "question": "What is the medical term for difficulty swallowing?",
+                "answers": ["Dysphagia"],
+                "explanation": "Dysphagia is the medical term for difficulty swallowing."
+            }
+        },
+        "4": {
+            "100": {
+                "question": "What is the most common route of medication administration?",
+                "answers": ["Oral"],
+                "explanation": "The oral route is the most common way to administer medication."
+            },
+            "200": {
+                "question": "What does PRN stand for in medication orders?",
+                "answers": ["As needed"],
+                "explanation": "PRN stands for 'pro re nata,' meaning 'as needed' in medication orders."
+            },
+            "300": {
+                "question": "What class of medications is commonly prescribed to lower blood pressure?",
+                "answers": ["Antihypertensives"],
+                "explanation": "Antihypertensives are medications prescribed to lower blood pressure."
+            },
+            "400": {
+                "question": "What is the antidote for an opioid overdose?",
+                "answers": ["Naloxone (Narcan)"],
+                "explanation": "Naloxone, also known as Narcan, is used to reverse opioid overdoses."
+            },
+            "500": {
+                "question": "What is the therapeutic range for digoxin levels in the blood?",
+                "answers": ["0.5 to 2.0 ng/mL"],
+                "explanation": "The therapeutic range for digoxin in the blood is 0.5 to 2.0 ng/mL."
+            }
+        },
+        "5": {
+            "100": {
+                "question": "What is the best way to prevent the spread of infection in a healthcare setting?",
+                "answers": ["Handwashing"],
+                "explanation": "Handwashing is the most effective way to prevent infection."
+            },
+            "200": {
+                "question": "What personal protective equipment (PPE) is required for contact precautions?",
+                "answers": ["Gloves and gown"],
+                "explanation": "Gloves and gowns are necessary PPE for contact precautions."
+            },
+            "300": {
+                "question": "What does the term 'aseptic technique' refer to?",
+                "answers": ["Practices used to prevent contamination from pathogens"],
+                "explanation": "Aseptic technique refers to procedures that prevent contamination by pathogens."
+            },
+            "400": {
+                "question": "What is the required time for hand hygiene using alcohol-based hand sanitizer?",
+                "answers": ["At least 20 seconds"],
+                "explanation": "Hand hygiene using alcohol-based sanitizer should last at least 20 seconds."
+            },
+            "500": {
+                "question": "What organism is responsible for causing tuberculosis?",
+                "answers": ["Mycobacterium tuberculosis"],
+                "explanation": "Tuberculosis is caused by the bacterium Mycobacterium tuberculosis."
+            }
+        },
+        "6": {
+            "100": {
+                "question": "What is the best way to ensure a patient understands instructions?",
+                "answers": ["Ask the patient to repeat the information back"],
+                "explanation": "Having a patient repeat information back ensures they understand instructions."
+            },
+            "200": {
+                "question": "What is the term for nonverbal communication through body language and facial expressions?",
+                "answers": ["Nonverbal cues"],
+                "explanation": "Nonverbal cues include body language and facial expressions in communication."
+            },
+            "300": {
+                "question": "What is the technique of using silence in therapeutic communication?",
+                "answers": ["Allowing the patient time to think and reflect"],
+                "explanation": "Using silence gives patients time to reflect and process information."
+            },
+            "400": {
+                "question": "What is active listening in the context of patient care?",
+                "answers": ["Fully concentrating, understanding, and responding"],
+                "explanation": "Active listening involves concentrating, understanding, and responding appropriately."
+            },
+            "500": {
+                "question": "What is cultural competence in nursing?",
+                "answers": ["The ability to understand and respect diverse cultural backgrounds"],
+                "explanation": "Cultural competence involves providing care that respects diverse cultural backgrounds."
+            }
+        }
+    }
+}
