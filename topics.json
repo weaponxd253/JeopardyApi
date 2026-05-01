@@ -7,5 +7,6 @@
   { "label": "SQL Developer",         "filename": "sql_developer"     },
   { "label": "Sports",                "filename": "sports"            },
   { "label": "Game Consoles",         "filename": "gamingConsoles"    },
-  { "label": "Licensed Practical Nurse", "filename": "lpn"           }
+  { "label": "Licensed Practical Nurse", "filename": "lpn"           },
+  { "label": "Pokemon", "filename": "pokemon"           }
 ]
