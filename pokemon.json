@@ -1,0 +1,312 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Types T/F"
+    },
+    {
+      "id": 2,
+      "name": "Evolutions T/F"
+    },
+    {
+      "id": 3,
+      "name": "Starters T/F"
+    },
+    {
+      "id": 4,
+      "name": "Legendaries T/F"
+    },
+    {
+      "id": 5,
+      "name": "Battle T/F"
+    },
+    {
+      "id": 6,
+      "name": "Pokémon Facts T/F"
+    }
+  ],
+  "questions": {
+    "1": {
+      "100": {
+        "question": "True or False: Fire-type moves are super effective against Grass-type Pokémon.",
+        "answers": [
+          "true",
+          "t",
+          "yes"
+        ],
+        "explanation": "Fire-type moves are super effective against Grass-type Pokémon."
+      },
+      "200": {
+        "question": "True or False: Electric-type moves are super effective against Ground-type Pokémon.",
+        "answers": [
+          "false",
+          "f",
+          "no"
+        ],
+        "explanation": "Ground-type Pokémon are immune to Electric-type moves."
+      },
+      "300": {
+        "question": "True or False: Water-type Pokémon are weak to Electric-type moves.",
+        "answers": [
+          "true",
+          "t",
+          "yes"
+        ],
+        "explanation": "Water-type Pokémon are weak to Electric-type attacks."
+      },
+      "400": {
+        "question": "True or False: Ghost-type moves have no effect on Normal-type Pokémon.",
+        "answers": [
+          "true",
+          "t",
+          "yes"
+        ],
+        "explanation": "Normal-type Pokémon are immune to Ghost-type moves."
+      },
+      "500": {
+        "question": "True or False: Fairy-type Pokémon are weak to Dragon-type moves.",
+        "answers": [
+          "false",
+          "f",
+          "no"
+        ],
+        "explanation": "Fairy-type Pokémon are immune to Dragon-type moves."
+      }
+    },
+    "2": {
+      "100": {
+        "question": "True or False: Pikachu evolves from Pichu.",
+        "answers": [
+          "true",
+          "t",
+          "yes"
+        ],
+        "explanation": "Pichu evolves into Pikachu."
+      },
+      "200": {
+        "question": "True or False: Charmander evolves directly into Charizard.",
+        "answers": [
+          "false",
+          "f",
+          "no"
+        ],
+        "explanation": "Charmander evolves into Charmeleon first, then Charmeleon evolves into Charizard."
+      },
+      "300": {
+        "question": "True or False: Eevee can evolve into multiple different Pokémon.",
+        "answers": [
+          "true",
+          "t",
+          "yes"
+        ],
+        "explanation": "Eevee can evolve into several different forms, commonly called Eeveelutions."
+      },
+      "400": {
+        "question": "True or False: Magneton can evolve into Magnezone.",
+        "answers": [
+          "true",
+          "t",
+          "yes"
+        ],
+        "explanation": "Magneton can evolve into Magnezone."
+      },
+      "500": {
+        "question": "True or False: Haunter normally evolves into Gengar just by leveling up.",
+        "answers": [
+          "false",
+          "f",
+          "no"
+        ],
+        "explanation": "Haunter traditionally evolves into Gengar by trading."
+      }
+    },
+    "3": {
+      "100": {
+        "question": "True or False: Bulbasaur is one of the original Kanto starter Pokémon.",
+        "answers": [
+          "true",
+          "t",
+          "yes"
+        ],
+        "explanation": "Bulbasaur is one of the original Kanto starters, along with Charmander and Squirtle."
+      },
+      "200": {
+        "question": "True or False: Squirtle is a Fire-type starter Pokémon.",
+        "answers": [
+          "false",
+          "f",
+          "no"
+        ],
+        "explanation": "Squirtle is a Water-type starter Pokémon."
+      },
+      "300": {
+        "question": "True or False: Torchic evolves into Combusken.",
+        "answers": [
+          "true",
+          "t",
+          "yes"
+        ],
+        "explanation": "Torchic evolves into Combusken, then Combusken evolves into Blaziken."
+      },
+      "400": {
+        "question": "True or False: Rowlet is a Grass/Flying-type starter Pokémon.",
+        "answers": [
+          "true",
+          "t",
+          "yes"
+        ],
+        "explanation": "Rowlet is a Grass/Flying-type starter Pokémon from the Alola region."
+      },
+      "500": {
+        "question": "True or False: Pikachu was one of the three starter choices in the original Pokémon Red and Blue games.",
+        "answers": [
+          "false",
+          "f",
+          "no"
+        ],
+        "explanation": "The original Red and Blue starter choices were Bulbasaur, Charmander, and Squirtle. Pikachu was the starter in Pokémon Yellow."
+      }
+    },
+    "4": {
+      "100": {
+        "question": "True or False: Mewtwo is considered a Legendary Pokémon.",
+        "answers": [
+          "true",
+          "t",
+          "yes"
+        ],
+        "explanation": "Mewtwo is one of the most well-known Legendary Pokémon."
+      },
+      "200": {
+        "question": "True or False: Lugia is the mascot Legendary Pokémon of Pokémon Gold.",
+        "answers": [
+          "false",
+          "f",
+          "no"
+        ],
+        "explanation": "Ho-Oh is the mascot of Pokémon Gold. Lugia is the mascot of Pokémon Silver."
+      },
+      "300": {
+        "question": "True or False: Rayquaza is strongly associated with the sky.",
+        "answers": [
+          "true",
+          "t",
+          "yes"
+        ],
+        "explanation": "Rayquaza is associated with the sky and appears above the world in the Hoenn region lore."
+      },
+      "400": {
+        "question": "True or False: Arceus is known as the Alpha Pokémon.",
+        "answers": [
+          "true",
+          "t",
+          "yes"
+        ],
+        "explanation": "Arceus is known as the Alpha Pokémon."
+      },
+      "500": {
+        "question": "True or False: Legendary Pokémon are always impossible to catch.",
+        "answers": [
+          "false",
+          "f",
+          "no"
+        ],
+        "explanation": "Many Legendary Pokémon can be caught in the games, although they are usually harder to obtain."
+      }
+    },
+    "5": {
+      "100": {
+        "question": "True or False: A Pokémon gets Same-Type Attack Bonus when it uses a move that matches one of its own types.",
+        "answers": [
+          "true",
+          "t",
+          "yes"
+        ],
+        "explanation": "This is commonly called STAB, which stands for Same-Type Attack Bonus."
+      },
+      "200": {
+        "question": "True or False: Critical hits always do less damage than normal attacks.",
+        "answers": [
+          "false",
+          "f",
+          "no"
+        ],
+        "explanation": "Critical hits usually do more damage than normal attacks."
+      },
+      "300": {
+        "question": "True or False: Paralysis can reduce a Pokémon's Speed.",
+        "answers": [
+          "true",
+          "t",
+          "yes"
+        ],
+        "explanation": "Paralysis can reduce Speed and may prevent the Pokémon from moving."
+      },
+      "400": {
+        "question": "True or False: Burn can reduce the damage of physical attacks.",
+        "answers": [
+          "true",
+          "t",
+          "yes"
+        ],
+        "explanation": "Burn can weaken physical attack damage."
+      },
+      "500": {
+        "question": "True or False: Held items can affect battle outcomes.",
+        "answers": [
+          "true",
+          "t",
+          "yes"
+        ],
+        "explanation": "Held items can heal, boost stats, trigger effects, or support different battle strategies."
+      }
+    },
+    "6": {
+      "100": {
+        "question": "True or False: The Pokédex records information about Pokémon.",
+        "answers": [
+          "true",
+          "t",
+          "yes"
+        ],
+        "explanation": "The Pokédex stores information about Pokémon species."
+      },
+      "200": {
+        "question": "True or False: Team Rocket is commonly associated with Jessie, James, and Meowth in the anime.",
+        "answers": [
+          "true",
+          "t",
+          "yes"
+        ],
+        "explanation": "Jessie, James, and Meowth are the well-known Team Rocket trio from the Pokémon anime."
+      },
+      "300": {
+        "question": "True or False: Magikarp is famous for using Splash.",
+        "answers": [
+          "true",
+          "t",
+          "yes"
+        ],
+        "explanation": "Magikarp is famously associated with the move Splash."
+      },
+      "400": {
+        "question": "True or False: Ditto can transform into other Pokémon.",
+        "answers": [
+          "true",
+          "t",
+          "yes"
+        ],
+        "explanation": "Ditto is known for transforming into other Pokémon."
+      },
+      "500": {
+        "question": "True or False: Pokémon was originally created in Japan.",
+        "answers": [
+          "true",
+          "t",
+          "yes"
+        ],
+        "explanation": "Pokémon originated in Japan."
+      }
+    }
+  }
+}
