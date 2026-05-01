@@ -1,0 +1,11 @@
+[
+  { "label": "Programming",            "filename": "programming"       },
+  { "label": "Animals",               "filename": "animals"           },
+  { "label": "Biology",               "filename": "biology"           },
+  { "label": "User Design",           "filename": "user_design"       },
+  { "label": "Basic IT",              "filename": "basic_it"          },
+  { "label": "SQL Developer",         "filename": "sql_developer"     },
+  { "label": "Sports",                "filename": "sports"            },
+  { "label": "Game Consoles",         "filename": "gamingConsoles"    },
+  { "label": "Licensed Practical Nurse", "filename": "lpn"           }
+]
