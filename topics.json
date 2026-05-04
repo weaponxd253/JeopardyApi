@@ -9,5 +9,12 @@
   { "label": "Biology",                  "filename": "biology",        "category": "Natural Science",  "icon": "🧬" },
   { "label": "Animals",                  "filename": "animals",        "category": "Natural Science",  "icon": "🦁" },
   { "label": "Licensed Practical Nurse", "filename": "lpn",            "category": "Health Sciences",  "icon": "🏥" },
-  { "label": "College Algebra", "filename": "college_algebra", "category": "Math", "icon": "📐" }
+  { "label": "College Algebra",          "filename": "college_algebra", "category": "Math", "icon": "📐" },
+  { "label": "Statistics",               "filename": "statistics", "category": "Math", "icon": "📊" },
+  { "label": "English Composition",      "filename": "english_composition", "category": "Humanities", "icon": "✍️" },
+{ "label": "Anatomy & Physiology",       "filename": "anatomy_physiology", "category": "Natural Science", "icon": "🫀" },
+{ "label": "Medical Terminology",        "filename": "medical_terminology", "category": "Health Sciences", "icon": "🩺" },
+{ "label": "Pharmacology",               "filename": "pharmacology", "category": "Health Sciences", "icon": "💊" },
+{ "label": "Psychology",                 "filename": "psychology", "category": "Social Science", "icon": "🧠" },
+{ "label": "Sociology",                  "filename": "sociology", "category": "Social Science", "icon": "👥" }
 ]
