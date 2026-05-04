@@ -1,12 +1,12 @@
 [
-  { "label": "Programming",            "filename": "programming"       },
-  { "label": "Animals",               "filename": "animals"           },
-  { "label": "Biology",               "filename": "biology"           },
-  { "label": "User Design",           "filename": "user_design"       },
-  { "label": "Basic IT",              "filename": "basic_it"          },
-  { "label": "SQL Developer",         "filename": "sql_developer"     },
-  { "label": "Sports",                "filename": "sports"            },
-  { "label": "Game Consoles",         "filename": "gamingConsoles"    },
-  { "label": "Licensed Practical Nurse", "filename": "lpn"           },
-  { "label": "Pokemon", "filename": "pokemon"           }
+  { "label": "Programming",              "filename": "programming",    "category": "Tech & CS",        "icon": "💻" },
+  { "label": "Basic IT",                 "filename": "basic_it",       "category": "Tech & CS",        "icon": "🖥️" },
+  { "label": "SQL Developer",            "filename": "sql_developer",  "category": "Tech & CS",        "icon": "🗄️" },
+  { "label": "User Design",              "filename": "user_design",    "category": "Tech & CS",        "icon": "🎨" },
+  { "label": "Game Consoles",            "filename": "gamingConsoles", "category": "Pop Culture",      "icon": "🎮" },
+  { "label": "Sports",                   "filename": "sports",         "category": "Pop Culture",      "icon": "🏆" },
+  { "label": "Pokemon",                  "filename": "pokemon",        "category": "Pop Culture",      "icon": "⚡" },
+  { "label": "Biology",                  "filename": "biology",        "category": "Natural Science",  "icon": "🧬" },
+  { "label": "Animals",                  "filename": "animals",        "category": "Natural Science",  "icon": "🦁" },
+  { "label": "Licensed Practical Nurse", "filename": "lpn",            "category": "Health Sciences",  "icon": "🏥" }
 ]
