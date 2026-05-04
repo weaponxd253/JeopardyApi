@@ -1,0 +1,331 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Linear Equations"
+        },
+        {
+            "id": 2,
+            "name": "Functions"
+        },
+        {
+            "id": 3,
+            "name": "Polynomials"
+        },
+        {
+            "id": 4,
+            "name": "Exponents & Radicals"
+        },
+        {
+            "id": 5,
+            "name": "Quadratics"
+        },
+        {
+            "id": 6,
+            "name": "Systems"
+        }
+    ],
+    "questions": {
+        "1": {
+            "100": {
+                "question": "This is the value of x in the equation x + 7 = 12.",
+                "answers": [
+                    "5",
+                    "What is 5?"
+                ],
+                "explanation": "Subtract 7 from both sides: x = 12 - 7 = 5."
+            },
+            "200": {
+                "question": "This is the value of x in the equation 3x = 21.",
+                "answers": [
+                    "7",
+                    "What is 7?"
+                ],
+                "explanation": "Divide both sides by 3: x = 21 / 3 = 7."
+            },
+            "300": {
+                "question": "This is the value of x in the equation 2x + 5 = 17.",
+                "answers": [
+                    "6",
+                    "What is 6?"
+                ],
+                "explanation": "Subtract 5 from both sides to get 2x = 12, then divide by 2 to get x = 6."
+            },
+            "400": {
+                "question": "This is the slope of the line y = 4x - 9.",
+                "answers": [
+                    "4",
+                    "What is 4?"
+                ],
+                "explanation": "In slope-intercept form y = mx + b, the slope is m. Here, m = 4."
+            },
+            "500": {
+                "question": "This is the y-intercept of the line y = -2x + 8.",
+                "answers": [
+                    "8",
+                    "What is 8?",
+                    "(0,8)",
+                    "(0, 8)",
+                    "What is (0,8)?",
+                    "What is (0, 8)?"
+                ],
+                "explanation": "In y = mx + b, the y-intercept is b. Here, b = 8, so the point is (0, 8)."
+            }
+        },
+        "2": {
+            "100": {
+                "question": "This notation is read as 'f of x.'",
+                "answers": [
+                    "f(x)",
+                    "What is f(x)?",
+                    "function notation",
+                    "What is function notation?"
+                ],
+                "explanation": "Function notation uses f(x) to represent the output of a function for the input x."
+            },
+            "200": {
+                "question": "This is f(3) if f(x) = x + 4.",
+                "answers": [
+                    "7",
+                    "What is 7?"
+                ],
+                "explanation": "Substitute 3 for x: f(3) = 3 + 4 = 7."
+            },
+            "300": {
+                "question": "This is the set of all possible input values of a function.",
+                "answers": [
+                    "domain",
+                    "What is domain?",
+                    "the domain",
+                    "What is the domain?"
+                ],
+                "explanation": "The domain is the set of all x-values that can be used as inputs."
+            },
+            "400": {
+                "question": "This is the set of all possible output values of a function.",
+                "answers": [
+                    "range",
+                    "What is range?",
+                    "the range",
+                    "What is the range?"
+                ],
+                "explanation": "The range is the set of all y-values or outputs produced by the function."
+            },
+            "500": {
+                "question": "This is f(2) if f(x) = 3x^2 - 1.",
+                "answers": [
+                    "11",
+                    "What is 11?"
+                ],
+                "explanation": "Substitute 2 for x: f(2) = 3(2^2) - 1 = 12 - 1 = 11."
+            }
+        },
+        "3": {
+            "100": {
+                "question": "This is the degree of the polynomial 5x^3 + 2x - 8.",
+                "answers": [
+                    "3",
+                    "What is 3?",
+                    "third degree",
+                    "What is third degree?"
+                ],
+                "explanation": "The degree of a polynomial is the highest exponent. The highest exponent here is 3."
+            },
+            "200": {
+                "question": "This is the result of combining like terms: 4x + 7x.",
+                "answers": [
+                    "11x",
+                    "What is 11x?"
+                ],
+                "explanation": "Add the coefficients: 4x + 7x = 11x."
+            },
+            "300": {
+                "question": "This is the product of x and x^4.",
+                "answers": [
+                    "x^5",
+                    "x5",
+                    "What is x^5?",
+                    "What is x5?"
+                ],
+                "explanation": "When multiplying powers with the same base, add the exponents: x^1 \u00b7 x^4 = x^5."
+            },
+            "400": {
+                "question": "This is the factored form of x^2 + 5x + 6.",
+                "answers": [
+                    "(x+2)(x+3)",
+                    "(x + 2)(x + 3)",
+                    "(x+3)(x+2)",
+                    "(x + 3)(x + 2)",
+                    "What is (x+2)(x+3)?",
+                    "What is (x + 2)(x + 3)?"
+                ],
+                "explanation": "Find two numbers that multiply to 6 and add to 5: 2 and 3."
+            },
+            "500": {
+                "question": "This is the expanded form of (x + 4)(x - 2).",
+                "answers": [
+                    "x^2+2x-8",
+                    "x^2 + 2x - 8",
+                    "x2+2x-8",
+                    "What is x^2 + 2x - 8?"
+                ],
+                "explanation": "Use FOIL: x^2 - 2x + 4x - 8 = x^2 + 2x - 8."
+            }
+        },
+        "4": {
+            "100": {
+                "question": "This is the simplified form of x^2 \u00b7 x^3.",
+                "answers": [
+                    "x^5",
+                    "x5",
+                    "What is x^5?",
+                    "What is x5?"
+                ],
+                "explanation": "When multiplying powers with the same base, add the exponents: 2 + 3 = 5."
+            },
+            "200": {
+                "question": "This is the simplified form of (x^2)^3.",
+                "answers": [
+                    "x^6",
+                    "x6",
+                    "What is x^6?",
+                    "What is x6?"
+                ],
+                "explanation": "When raising a power to a power, multiply the exponents: 2 \u00d7 3 = 6."
+            },
+            "300": {
+                "question": "This is the value of 2^4.",
+                "answers": [
+                    "16",
+                    "What is 16?"
+                ],
+                "explanation": "2^4 means 2 \u00d7 2 \u00d7 2 \u00d7 2, which equals 16."
+            },
+            "400": {
+                "question": "This is the square root of 81.",
+                "answers": [
+                    "9",
+                    "What is 9?"
+                ],
+                "explanation": "The square root of 81 is 9 because 9 \u00d7 9 = 81."
+            },
+            "500": {
+                "question": "This is the simplified form of sqrt(50).",
+                "answers": [
+                    "5sqrt(2)",
+                    "5 sqrt(2)",
+                    "5\u221a2",
+                    "5\u221a(2)",
+                    "What is 5sqrt(2)?",
+                    "What is 5\u221a2?"
+                ],
+                "explanation": "sqrt(50) = sqrt(25 \u00d7 2) = 5sqrt(2)."
+            }
+        },
+        "5": {
+            "100": {
+                "question": "This is the standard form of a quadratic equation.",
+                "answers": [
+                    "ax^2+bx+c=0",
+                    "ax^2 + bx + c = 0",
+                    "What is ax^2 + bx + c = 0?"
+                ],
+                "explanation": "A quadratic equation is commonly written as ax^2 + bx + c = 0, where a is not zero."
+            },
+            "200": {
+                "question": "This is the value of x in x^2 = 25.",
+                "answers": [
+                    "5 and -5",
+                    "-5 and 5",
+                    "\u00b15",
+                    "+-5",
+                    "What are 5 and -5?",
+                    "What is \u00b15?"
+                ],
+                "explanation": "Both 5 and -5 square to 25, so x = \u00b15."
+            },
+            "300": {
+                "question": "This is the factored form of x^2 - 9.",
+                "answers": [
+                    "(x-3)(x+3)",
+                    "(x + 3)(x - 3)",
+                    "(x-3)(x + 3)",
+                    "(x+3)(x-3)",
+                    "What is (x-3)(x+3)?"
+                ],
+                "explanation": "This is a difference of squares: x^2 - 3^2 = (x - 3)(x + 3)."
+            },
+            "400": {
+                "question": "This is the x-coordinate of the vertex for y = x^2 - 6x + 8.",
+                "answers": [
+                    "3",
+                    "What is 3?"
+                ],
+                "explanation": "For y = ax^2 + bx + c, the vertex x-coordinate is -b / 2a. Here, -(-6) / 2(1) = 3."
+            },
+            "500": {
+                "question": "This formula is used to solve ax^2 + bx + c = 0.",
+                "answers": [
+                    "quadratic formula",
+                    "the quadratic formula",
+                    "What is the quadratic formula?"
+                ],
+                "explanation": "The quadratic formula is x = (-b \u00b1 sqrt(b^2 - 4ac)) / 2a."
+            }
+        },
+        "6": {
+            "100": {
+                "question": "This is the solution to the system: x + y = 5 and x - y = 1.",
+                "answers": [
+                    "(3,2)",
+                    "(3, 2)",
+                    "x=3 y=2",
+                    "x = 3, y = 2",
+                    "What is (3, 2)?"
+                ],
+                "explanation": "Add the equations to get 2x = 6, so x = 3. Then y = 2."
+            },
+            "200": {
+                "question": "This method solves a system by adding or subtracting equations to remove one variable.",
+                "answers": [
+                    "elimination",
+                    "What is elimination?",
+                    "the elimination method",
+                    "What is the elimination method?"
+                ],
+                "explanation": "The elimination method combines equations so one variable cancels out."
+            },
+            "300": {
+                "question": "This method solves a system by replacing one variable with an equivalent expression.",
+                "answers": [
+                    "substitution",
+                    "What is substitution?",
+                    "the substitution method",
+                    "What is the substitution method?"
+                ],
+                "explanation": "The substitution method replaces a variable with an expression from another equation."
+            },
+            "400": {
+                "question": "This is the solution to the system: y = 2x and x + y = 9.",
+                "answers": [
+                    "(3,6)",
+                    "(3, 6)",
+                    "x=3 y=6",
+                    "x = 3, y = 6",
+                    "What is (3, 6)?"
+                ],
+                "explanation": "Substitute y = 2x into x + y = 9 to get x + 2x = 9, so x = 3 and y = 6."
+            },
+            "500": {
+                "question": "This describes a system of linear equations that has no solution.",
+                "answers": [
+                    "inconsistent",
+                    "What is inconsistent?",
+                    "an inconsistent system",
+                    "What is an inconsistent system?"
+                ],
+                "explanation": "An inconsistent system has no solution, often because the lines are parallel."
+            }
+        }
+    }
+}
