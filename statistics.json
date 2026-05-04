@@ -1,0 +1,346 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Descriptive Statistics"
+        },
+        {
+            "id": 2,
+            "name": "Probability"
+        },
+        {
+            "id": 3,
+            "name": "Distributions"
+        },
+        {
+            "id": 4,
+            "name": "Sampling"
+        },
+        {
+            "id": 5,
+            "name": "Hypothesis Testing"
+        },
+        {
+            "id": 6,
+            "name": "Regression & Correlation"
+        }
+    ],
+    "questions": {
+        "1": {
+            "100": {
+                "question": "This measure of center is found by adding all values and dividing by the number of values.",
+                "answers": [
+                    "mean",
+                    "average",
+                    "the mean",
+                    "What is the mean?",
+                    "What is average?"
+                ],
+                "explanation": "The mean is calculated by adding all data values and dividing by the number of values."
+            },
+            "200": {
+                "question": "This measure of center is the middle value when data is arranged from least to greatest.",
+                "answers": [
+                    "median",
+                    "the median",
+                    "What is the median?"
+                ],
+                "explanation": "The median is the middle value in an ordered data set. If there are two middle values, their average is used."
+            },
+            "300": {
+                "question": "This measure of spread is found by subtracting the smallest value from the largest value.",
+                "answers": [
+                    "range",
+                    "the range",
+                    "What is the range?"
+                ],
+                "explanation": "The range measures spread using maximum minus minimum."
+            },
+            "400": {
+                "question": "This measure describes how far data values typically are from the mean.",
+                "answers": [
+                    "standard deviation",
+                    "the standard deviation",
+                    "What is standard deviation?",
+                    "What is the standard deviation?"
+                ],
+                "explanation": "Standard deviation measures the typical distance between data values and the mean."
+            },
+            "500": {
+                "question": "This measure is affected heavily by extreme outliers because it uses every value in the data set.",
+                "answers": [
+                    "mean",
+                    "the mean",
+                    "average",
+                    "What is the mean?",
+                    "What is average?"
+                ],
+                "explanation": "The mean can be pulled higher or lower by extreme values because all values are included in the calculation."
+            }
+        },
+        "2": {
+            "100": {
+                "question": "This is the probability of an event that is guaranteed to happen.",
+                "answers": [
+                    "1",
+                    "100%",
+                    "one",
+                    "What is 1?",
+                    "What is 100%?"
+                ],
+                "explanation": "A certain event has probability 1, or 100%."
+            },
+            "200": {
+                "question": "This is the probability of an event that cannot happen.",
+                "answers": [
+                    "0",
+                    "0%",
+                    "zero",
+                    "What is 0?",
+                    "What is 0%?"
+                ],
+                "explanation": "An impossible event has probability 0."
+            },
+            "300": {
+                "question": "This rule says the probability of A or B equals P(A) + P(B) when A and B cannot happen at the same time.",
+                "answers": [
+                    "addition rule",
+                    "the addition rule",
+                    "What is the addition rule?"
+                ],
+                "explanation": "For mutually exclusive events, P(A or B) = P(A) + P(B)."
+            },
+            "400": {
+                "question": "This term describes two events that cannot occur at the same time.",
+                "answers": [
+                    "mutually exclusive",
+                    "disjoint",
+                    "What is mutually exclusive?",
+                    "What is disjoint?"
+                ],
+                "explanation": "Mutually exclusive, or disjoint, events have no outcomes in common."
+            },
+            "500": {
+                "question": "This term describes events where the occurrence of one event does not affect the probability of the other.",
+                "answers": [
+                    "independent",
+                    "independent events",
+                    "What are independent events?",
+                    "What is independent?"
+                ],
+                "explanation": "Events are independent if knowing one occurred does not change the probability of the other."
+            }
+        },
+        "3": {
+            "100": {
+                "question": "This common distribution is bell-shaped and symmetric.",
+                "answers": [
+                    "normal distribution",
+                    "the normal distribution",
+                    "normal",
+                    "What is the normal distribution?"
+                ],
+                "explanation": "The normal distribution is symmetric and bell-shaped, with most data near the mean."
+            },
+            "200": {
+                "question": "In a normal distribution, this percentage of data is approximately within one standard deviation of the mean.",
+                "answers": [
+                    "68%",
+                    "68 percent",
+                    "about 68%",
+                    "approximately 68%",
+                    "What is 68%?"
+                ],
+                "explanation": "By the empirical rule, about 68% of data falls within one standard deviation of the mean."
+            },
+            "300": {
+                "question": "This score tells how many standard deviations a value is from the mean.",
+                "answers": [
+                    "z-score",
+                    "z score",
+                    "standard score",
+                    "What is a z-score?",
+                    "What is a standard score?"
+                ],
+                "explanation": "A z-score measures how far a value is from the mean in standard deviation units."
+            },
+            "400": {
+                "question": "This distribution is used for counts of successes in a fixed number of independent trials.",
+                "answers": [
+                    "binomial distribution",
+                    "the binomial distribution",
+                    "binomial",
+                    "What is the binomial distribution?"
+                ],
+                "explanation": "A binomial distribution models the number of successes in a fixed number of independent trials with the same probability of success."
+            },
+            "500": {
+                "question": "This distribution is often used instead of the normal distribution when the sample size is small and the population standard deviation is unknown.",
+                "answers": [
+                    "t-distribution",
+                    "t distribution",
+                    "student's t-distribution",
+                    "student t distribution",
+                    "What is the t-distribution?"
+                ],
+                "explanation": "The t-distribution is commonly used for small samples when the population standard deviation is unknown."
+            }
+        },
+        "4": {
+            "100": {
+                "question": "This is a smaller group selected from a larger population.",
+                "answers": [
+                    "sample",
+                    "a sample",
+                    "What is a sample?"
+                ],
+                "explanation": "A sample is a subset of a population used to draw conclusions about the whole group."
+            },
+            "200": {
+                "question": "This is the entire group being studied.",
+                "answers": [
+                    "population",
+                    "a population",
+                    "the population",
+                    "What is a population?",
+                    "What is the population?"
+                ],
+                "explanation": "The population is the complete group that a study wants to understand."
+            },
+            "300": {
+                "question": "This type of sampling gives every member of the population an equal chance of being selected.",
+                "answers": [
+                    "simple random sample",
+                    "simple random sampling",
+                    "random sample",
+                    "What is a simple random sample?"
+                ],
+                "explanation": "A simple random sample gives each member of the population an equal chance of selection."
+            },
+            "400": {
+                "question": "This type of bias occurs when people chosen for a sample do not respond.",
+                "answers": [
+                    "nonresponse bias",
+                    "non-response bias",
+                    "What is nonresponse bias?",
+                    "What is non-response bias?"
+                ],
+                "explanation": "Nonresponse bias happens when selected individuals do not participate, possibly skewing results."
+            },
+            "500": {
+                "question": "This theorem says that sample means tend to become approximately normally distributed as sample size increases.",
+                "answers": [
+                    "central limit theorem",
+                    "the central limit theorem",
+                    "CLT",
+                    "What is the central limit theorem?",
+                    "What is CLT?"
+                ],
+                "explanation": "The Central Limit Theorem says the sampling distribution of the mean becomes approximately normal for large enough samples."
+            }
+        },
+        "5": {
+            "100": {
+                "question": "This hypothesis represents the default claim that there is no effect, no difference, or no change.",
+                "answers": [
+                    "null hypothesis",
+                    "the null hypothesis",
+                    "What is the null hypothesis?"
+                ],
+                "explanation": "The null hypothesis is the starting assumption, usually stating no effect or no difference."
+            },
+            "200": {
+                "question": "This hypothesis represents the claim that there is an effect, difference, or change.",
+                "answers": [
+                    "alternative hypothesis",
+                    "the alternative hypothesis",
+                    "What is the alternative hypothesis?"
+                ],
+                "explanation": "The alternative hypothesis is what researchers look for evidence to support."
+            },
+            "300": {
+                "question": "This value is the probability of getting results at least as extreme as the observed results, assuming the null hypothesis is true.",
+                "answers": [
+                    "p-value",
+                    "p value",
+                    "the p-value",
+                    "What is the p-value?",
+                    "What is a p-value?"
+                ],
+                "explanation": "The p-value measures how unusual the sample results are if the null hypothesis is true."
+            },
+            "400": {
+                "question": "This error happens when a true null hypothesis is rejected.",
+                "answers": [
+                    "type I error",
+                    "type 1 error",
+                    "type one error",
+                    "What is a Type I error?"
+                ],
+                "explanation": "A Type I error is a false positive: rejecting the null hypothesis when it is actually true."
+            },
+            "500": {
+                "question": "This error happens when a false null hypothesis is not rejected.",
+                "answers": [
+                    "type II error",
+                    "type 2 error",
+                    "type two error",
+                    "What is a Type II error?"
+                ],
+                "explanation": "A Type II error is a false negative: failing to reject the null hypothesis when it is actually false."
+            }
+        },
+        "6": {
+            "100": {
+                "question": "This statistic measures the strength and direction of a linear relationship between two quantitative variables.",
+                "answers": [
+                    "correlation coefficient",
+                    "correlation",
+                    "r",
+                    "What is the correlation coefficient?",
+                    "What is correlation?"
+                ],
+                "explanation": "The correlation coefficient, often written as r, measures the strength and direction of a linear relationship."
+            },
+            "200": {
+                "question": "This type of correlation means that as one variable increases, the other variable tends to increase.",
+                "answers": [
+                    "positive correlation",
+                    "a positive correlation",
+                    "What is positive correlation?"
+                ],
+                "explanation": "A positive correlation means both variables tend to move in the same direction."
+            },
+            "300": {
+                "question": "This type of correlation means that as one variable increases, the other variable tends to decrease.",
+                "answers": [
+                    "negative correlation",
+                    "a negative correlation",
+                    "What is negative correlation?"
+                ],
+                "explanation": "A negative correlation means the variables tend to move in opposite directions."
+            },
+            "400": {
+                "question": "This graph is commonly used to display the relationship between two quantitative variables.",
+                "answers": [
+                    "scatterplot",
+                    "scatter plot",
+                    "What is a scatterplot?",
+                    "What is a scatter plot?"
+                ],
+                "explanation": "A scatterplot displays paired quantitative data and helps show patterns, trends, and relationships."
+            },
+            "500": {
+                "question": "This equation form is commonly used for a simple linear regression line.",
+                "answers": [
+                    "y = mx + b",
+                    "y=mx+b",
+                    "y-hat = mx + b",
+                    "\u0177 = mx + b",
+                    "What is y = mx + b?"
+                ],
+                "explanation": "A simple regression line is often written in slope-intercept form as y = mx + b."
+            }
+        }
+    }
+}
