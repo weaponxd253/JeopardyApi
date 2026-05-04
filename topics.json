@@ -16,5 +16,9 @@
 { "label": "Medical Terminology",        "filename": "medical_terminology", "category": "Health Sciences", "icon": "🩺" },
 { "label": "Pharmacology",               "filename": "pharmacology", "category": "Health Sciences", "icon": "💊" },
 { "label": "Psychology",                 "filename": "psychology", "category": "Social Science", "icon": "🧠" },
-{ "label": "Sociology",                  "filename": "sociology", "category": "Social Science", "icon": "👥" }
+{ "label": "Sociology",                  "filename": "sociology", "category": "Social Science", "icon": "👥" },
+  { "label": "Marvel", "filename": "marvel", "category": "Movies & TV", "icon": "🦸" },
+{ "label": "DC Comics", "filename": "dc_comics", "category": "Movies & TV", "icon": "🦇" },
+{ "label": "Star Wars", "filename": "star_wars", "category": "Movies & TV", "icon": "🌌" },
+{ "label": "Disney Movies", "filename": "disney_movies", "category": "Movies & TV", "icon": "🏰" }
 ]
