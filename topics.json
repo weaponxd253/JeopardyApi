@@ -8,5 +8,6 @@
   { "label": "Pokemon",                  "filename": "pokemon",        "category": "Pop Culture",      "icon": "⚡" },
   { "label": "Biology",                  "filename": "biology",        "category": "Natural Science",  "icon": "🧬" },
   { "label": "Animals",                  "filename": "animals",        "category": "Natural Science",  "icon": "🦁" },
-  { "label": "Licensed Practical Nurse", "filename": "lpn",            "category": "Health Sciences",  "icon": "🏥" }
+  { "label": "Licensed Practical Nurse", "filename": "lpn",            "category": "Health Sciences",  "icon": "🏥" },
+  { "label": "College Algebra", "filename": "college_algebra", "category": "Math", "icon": "📐" }
 ]
