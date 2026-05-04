@@ -1,0 +1,307 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Research Methods"
+        },
+        {
+            "id": 2,
+            "name": "Brain & Behavior"
+        },
+        {
+            "id": 3,
+            "name": "Learning"
+        },
+        {
+            "id": 4,
+            "name": "Memory"
+        },
+        {
+            "id": 5,
+            "name": "Development"
+        },
+        {
+            "id": 6,
+            "name": "Disorders & Therapy"
+        }
+    ],
+    "questions": {
+        "1": {
+            "100": {
+                "question": "This is a testable prediction in a research study.",
+                "answers": [
+                    "hypothesis",
+                    "a hypothesis",
+                    "What is a hypothesis?"
+                ],
+                "explanation": "A hypothesis is a testable prediction about the relationship between variables."
+            },
+            "200": {
+                "question": "This variable is manipulated by the researcher in an experiment.",
+                "answers": [
+                    "independent variable",
+                    "the independent variable",
+                    "What is the independent variable?"
+                ],
+                "explanation": "The independent variable is the factor the researcher changes."
+            },
+            "300": {
+                "question": "This variable is measured as the outcome in an experiment.",
+                "answers": [
+                    "dependent variable",
+                    "the dependent variable",
+                    "What is the dependent variable?"
+                ],
+                "explanation": "The dependent variable is the measured result or outcome."
+            },
+            "400": {
+                "question": "This research method examines the relationship between variables without proving cause and effect.",
+                "answers": [
+                    "correlational research",
+                    "correlation",
+                    "correlational method",
+                    "What is correlational research?"
+                ],
+                "explanation": "Correlation shows association, but it does not prove causation."
+            },
+            "500": {
+                "question": "This research safeguard means participants are told the basic purpose, risks, and rights before agreeing to participate.",
+                "answers": [
+                    "informed consent",
+                    "What is informed consent?"
+                ],
+                "explanation": "Informed consent requires participants to understand key details before joining a study."
+            }
+        },
+        "2": {
+            "100": {
+                "question": "This organ is the main control center of the nervous system.",
+                "answers": [
+                    "brain",
+                    "the brain",
+                    "What is the brain?"
+                ],
+                "explanation": "The brain controls behavior, thought, emotion, and many bodily processes."
+            },
+            "200": {
+                "question": "These cells transmit information throughout the nervous system.",
+                "answers": [
+                    "neurons",
+                    "nerve cells",
+                    "What are neurons?"
+                ],
+                "explanation": "Neurons are specialized cells that send and receive signals."
+            },
+            "300": {
+                "question": "This chemical messenger carries signals between neurons.",
+                "answers": [
+                    "neurotransmitter",
+                    "neurotransmitters",
+                    "What is a neurotransmitter?"
+                ],
+                "explanation": "Neurotransmitters are chemical messengers released between neurons."
+            },
+            "400": {
+                "question": "This brain structure is strongly involved in forming new memories.",
+                "answers": [
+                    "hippocampus",
+                    "the hippocampus",
+                    "What is the hippocampus?"
+                ],
+                "explanation": "The hippocampus plays an important role in forming new long-term memories."
+            },
+            "500": {
+                "question": "This brain area is involved in decision-making, planning, and impulse control.",
+                "answers": [
+                    "prefrontal cortex",
+                    "the prefrontal cortex",
+                    "What is the prefrontal cortex?"
+                ],
+                "explanation": "The prefrontal cortex supports executive functions such as planning and self-control."
+            }
+        },
+        "3": {
+            "100": {
+                "question": "This type of learning occurs when behavior is shaped by rewards and punishments.",
+                "answers": [
+                    "operant conditioning",
+                    "What is operant conditioning?"
+                ],
+                "explanation": "Operant conditioning uses consequences to increase or decrease behavior."
+            },
+            "200": {
+                "question": "This type of learning occurs by associating two stimuli.",
+                "answers": [
+                    "classical conditioning",
+                    "What is classical conditioning?"
+                ],
+                "explanation": "Classical conditioning links a neutral stimulus with a meaningful stimulus."
+            },
+            "300": {
+                "question": "This consequence increases the likelihood of a behavior.",
+                "answers": [
+                    "reinforcement",
+                    "What is reinforcement?"
+                ],
+                "explanation": "Reinforcement makes a behavior more likely to happen again."
+            },
+            "400": {
+                "question": "This consequence decreases the likelihood of a behavior.",
+                "answers": [
+                    "punishment",
+                    "What is punishment?"
+                ],
+                "explanation": "Punishment makes a behavior less likely to happen again."
+            },
+            "500": {
+                "question": "This type of learning occurs by watching and imitating others.",
+                "answers": [
+                    "observational learning",
+                    "modeling",
+                    "What is observational learning?"
+                ],
+                "explanation": "Observational learning occurs through watching others and copying behavior."
+            }
+        },
+        "4": {
+            "100": {
+                "question": "This is the process of getting information into memory.",
+                "answers": [
+                    "encoding",
+                    "What is encoding?"
+                ],
+                "explanation": "Encoding is the first step of memory formation."
+            },
+            "200": {
+                "question": "This is the process of keeping information in memory over time.",
+                "answers": [
+                    "storage",
+                    "What is storage?"
+                ],
+                "explanation": "Storage is maintaining information in memory."
+            },
+            "300": {
+                "question": "This is the process of bringing stored information back into awareness.",
+                "answers": [
+                    "retrieval",
+                    "What is retrieval?"
+                ],
+                "explanation": "Retrieval is accessing stored information."
+            },
+            "400": {
+                "question": "This type of memory holds information briefly for immediate use.",
+                "answers": [
+                    "short-term memory",
+                    "short term memory",
+                    "working memory",
+                    "What is short-term memory?"
+                ],
+                "explanation": "Short-term or working memory holds a small amount of information temporarily."
+            },
+            "500": {
+                "question": "This type of memory stores information for long periods of time.",
+                "answers": [
+                    "long-term memory",
+                    "long term memory",
+                    "What is long-term memory?"
+                ],
+                "explanation": "Long-term memory can store information for extended periods."
+            }
+        },
+        "5": {
+            "100": {
+                "question": "This psychologist proposed stages of cognitive development in children.",
+                "answers": [
+                    "Jean Piaget",
+                    "Piaget",
+                    "Who is Jean Piaget?",
+                    "Who is Piaget?"
+                ],
+                "explanation": "Jean Piaget is known for his theory of cognitive development."
+            },
+            "200": {
+                "question": "This psychologist proposed stages of psychosocial development.",
+                "answers": [
+                    "Erik Erikson",
+                    "Erikson",
+                    "Who is Erik Erikson?",
+                    "Who is Erikson?"
+                ],
+                "explanation": "Erik Erikson proposed eight stages of psychosocial development."
+            },
+            "300": {
+                "question": "This stage of Piaget's theory occurs from birth to about age 2.",
+                "answers": [
+                    "sensorimotor stage",
+                    "the sensorimotor stage",
+                    "What is the sensorimotor stage?"
+                ],
+                "explanation": "The sensorimotor stage is when infants learn through senses and actions."
+            },
+            "400": {
+                "question": "This concept means understanding that objects still exist even when they cannot be seen.",
+                "answers": [
+                    "object permanence",
+                    "What is object permanence?"
+                ],
+                "explanation": "Object permanence is the awareness that hidden objects still exist."
+            },
+            "500": {
+                "question": "This period of development is the transition from childhood to adulthood.",
+                "answers": [
+                    "adolescence",
+                    "What is adolescence?"
+                ],
+                "explanation": "Adolescence is the developmental period between childhood and adulthood."
+            }
+        },
+        "6": {
+            "100": {
+                "question": "This term refers to a pattern of thoughts, feelings, or behaviors that causes distress or impairment.",
+                "answers": [
+                    "psychological disorder",
+                    "mental disorder",
+                    "What is a psychological disorder?"
+                ],
+                "explanation": "A psychological disorder involves significant distress, dysfunction, or impairment."
+            },
+            "200": {
+                "question": "This disorder category involves excessive fear, worry, or nervousness.",
+                "answers": [
+                    "anxiety disorders",
+                    "anxiety disorder",
+                    "What are anxiety disorders?"
+                ],
+                "explanation": "Anxiety disorders involve excessive fear or worry."
+            },
+            "300": {
+                "question": "This therapy approach focuses on changing unhelpful thoughts and behaviors.",
+                "answers": [
+                    "cognitive behavioral therapy",
+                    "CBT",
+                    "What is cognitive behavioral therapy?"
+                ],
+                "explanation": "CBT focuses on changing patterns of thinking and behavior."
+            },
+            "400": {
+                "question": "This professional can prescribe medication and has a medical degree.",
+                "answers": [
+                    "psychiatrist",
+                    "a psychiatrist",
+                    "What is a psychiatrist?"
+                ],
+                "explanation": "A psychiatrist is a medical doctor who can diagnose disorders and prescribe medication."
+            },
+            "500": {
+                "question": "This manual is commonly used in the United States to classify mental disorders.",
+                "answers": [
+                    "DSM",
+                    "DSM-5",
+                    "Diagnostic and Statistical Manual of Mental Disorders",
+                    "What is the DSM?"
+                ],
+                "explanation": "The DSM is used to classify and diagnose mental disorders."
+            }
+        }
+    }
+}

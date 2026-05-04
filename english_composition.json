@@ -1,0 +1,318 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Grammar & Mechanics"
+        },
+        {
+            "id": 2,
+            "name": "Essay Structure"
+        },
+        {
+            "id": 3,
+            "name": "Research & Citations"
+        },
+        {
+            "id": 4,
+            "name": "Rhetoric"
+        },
+        {
+            "id": 5,
+            "name": "Reading Comprehension"
+        },
+        {
+            "id": 6,
+            "name": "Argumentation"
+        }
+    ],
+    "questions": {
+        "1": {
+            "100": {
+                "question": "This punctuation mark is commonly used to end a declarative sentence.",
+                "answers": [
+                    "period",
+                    "a period",
+                    "What is a period?"
+                ],
+                "explanation": "A period is used to end a statement or declarative sentence."
+            },
+            "200": {
+                "question": "This part of speech names a person, place, thing, or idea.",
+                "answers": [
+                    "noun",
+                    "a noun",
+                    "What is a noun?"
+                ],
+                "explanation": "A noun names a person, place, thing, or idea."
+            },
+            "300": {
+                "question": "This error occurs when two independent clauses are joined with only a comma.",
+                "answers": [
+                    "comma splice",
+                    "a comma splice",
+                    "What is a comma splice?"
+                ],
+                "explanation": "A comma splice joins two complete sentences with only a comma instead of proper punctuation or a conjunction."
+            },
+            "400": {
+                "question": "This is a group of words with a subject and verb that can stand alone as a complete sentence.",
+                "answers": [
+                    "independent clause",
+                    "an independent clause",
+                    "What is an independent clause?"
+                ],
+                "explanation": "An independent clause contains a subject and verb and expresses a complete thought."
+            },
+            "500": {
+                "question": "This grammatical agreement requires a singular subject to take a singular verb and a plural subject to take a plural verb.",
+                "answers": [
+                    "subject-verb agreement",
+                    "subject verb agreement",
+                    "What is subject-verb agreement?"
+                ],
+                "explanation": "Subject-verb agreement means the verb must match the number of the subject."
+            }
+        },
+        "2": {
+            "100": {
+                "question": "This is usually the first paragraph of an essay and introduces the topic.",
+                "answers": [
+                    "introduction",
+                    "the introduction",
+                    "introductory paragraph",
+                    "What is the introduction?"
+                ],
+                "explanation": "The introduction presents the topic and often leads into the thesis statement."
+            },
+            "200": {
+                "question": "This sentence states the main point or central claim of an essay.",
+                "answers": [
+                    "thesis statement",
+                    "the thesis statement",
+                    "thesis",
+                    "What is a thesis statement?"
+                ],
+                "explanation": "A thesis statement identifies the main argument or purpose of the essay."
+            },
+            "300": {
+                "question": "These paragraphs develop the main supporting points of an essay.",
+                "answers": [
+                    "body paragraphs",
+                    "the body paragraphs",
+                    "body",
+                    "What are body paragraphs?"
+                ],
+                "explanation": "Body paragraphs provide evidence, explanation, and analysis for the thesis."
+            },
+            "400": {
+                "question": "This sentence introduces the main idea of a body paragraph.",
+                "answers": [
+                    "topic sentence",
+                    "a topic sentence",
+                    "What is a topic sentence?"
+                ],
+                "explanation": "A topic sentence states the focus of a paragraph."
+            },
+            "500": {
+                "question": "This final section restates the main idea and provides closure.",
+                "answers": [
+                    "conclusion",
+                    "the conclusion",
+                    "concluding paragraph",
+                    "What is the conclusion?"
+                ],
+                "explanation": "The conclusion wraps up the essay and reinforces the main point."
+            }
+        },
+        "3": {
+            "100": {
+                "question": "This is using someone else's exact words in your writing.",
+                "answers": [
+                    "quotation",
+                    "quote",
+                    "direct quotation",
+                    "What is a quotation?"
+                ],
+                "explanation": "A quotation uses the exact words from a source and should be cited."
+            },
+            "200": {
+                "question": "This is restating source material in your own words while keeping the original meaning.",
+                "answers": [
+                    "paraphrasing",
+                    "paraphrase",
+                    "What is paraphrasing?"
+                ],
+                "explanation": "Paraphrasing rewrites source material in your own words and still requires citation."
+            },
+            "300": {
+                "question": "This is giving credit to the source of borrowed information.",
+                "answers": [
+                    "citation",
+                    "citing",
+                    "a citation",
+                    "What is citation?"
+                ],
+                "explanation": "A citation identifies where borrowed ideas, words, or data came from."
+            },
+            "400": {
+                "question": "This page lists all sources used in an MLA-style paper.",
+                "answers": [
+                    "works cited",
+                    "works cited page",
+                    "What is a works cited page?"
+                ],
+                "explanation": "An MLA paper uses a Works Cited page to list sources."
+            },
+            "500": {
+                "question": "This academic offense involves using someone else's words or ideas without proper credit.",
+                "answers": [
+                    "plagiarism",
+                    "What is plagiarism?"
+                ],
+                "explanation": "Plagiarism occurs when a writer presents another person's work or ideas as their own."
+            }
+        },
+        "4": {
+            "100": {
+                "question": "This rhetorical appeal is based on logic and reason.",
+                "answers": [
+                    "logos",
+                    "What is logos?"
+                ],
+                "explanation": "Logos appeals to logic, evidence, and reasoning."
+            },
+            "200": {
+                "question": "This rhetorical appeal is based on emotion.",
+                "answers": [
+                    "pathos",
+                    "What is pathos?"
+                ],
+                "explanation": "Pathos appeals to the audience's emotions."
+            },
+            "300": {
+                "question": "This rhetorical appeal is based on credibility or character.",
+                "answers": [
+                    "ethos",
+                    "What is ethos?"
+                ],
+                "explanation": "Ethos appeals to the speaker's or writer's credibility."
+            },
+            "400": {
+                "question": "This is the group of readers or listeners a piece of writing is intended to reach.",
+                "answers": [
+                    "audience",
+                    "the audience",
+                    "What is the audience?"
+                ],
+                "explanation": "Audience refers to the intended readers or listeners."
+            },
+            "500": {
+                "question": "This is the writer's attitude toward the subject or audience.",
+                "answers": [
+                    "tone",
+                    "the tone",
+                    "What is tone?"
+                ],
+                "explanation": "Tone is the attitude or feeling conveyed by a writer's word choice and style."
+            }
+        },
+        "5": {
+            "100": {
+                "question": "This is the main point or central message of a passage.",
+                "answers": [
+                    "main idea",
+                    "the main idea",
+                    "central idea",
+                    "What is the main idea?"
+                ],
+                "explanation": "The main idea is the central point the author wants the reader to understand."
+            },
+            "200": {
+                "question": "These are details that help prove, explain, or develop the main idea.",
+                "answers": [
+                    "supporting details",
+                    "supporting evidence",
+                    "What are supporting details?"
+                ],
+                "explanation": "Supporting details give evidence or explanation for the main idea."
+            },
+            "300": {
+                "question": "This is a conclusion made from evidence and reasoning rather than directly stated information.",
+                "answers": [
+                    "inference",
+                    "an inference",
+                    "What is an inference?"
+                ],
+                "explanation": "An inference is a logical conclusion based on clues in the text."
+            },
+            "400": {
+                "question": "This term refers to the reason an author writes a text.",
+                "answers": [
+                    "author's purpose",
+                    "author purpose",
+                    "purpose",
+                    "What is author's purpose?"
+                ],
+                "explanation": "Author's purpose is the reason for writing, such as to inform, persuade, or entertain."
+            },
+            "500": {
+                "question": "This is a brief restatement of the most important points in a text.",
+                "answers": [
+                    "summary",
+                    "a summary",
+                    "What is a summary?"
+                ],
+                "explanation": "A summary condenses the main ideas and key details of a text."
+            }
+        },
+        "6": {
+            "100": {
+                "question": "This is a statement that can be argued, supported, or challenged.",
+                "answers": [
+                    "claim",
+                    "a claim",
+                    "argumentative claim",
+                    "What is a claim?"
+                ],
+                "explanation": "A claim is the position or point a writer is trying to prove."
+            },
+            "200": {
+                "question": "This is information used to support a claim.",
+                "answers": [
+                    "evidence",
+                    "What is evidence?"
+                ],
+                "explanation": "Evidence supports a claim using facts, examples, data, or expert testimony."
+            },
+            "300": {
+                "question": "This explains how evidence supports the claim.",
+                "answers": [
+                    "reasoning",
+                    "analysis",
+                    "What is reasoning?"
+                ],
+                "explanation": "Reasoning connects the evidence to the claim."
+            },
+            "400": {
+                "question": "This is an opposing viewpoint that an argument responds to.",
+                "answers": [
+                    "counterargument",
+                    "counter argument",
+                    "opposing argument",
+                    "What is a counterargument?"
+                ],
+                "explanation": "A counterargument presents a viewpoint that disagrees with the writer's claim."
+            },
+            "500": {
+                "question": "This is the writer's response to a counterargument.",
+                "answers": [
+                    "rebuttal",
+                    "a rebuttal",
+                    "refutation",
+                    "What is a rebuttal?"
+                ],
+                "explanation": "A rebuttal explains why the counterargument is weak, limited, or incorrect."
+            }
+        }
+    }
+}

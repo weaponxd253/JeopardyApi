@@ -1,0 +1,316 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Drug Basics"
+        },
+        {
+            "id": 2,
+            "name": "Routes & Forms"
+        },
+        {
+            "id": 3,
+            "name": "Medication Safety"
+        },
+        {
+            "id": 4,
+            "name": "Dosage Calculations"
+        },
+        {
+            "id": 5,
+            "name": "Drug Classes"
+        },
+        {
+            "id": 6,
+            "name": "Pharmacokinetics"
+        }
+    ],
+    "questions": {
+        "1": {
+            "100": {
+                "question": "This is the official non-brand name of a medication.",
+                "answers": [
+                    "generic name",
+                    "the generic name",
+                    "What is the generic name?"
+                ],
+                "explanation": "The generic name is the standard non-brand name of a medication."
+            },
+            "200": {
+                "question": "This is the company-owned name under which a medication is sold.",
+                "answers": [
+                    "brand name",
+                    "trade name",
+                    "What is a brand name?",
+                    "What is a trade name?"
+                ],
+                "explanation": "A brand or trade name is the manufacturer's marketed name for a drug."
+            },
+            "300": {
+                "question": "This is the intended beneficial effect of a medication.",
+                "answers": [
+                    "therapeutic effect",
+                    "desired effect",
+                    "What is a therapeutic effect?"
+                ],
+                "explanation": "The therapeutic effect is the intended positive effect of a medication."
+            },
+            "400": {
+                "question": "This is an unintended or unwanted effect of a medication.",
+                "answers": [
+                    "side effect",
+                    "adverse effect",
+                    "What is a side effect?",
+                    "What is an adverse effect?"
+                ],
+                "explanation": "Side effects or adverse effects are unintended medication effects."
+            },
+            "500": {
+                "question": "This term means a medication should not be used because it may be harmful in a specific situation.",
+                "answers": [
+                    "contraindication",
+                    "a contraindication",
+                    "What is a contraindication?"
+                ],
+                "explanation": "A contraindication is a condition or factor that makes a treatment potentially unsafe."
+            }
+        },
+        "2": {
+            "100": {
+                "question": "This medication route means by mouth.",
+                "answers": [
+                    "oral",
+                    "PO",
+                    "by mouth",
+                    "What is oral?"
+                ],
+                "explanation": "The oral route means the medication is taken by mouth."
+            },
+            "200": {
+                "question": "This medication route delivers medication into a muscle.",
+                "answers": [
+                    "intramuscular",
+                    "IM",
+                    "What is intramuscular?",
+                    "What is IM?"
+                ],
+                "explanation": "Intramuscular, or IM, injections deliver medication into muscle tissue."
+            },
+            "300": {
+                "question": "This medication route delivers medication into a vein.",
+                "answers": [
+                    "intravenous",
+                    "IV",
+                    "What is intravenous?",
+                    "What is IV?"
+                ],
+                "explanation": "Intravenous, or IV, administration delivers medication directly into a vein."
+            },
+            "400": {
+                "question": "This medication route places medication under the tongue.",
+                "answers": [
+                    "sublingual",
+                    "SL",
+                    "What is sublingual?"
+                ],
+                "explanation": "Sublingual medication is placed under the tongue for absorption."
+            },
+            "500": {
+                "question": "This medication form is designed to dissolve or release medication slowly through the skin.",
+                "answers": [
+                    "transdermal patch",
+                    "patch",
+                    "What is a transdermal patch?"
+                ],
+                "explanation": "A transdermal patch delivers medication through the skin over time."
+            }
+        },
+        "3": {
+            "100": {
+                "question": "This safety check confirms the correct person receives the medication.",
+                "answers": [
+                    "right patient",
+                    "the right patient",
+                    "What is the right patient?"
+                ],
+                "explanation": "Right patient is one of the basic rights of medication administration."
+            },
+            "200": {
+                "question": "This safety check confirms the correct amount of medication is given.",
+                "answers": [
+                    "right dose",
+                    "the right dose",
+                    "What is the right dose?"
+                ],
+                "explanation": "Right dose means verifying the correct amount before administration."
+            },
+            "300": {
+                "question": "This safety check confirms the medication is given at the correct scheduled time.",
+                "answers": [
+                    "right time",
+                    "the right time",
+                    "What is the right time?"
+                ],
+                "explanation": "Right time means the medication is administered according to the ordered schedule."
+            },
+            "400": {
+                "question": "This safety check confirms how the medication should be administered.",
+                "answers": [
+                    "right route",
+                    "the right route",
+                    "What is the right route?"
+                ],
+                "explanation": "Right route means verifying oral, IV, IM, topical, or another ordered route."
+            },
+            "500": {
+                "question": "This safety process compares medication orders across transitions of care to prevent errors.",
+                "answers": [
+                    "medication reconciliation",
+                    "med reconciliation",
+                    "What is medication reconciliation?"
+                ],
+                "explanation": "Medication reconciliation compares medication lists to identify omissions, duplications, or errors."
+            }
+        },
+        "4": {
+            "100": {
+                "question": "This metric unit is abbreviated mg.",
+                "answers": [
+                    "milligram",
+                    "milligrams",
+                    "What is a milligram?"
+                ],
+                "explanation": "mg stands for milligram."
+            },
+            "200": {
+                "question": "This metric unit is abbreviated mL.",
+                "answers": [
+                    "milliliter",
+                    "milliliters",
+                    "What is a milliliter?"
+                ],
+                "explanation": "mL stands for milliliter."
+            },
+            "300": {
+                "question": "This is the number of milligrams in 1 gram.",
+                "answers": [
+                    "1000",
+                    "1,000",
+                    "1000 mg",
+                    "What is 1000?"
+                ],
+                "explanation": "1 gram equals 1000 milligrams."
+            },
+            "400": {
+                "question": "A patient is ordered 500 mg. Tablets are 250 mg each. This many tablets are needed.",
+                "answers": [
+                    "2",
+                    "2 tablets",
+                    "two tablets",
+                    "What is 2?"
+                ],
+                "explanation": "500 mg divided by 250 mg per tablet equals 2 tablets."
+            },
+            "500": {
+                "question": "A liquid medication is 100 mg per 5 mL. This many mL are needed for a 200 mg dose.",
+                "answers": [
+                    "10 mL",
+                    "10",
+                    "ten mL",
+                    "What is 10 mL?"
+                ],
+                "explanation": "200 mg is twice 100 mg, so the dose is twice 5 mL, or 10 mL."
+            }
+        },
+        "5": {
+            "100": {
+                "question": "This class of drugs is used to treat bacterial infections.",
+                "answers": [
+                    "antibiotics",
+                    "antibacterial drugs",
+                    "What are antibiotics?"
+                ],
+                "explanation": "Antibiotics are used to treat bacterial infections."
+            },
+            "200": {
+                "question": "This class of drugs is used to reduce pain.",
+                "answers": [
+                    "analgesics",
+                    "pain relievers",
+                    "What are analgesics?"
+                ],
+                "explanation": "Analgesics are medications used to reduce pain."
+            },
+            "300": {
+                "question": "This class of drugs is used to reduce fever.",
+                "answers": [
+                    "antipyretics",
+                    "What are antipyretics?"
+                ],
+                "explanation": "Antipyretics help lower fever."
+            },
+            "400": {
+                "question": "This class of drugs helps the body remove excess fluid by increasing urine production.",
+                "answers": [
+                    "diuretics",
+                    "What are diuretics?"
+                ],
+                "explanation": "Diuretics increase urine output and help remove excess fluid."
+            },
+            "500": {
+                "question": "This class of drugs reduces blood clot formation.",
+                "answers": [
+                    "anticoagulants",
+                    "blood thinners",
+                    "What are anticoagulants?"
+                ],
+                "explanation": "Anticoagulants reduce the blood's ability to clot."
+            }
+        },
+        "6": {
+            "100": {
+                "question": "This pharmacokinetic process is the movement of a drug from the site of administration into the bloodstream.",
+                "answers": [
+                    "absorption",
+                    "What is absorption?"
+                ],
+                "explanation": "Absorption is the process by which a drug enters the bloodstream."
+            },
+            "200": {
+                "question": "This process is the movement of a drug through the bloodstream to body tissues.",
+                "answers": [
+                    "distribution",
+                    "What is distribution?"
+                ],
+                "explanation": "Distribution describes how a drug moves from blood into tissues."
+            },
+            "300": {
+                "question": "This process is the chemical breakdown of a drug, often by the liver.",
+                "answers": [
+                    "metabolism",
+                    "biotransformation",
+                    "What is metabolism?"
+                ],
+                "explanation": "Metabolism changes a drug chemically, often in the liver."
+            },
+            "400": {
+                "question": "This process is the removal of a drug from the body.",
+                "answers": [
+                    "excretion",
+                    "elimination",
+                    "What is excretion?"
+                ],
+                "explanation": "Excretion removes drugs or drug metabolites from the body, often through urine."
+            },
+            "500": {
+                "question": "This term describes the time it takes for the amount of drug in the body to decrease by half.",
+                "answers": [
+                    "half-life",
+                    "half life",
+                    "What is half-life?"
+                ],
+                "explanation": "Half-life is the time required for the body to reduce the drug amount by 50%."
+            }
+        }
+    }
+}

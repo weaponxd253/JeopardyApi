@@ -1,0 +1,301 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Body Organization"
+        },
+        {
+            "id": 2,
+            "name": "Skeletal System"
+        },
+        {
+            "id": 3,
+            "name": "Muscular System"
+        },
+        {
+            "id": 4,
+            "name": "Cardiovascular System"
+        },
+        {
+            "id": 5,
+            "name": "Nervous System"
+        },
+        {
+            "id": 6,
+            "name": "Respiratory System"
+        }
+    ],
+    "questions": {
+        "1": {
+            "100": {
+                "question": "This is the basic unit of structure and function in the human body.",
+                "answers": [
+                    "cell",
+                    "a cell",
+                    "What is a cell?"
+                ],
+                "explanation": "Cells are the smallest living units that make up body tissues and organs."
+            },
+            "200": {
+                "question": "This level of organization is made of similar cells working together.",
+                "answers": [
+                    "tissue",
+                    "a tissue",
+                    "What is tissue?"
+                ],
+                "explanation": "Tissues are groups of similar cells that perform a common function."
+            },
+            "300": {
+                "question": "This body cavity contains the brain and spinal cord.",
+                "answers": [
+                    "dorsal cavity",
+                    "the dorsal cavity",
+                    "What is the dorsal cavity?"
+                ],
+                "explanation": "The dorsal cavity includes the cranial cavity and vertebral canal."
+            },
+            "400": {
+                "question": "This term means closer to the point of attachment or origin.",
+                "answers": [
+                    "proximal",
+                    "What is proximal?"
+                ],
+                "explanation": "Proximal means nearer to the point where a limb or structure attaches to the body."
+            },
+            "500": {
+                "question": "This term means maintaining a stable internal environment.",
+                "answers": [
+                    "homeostasis",
+                    "What is homeostasis?"
+                ],
+                "explanation": "Homeostasis is the body's process of keeping internal conditions stable."
+            }
+        },
+        "2": {
+            "100": {
+                "question": "These are the rigid organs that make up the skeleton.",
+                "answers": [
+                    "bones",
+                    "What are bones?"
+                ],
+                "explanation": "Bones support the body, protect organs, and assist with movement."
+            },
+            "200": {
+                "question": "This is the flexible connective tissue found at the ends of many bones.",
+                "answers": [
+                    "cartilage",
+                    "What is cartilage?"
+                ],
+                "explanation": "Cartilage cushions joints and reduces friction between bones."
+            },
+            "300": {
+                "question": "This is the longest bone in the human body.",
+                "answers": [
+                    "femur",
+                    "the femur",
+                    "What is the femur?"
+                ],
+                "explanation": "The femur, or thigh bone, is the longest and strongest bone in the body."
+            },
+            "400": {
+                "question": "This type of joint allows movement in many directions, such as the shoulder or hip.",
+                "answers": [
+                    "ball-and-socket joint",
+                    "ball and socket joint",
+                    "What is a ball-and-socket joint?"
+                ],
+                "explanation": "Ball-and-socket joints allow rotation and movement in multiple directions."
+            },
+            "500": {
+                "question": "This process is the formation of bone tissue.",
+                "answers": [
+                    "ossification",
+                    "What is ossification?"
+                ],
+                "explanation": "Ossification is the process by which bone tissue forms."
+            }
+        },
+        "3": {
+            "100": {
+                "question": "This type of muscle is attached to bones and helps move the body.",
+                "answers": [
+                    "skeletal muscle",
+                    "What is skeletal muscle?"
+                ],
+                "explanation": "Skeletal muscle attaches to bones and controls voluntary movement."
+            },
+            "200": {
+                "question": "This type of muscle is found in the heart.",
+                "answers": [
+                    "cardiac muscle",
+                    "What is cardiac muscle?"
+                ],
+                "explanation": "Cardiac muscle is specialized muscle tissue found only in the heart."
+            },
+            "300": {
+                "question": "This type of muscle is found in organs such as the stomach and intestines.",
+                "answers": [
+                    "smooth muscle",
+                    "What is smooth muscle?"
+                ],
+                "explanation": "Smooth muscle controls involuntary movement in many internal organs."
+            },
+            "400": {
+                "question": "These connective tissues attach muscles to bones.",
+                "answers": [
+                    "tendons",
+                    "What are tendons?"
+                ],
+                "explanation": "Tendons connect muscle to bone."
+            },
+            "500": {
+                "question": "This is the functional contractile unit of skeletal muscle.",
+                "answers": [
+                    "sarcomere",
+                    "a sarcomere",
+                    "What is a sarcomere?"
+                ],
+                "explanation": "Sarcomeres contain actin and myosin and are responsible for muscle contraction."
+            }
+        },
+        "4": {
+            "100": {
+                "question": "This organ pumps blood throughout the body.",
+                "answers": [
+                    "heart",
+                    "the heart",
+                    "What is the heart?"
+                ],
+                "explanation": "The heart pumps blood through the circulatory system."
+            },
+            "200": {
+                "question": "These blood vessels carry blood away from the heart.",
+                "answers": [
+                    "arteries",
+                    "What are arteries?"
+                ],
+                "explanation": "Arteries carry blood away from the heart."
+            },
+            "300": {
+                "question": "These blood vessels carry blood back toward the heart.",
+                "answers": [
+                    "veins",
+                    "What are veins?"
+                ],
+                "explanation": "Veins return blood to the heart."
+            },
+            "400": {
+                "question": "These tiny blood vessels allow exchange of gases, nutrients, and waste with tissues.",
+                "answers": [
+                    "capillaries",
+                    "What are capillaries?"
+                ],
+                "explanation": "Capillaries are small vessels where exchange occurs between blood and body tissues."
+            },
+            "500": {
+                "question": "This component of blood helps with clotting.",
+                "answers": [
+                    "platelets",
+                    "thrombocytes",
+                    "What are platelets?"
+                ],
+                "explanation": "Platelets help form blood clots to stop bleeding."
+            }
+        },
+        "5": {
+            "100": {
+                "question": "This organ is the control center of the nervous system.",
+                "answers": [
+                    "brain",
+                    "the brain",
+                    "What is the brain?"
+                ],
+                "explanation": "The brain processes information and controls many body functions."
+            },
+            "200": {
+                "question": "These specialized cells transmit nerve impulses.",
+                "answers": [
+                    "neurons",
+                    "nerve cells",
+                    "What are neurons?"
+                ],
+                "explanation": "Neurons carry electrical and chemical signals throughout the nervous system."
+            },
+            "300": {
+                "question": "This part of a neuron receives signals from other neurons.",
+                "answers": [
+                    "dendrite",
+                    "dendrites",
+                    "What are dendrites?"
+                ],
+                "explanation": "Dendrites receive incoming signals and send them toward the cell body."
+            },
+            "400": {
+                "question": "This part of a neuron carries impulses away from the cell body.",
+                "answers": [
+                    "axon",
+                    "an axon",
+                    "What is an axon?"
+                ],
+                "explanation": "The axon conducts nerve impulses away from the neuron cell body."
+            },
+            "500": {
+                "question": "This division of the nervous system includes the brain and spinal cord.",
+                "answers": [
+                    "central nervous system",
+                    "CNS",
+                    "the central nervous system",
+                    "What is the central nervous system?"
+                ],
+                "explanation": "The central nervous system consists of the brain and spinal cord."
+            }
+        },
+        "6": {
+            "100": {
+                "question": "These paired organs exchange oxygen and carbon dioxide.",
+                "answers": [
+                    "lungs",
+                    "the lungs",
+                    "What are the lungs?"
+                ],
+                "explanation": "The lungs allow gas exchange between air and blood."
+            },
+            "200": {
+                "question": "This muscle below the lungs helps with breathing.",
+                "answers": [
+                    "diaphragm",
+                    "the diaphragm",
+                    "What is the diaphragm?"
+                ],
+                "explanation": "The diaphragm contracts and relaxes to help move air into and out of the lungs."
+            },
+            "300": {
+                "question": "These tiny air sacs are the main site of gas exchange in the lungs.",
+                "answers": [
+                    "alveoli",
+                    "What are alveoli?"
+                ],
+                "explanation": "Alveoli are small sacs where oxygen and carbon dioxide are exchanged."
+            },
+            "400": {
+                "question": "This tube carries air from the throat toward the lungs and is commonly called the windpipe.",
+                "answers": [
+                    "trachea",
+                    "the trachea",
+                    "windpipe",
+                    "What is the trachea?"
+                ],
+                "explanation": "The trachea carries air to the bronchi and lungs."
+            },
+            "500": {
+                "question": "This process is the movement of air into and out of the lungs.",
+                "answers": [
+                    "ventilation",
+                    "pulmonary ventilation",
+                    "What is ventilation?"
+                ],
+                "explanation": "Ventilation is breathing: moving air into and out of the lungs."
+            }
+        }
+    }
+}
