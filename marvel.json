@@ -1,0 +1,313 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Heroes"
+        },
+        {
+            "id": 2,
+            "name": "Villains"
+        },
+        {
+            "id": 3,
+            "name": "Teams"
+        },
+        {
+            "id": 4,
+            "name": "Movies"
+        },
+        {
+            "id": 5,
+            "name": "Powers & Gear"
+        },
+        {
+            "id": 6,
+            "name": "Comic Basics"
+        }
+    ],
+    "questions": {
+        "1": {
+            "100": {
+                "question": "This Marvel hero is also known as Peter Parker.",
+                "answers": [
+                    "Spider-Man",
+                    "Spiderman",
+                    "Who is Spider-Man?",
+                    "Who is Spiderman?"
+                ],
+                "explanation": "Peter Parker is the secret identity of Spider-Man."
+            },
+            "200": {
+                "question": "This armored hero is the alter ego of Tony Stark.",
+                "answers": [
+                    "Iron Man",
+                    "Who is Iron Man?"
+                ],
+                "explanation": "Tony Stark becomes Iron Man using advanced powered armor."
+            },
+            "300": {
+                "question": "This hero is known as the First Avenger.",
+                "answers": [
+                    "Captain America",
+                    "Steve Rogers",
+                    "Who is Captain America?",
+                    "Who is Steve Rogers?"
+                ],
+                "explanation": "Steve Rogers, also known as Captain America, is often called the First Avenger."
+            },
+            "400": {
+                "question": "This green hero becomes stronger when he gets angry.",
+                "answers": [
+                    "Hulk",
+                    "The Hulk",
+                    "Bruce Banner",
+                    "Who is Hulk?",
+                    "Who is The Hulk?"
+                ],
+                "explanation": "Bruce Banner transforms into the Hulk, whose strength is tied to rage."
+            },
+            "500": {
+                "question": "This Wakandan king is also known as T'Challa.",
+                "answers": [
+                    "Black Panther",
+                    "T'Challa",
+                    "TChalla",
+                    "Who is Black Panther?",
+                    "Who is T'Challa?"
+                ],
+                "explanation": "T'Challa is the Black Panther and king of Wakanda."
+            }
+        },
+        "2": {
+            "100": {
+                "question": "This purple villain sought the Infinity Stones.",
+                "answers": [
+                    "Thanos",
+                    "Who is Thanos?"
+                ],
+                "explanation": "Thanos collected the Infinity Stones to carry out his plan."
+            },
+            "200": {
+                "question": "This trickster god is Thor's adopted brother.",
+                "answers": [
+                    "Loki",
+                    "Who is Loki?"
+                ],
+                "explanation": "Loki is known as the god of mischief and is Thor's adopted brother."
+            },
+            "300": {
+                "question": "This Spider-Man villain uses mechanical tentacle-like arms.",
+                "answers": [
+                    "Doctor Octopus",
+                    "Doc Ock",
+                    "Otto Octavius",
+                    "Who is Doctor Octopus?",
+                    "Who is Doc Ock?"
+                ],
+                "explanation": "Doctor Octopus, or Doc Ock, uses four mechanical arms."
+            },
+            "400": {
+                "question": "This Fantastic Four villain rules the fictional nation of Latveria.",
+                "answers": [
+                    "Doctor Doom",
+                    "Victor Von Doom",
+                    "Dr. Doom",
+                    "Who is Doctor Doom?"
+                ],
+                "explanation": "Doctor Doom is the ruler of Latveria and a major Marvel villain."
+            },
+            "500": {
+                "question": "This mutant villain often believes mutants should dominate humans.",
+                "answers": [
+                    "Magneto",
+                    "Who is Magneto?"
+                ],
+                "explanation": "Magneto is a powerful mutant with control over magnetism."
+            }
+        },
+        "3": {
+            "100": {
+                "question": "This superhero team includes Iron Man, Captain America, Thor, Hulk, Black Widow, and Hawkeye in the MCU.",
+                "answers": [
+                    "Avengers",
+                    "The Avengers",
+                    "Who are the Avengers?"
+                ],
+                "explanation": "The Avengers are Marvel's major superhero team."
+            },
+            "200": {
+                "question": "This team includes heroes such as Star-Lord, Gamora, Drax, Rocket, and Groot.",
+                "answers": [
+                    "Guardians of the Galaxy",
+                    "The Guardians of the Galaxy",
+                    "Who are the Guardians of the Galaxy?"
+                ],
+                "explanation": "The Guardians of the Galaxy are a space-based Marvel team."
+            },
+            "300": {
+                "question": "This Marvel team is often led by Professor Charles Xavier.",
+                "answers": [
+                    "X-Men",
+                    "X Men",
+                    "The X-Men",
+                    "Who are the X-Men?"
+                ],
+                "explanation": "Professor X founded the X-Men to help protect humans and mutants."
+            },
+            "400": {
+                "question": "This Marvel family includes Mr. Fantastic, Invisible Woman, Human Torch, and The Thing.",
+                "answers": [
+                    "Fantastic Four",
+                    "The Fantastic Four",
+                    "Who are the Fantastic Four?"
+                ],
+                "explanation": "The Fantastic Four are one of Marvel's earliest superhero teams."
+            },
+            "500": {
+                "question": "This group of blind assassins is often connected to Daredevil stories.",
+                "answers": [
+                    "The Hand",
+                    "Hand",
+                    "Who are The Hand?"
+                ],
+                "explanation": "The Hand is a secret ninja organization in Marvel comics."
+            }
+        },
+        "4": {
+            "100": {
+                "question": "This 2008 film launched the Marvel Cinematic Universe.",
+                "answers": [
+                    "Iron Man",
+                    "What is Iron Man?"
+                ],
+                "explanation": "Iron Man, released in 2008, started the MCU."
+            },
+            "200": {
+                "question": "This 2012 movie brought the MCU's main heroes together for the first time.",
+                "answers": [
+                    "The Avengers",
+                    "Avengers",
+                    "What is The Avengers?"
+                ],
+                "explanation": "The Avengers united the main heroes from Phase One."
+            },
+            "300": {
+                "question": "This movie introduced Wakanda as a central setting.",
+                "answers": [
+                    "Black Panther",
+                    "What is Black Panther?"
+                ],
+                "explanation": "Black Panther focuses heavily on Wakanda and its culture."
+            },
+            "400": {
+                "question": "This film features the snap caused by Thanos using the Infinity Gauntlet.",
+                "answers": [
+                    "Avengers: Infinity War",
+                    "Infinity War",
+                    "What is Avengers: Infinity War?"
+                ],
+                "explanation": "Thanos uses the Infinity Gauntlet in Avengers: Infinity War."
+            },
+            "500": {
+                "question": "This film concludes the Infinity Saga.",
+                "answers": [
+                    "Avengers: Endgame",
+                    "Endgame",
+                    "What is Avengers: Endgame?"
+                ],
+                "explanation": "Avengers: Endgame closes the Infinity Saga storyline."
+            }
+        },
+        "5": {
+            "100": {
+                "question": "This metal is used in Captain America's shield.",
+                "answers": [
+                    "vibranium",
+                    "What is vibranium?"
+                ],
+                "explanation": "Captain America's shield is made from vibranium."
+            },
+            "200": {
+                "question": "This fictional metal is strongly associated with Wolverine's claws and skeleton.",
+                "answers": [
+                    "adamantium",
+                    "What is adamantium?"
+                ],
+                "explanation": "Wolverine's claws and skeleton are coated with adamantium."
+            },
+            "300": {
+                "question": "This Asgardian weapon is Thor's hammer.",
+                "answers": [
+                    "Mjolnir",
+                    "Mjølnir",
+                    "What is Mjolnir?"
+                ],
+                "explanation": "Mjolnir is Thor's enchanted hammer."
+            },
+            "400": {
+                "question": "This item holds the six Infinity Stones.",
+                "answers": [
+                    "Infinity Gauntlet",
+                    "the Infinity Gauntlet",
+                    "What is the Infinity Gauntlet?"
+                ],
+                "explanation": "The Infinity Gauntlet allows the wearer to use the Infinity Stones together."
+            },
+            "500": {
+                "question": "This Spider-Man ability warns him of danger.",
+                "answers": [
+                    "spider-sense",
+                    "spider sense",
+                    "What is spider-sense?"
+                ],
+                "explanation": "Spider-sense alerts Spider-Man to nearby danger."
+            }
+        },
+        "6": {
+            "100": {
+                "question": "This company publishes Marvel comic books.",
+                "answers": [
+                    "Marvel Comics",
+                    "Marvel",
+                    "What is Marvel Comics?"
+                ],
+                "explanation": "Marvel Comics publishes the comic stories behind many Marvel characters."
+            },
+            "200": {
+                "question": "This writer is one of Marvel's most famous creators and public figures.",
+                "answers": [
+                    "Stan Lee",
+                    "Who is Stan Lee?"
+                ],
+                "explanation": "Stan Lee co-created many famous Marvel characters."
+            },
+            "300": {
+                "question": "This artist co-created many early Marvel heroes, including the Fantastic Four and X-Men.",
+                "answers": [
+                    "Jack Kirby",
+                    "Who is Jack Kirby?"
+                ],
+                "explanation": "Jack Kirby was a major Marvel artist and co-creator."
+            },
+            "400": {
+                "question": "This real-world city is home to many Marvel stories, especially Spider-Man's.",
+                "answers": [
+                    "New York City",
+                    "New York",
+                    "NYC",
+                    "What is New York City?"
+                ],
+                "explanation": "Many Marvel characters operate in New York City."
+            },
+            "500": {
+                "question": "This term describes a comic book universe where multiple character stories share continuity.",
+                "answers": [
+                    "shared universe",
+                    "a shared universe",
+                    "What is a shared universe?"
+                ],
+                "explanation": "A shared universe lets characters from different series exist in the same connected world."
+            }
+        }
+    }
+}

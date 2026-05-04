@@ -1,0 +1,314 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Characters"
+        },
+        {
+            "id": 2,
+            "name": "Planets"
+        },
+        {
+            "id": 3,
+            "name": "Jedi & Sith"
+        },
+        {
+            "id": 4,
+            "name": "Ships & Tech"
+        },
+        {
+            "id": 5,
+            "name": "Movies & Shows"
+        },
+        {
+            "id": 6,
+            "name": "Quotes & Lore"
+        }
+    ],
+    "questions": {
+        "1": {
+            "100": {
+                "question": "This farm boy from Tatooine becomes a Jedi.",
+                "answers": [
+                    "Luke Skywalker",
+                    "Luke",
+                    "Who is Luke Skywalker?"
+                ],
+                "explanation": "Luke Skywalker begins as a farm boy on Tatooine and becomes a Jedi."
+            },
+            "200": {
+                "question": "This smuggler pilots the Millennium Falcon.",
+                "answers": [
+                    "Han Solo",
+                    "Han",
+                    "Who is Han Solo?"
+                ],
+                "explanation": "Han Solo is the smuggler captain of the Millennium Falcon."
+            },
+            "300": {
+                "question": "This princess is a leader in the Rebel Alliance.",
+                "answers": [
+                    "Princess Leia",
+                    "Leia Organa",
+                    "Leia",
+                    "Who is Princess Leia?"
+                ],
+                "explanation": "Leia Organa is a princess, senator, and Rebel leader."
+            },
+            "400": {
+                "question": "This Sith Lord is revealed to be Luke Skywalker's father.",
+                "answers": [
+                    "Darth Vader",
+                    "Anakin Skywalker",
+                    "Who is Darth Vader?"
+                ],
+                "explanation": "Darth Vader was once Anakin Skywalker."
+            },
+            "500": {
+                "question": "This small green Jedi Master trains Luke on Dagobah.",
+                "answers": [
+                    "Yoda",
+                    "Who is Yoda?"
+                ],
+                "explanation": "Yoda trains Luke Skywalker in the ways of the Force."
+            }
+        },
+        "2": {
+            "100": {
+                "question": "This desert planet is the home world of Luke Skywalker.",
+                "answers": [
+                    "Tatooine",
+                    "What is Tatooine?"
+                ],
+                "explanation": "Luke grows up on the desert planet Tatooine."
+            },
+            "200": {
+                "question": "This icy planet is the location of the Rebel base in The Empire Strikes Back.",
+                "answers": [
+                    "Hoth",
+                    "What is Hoth?"
+                ],
+                "explanation": "The Rebel Alliance hides on Hoth before the Empire attacks."
+            },
+            "300": {
+                "question": "This forest moon is home to the Ewoks.",
+                "answers": [
+                    "Endor",
+                    "the forest moon of Endor",
+                    "What is Endor?"
+                ],
+                "explanation": "The Ewoks live on the forest moon of Endor."
+            },
+            "400": {
+                "question": "This city-covered planet serves as the capital of the Galactic Republic.",
+                "answers": [
+                    "Coruscant",
+                    "What is Coruscant?"
+                ],
+                "explanation": "Coruscant is the galactic capital during the Republic era."
+            },
+            "500": {
+                "question": "This lava planet is where Anakin Skywalker and Obi-Wan Kenobi duel.",
+                "answers": [
+                    "Mustafar",
+                    "What is Mustafar?"
+                ],
+                "explanation": "Anakin and Obi-Wan duel on Mustafar in Revenge of the Sith."
+            }
+        },
+        "3": {
+            "100": {
+                "question": "This energy field connects all living things in Star Wars.",
+                "answers": [
+                    "the Force",
+                    "Force",
+                    "What is the Force?"
+                ],
+                "explanation": "The Force is the energy field central to Jedi and Sith abilities."
+            },
+            "200": {
+                "question": "This side of the Force is associated with anger, fear, and hatred.",
+                "answers": [
+                    "dark side",
+                    "the dark side",
+                    "What is the dark side?"
+                ],
+                "explanation": "The dark side is linked to destructive emotions and Sith power."
+            },
+            "300": {
+                "question": "This Jedi was Anakin Skywalker's teacher.",
+                "answers": [
+                    "Obi-Wan Kenobi",
+                    "Obi Wan Kenobi",
+                    "Obi-Wan",
+                    "Who is Obi-Wan Kenobi?"
+                ],
+                "explanation": "Obi-Wan Kenobi trained Anakin Skywalker."
+            },
+            "400": {
+                "question": "This Sith title is used by Palpatine.",
+                "answers": [
+                    "Darth Sidious",
+                    "Sidious",
+                    "Who is Darth Sidious?"
+                ],
+                "explanation": "Palpatine's Sith name is Darth Sidious."
+            },
+            "500": {
+                "question": "This rule says there should be only two Sith at a time: a master and an apprentice.",
+                "answers": [
+                    "Rule of Two",
+                    "the Rule of Two",
+                    "What is the Rule of Two?"
+                ],
+                "explanation": "The Rule of Two limits the Sith to one master and one apprentice."
+            }
+        },
+        "4": {
+            "100": {
+                "question": "This weapon is commonly used by Jedi and Sith.",
+                "answers": [
+                    "lightsaber",
+                    "a lightsaber",
+                    "What is a lightsaber?"
+                ],
+                "explanation": "Lightsabers are energy blades used by Jedi and Sith."
+            },
+            "200": {
+                "question": "This ship is famously called the fastest hunk of junk in the galaxy.",
+                "answers": [
+                    "Millennium Falcon",
+                    "the Millennium Falcon",
+                    "What is the Millennium Falcon?"
+                ],
+                "explanation": "The Millennium Falcon is Han Solo's famous ship."
+            },
+            "300": {
+                "question": "This small droid often travels with C-3PO.",
+                "answers": [
+                    "R2-D2",
+                    "R2D2",
+                    "Artoo",
+                    "Who is R2-D2?"
+                ],
+                "explanation": "R2-D2 is a resourceful astromech droid."
+            },
+            "400": {
+                "question": "This large space station destroys Alderaan.",
+                "answers": [
+                    "Death Star",
+                    "the Death Star",
+                    "What is the Death Star?"
+                ],
+                "explanation": "The Death Star destroys Alderaan in A New Hope."
+            },
+            "500": {
+                "question": "These Imperial walkers attack the Rebel base on Hoth.",
+                "answers": [
+                    "AT-ATs",
+                    "AT-AT",
+                    "All Terrain Armored Transport",
+                    "What are AT-ATs?"
+                ],
+                "explanation": "AT-AT walkers are used by the Empire during the Battle of Hoth."
+            }
+        },
+        "5": {
+            "100": {
+                "question": "This is the first Star Wars film released in 1977.",
+                "answers": [
+                    "A New Hope",
+                    "Star Wars",
+                    "Star Wars: A New Hope",
+                    "What is A New Hope?"
+                ],
+                "explanation": "The original 1977 film was later subtitled A New Hope."
+            },
+            "200": {
+                "question": "This film is Episode V.",
+                "answers": [
+                    "The Empire Strikes Back",
+                    "Empire Strikes Back",
+                    "What is The Empire Strikes Back?"
+                ],
+                "explanation": "The Empire Strikes Back is Episode V."
+            },
+            "300": {
+                "question": "This film shows the fall of Anakin Skywalker and the rise of Darth Vader.",
+                "answers": [
+                    "Revenge of the Sith",
+                    "Star Wars: Revenge of the Sith",
+                    "What is Revenge of the Sith?"
+                ],
+                "explanation": "Revenge of the Sith shows Anakin becoming Darth Vader."
+            },
+            "400": {
+                "question": "This Disney+ series follows a bounty hunter and Grogu.",
+                "answers": [
+                    "The Mandalorian",
+                    "Mandalorian",
+                    "What is The Mandalorian?"
+                ],
+                "explanation": "The Mandalorian follows Din Djarin and Grogu."
+            },
+            "500": {
+                "question": "This animated series focuses on the conflict between the Republic and Separatists.",
+                "answers": [
+                    "The Clone Wars",
+                    "Star Wars: The Clone Wars",
+                    "Clone Wars",
+                    "What is The Clone Wars?"
+                ],
+                "explanation": "The Clone Wars explores events between Attack of the Clones and Revenge of the Sith."
+            }
+        },
+        "6": {
+            "100": {
+                "question": "This phrase is the famous blessing often said by Jedi and Rebels.",
+                "answers": [
+                    "May the Force be with you",
+                    "May the force be with you",
+                    "What is May the Force be with you?"
+                ],
+                "explanation": "May the Force be with you is one of the franchise's most famous lines."
+            },
+            "200": {
+                "question": "This phrase is commonly said by Darth Vader while breathing heavily. It is not exactly a subtle ringtone.",
+                "answers": [
+                    "I am your father",
+                    "No, I am your father",
+                    "What is I am your father?"
+                ],
+                "explanation": "Darth Vader reveals his connection to Luke in The Empire Strikes Back."
+            },
+            "300": {
+                "question": "This order leads clone troopers to turn against the Jedi.",
+                "answers": [
+                    "Order 66",
+                    "Execute Order 66",
+                    "What is Order 66?"
+                ],
+                "explanation": "Order 66 causes clone troopers to attack the Jedi."
+            },
+            "400": {
+                "question": "This term refers to Force-sensitive children trained by the Jedi.",
+                "answers": [
+                    "younglings",
+                    "Jedi younglings",
+                    "What are younglings?"
+                ],
+                "explanation": "Younglings are children training in the Jedi Order."
+            },
+            "500": {
+                "question": "This title is given to the ruler of the Galactic Empire.",
+                "answers": [
+                    "Emperor",
+                    "the Emperor",
+                    "Galactic Emperor",
+                    "What is Emperor?"
+                ],
+                "explanation": "Palpatine rules the Galactic Empire as Emperor."
+            }
+        }
+    }
+}

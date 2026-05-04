@@ -1,0 +1,290 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Classics"
+        },
+        {
+            "id": 2,
+            "name": "Pixar"
+        },
+        {
+            "id": 3,
+            "name": "Songs"
+        },
+        {
+            "id": 4,
+            "name": "Villains"
+        },
+        {
+            "id": 5,
+            "name": "Sidekicks"
+        },
+        {
+            "id": 6,
+            "name": "Princesses & Heroes"
+        }
+    ],
+    "questions": {
+        "1": {
+            "100": {
+                "question": "This 1937 film was Disney's first full-length animated feature.",
+                "answers": [
+                    "Snow White and the Seven Dwarfs",
+                    "Snow White",
+                    "What is Snow White and the Seven Dwarfs?"
+                ],
+                "explanation": "Snow White and the Seven Dwarfs was Disney's first full-length animated feature."
+            },
+            "200": {
+                "question": "This movie features a wooden puppet who wants to become a real boy.",
+                "answers": [
+                    "Pinocchio",
+                    "What is Pinocchio?"
+                ],
+                "explanation": "Pinocchio tells the story of a wooden puppet brought to life."
+            },
+            "300": {
+                "question": "This movie features a young elephant with very large ears.",
+                "answers": [
+                    "Dumbo",
+                    "What is Dumbo?"
+                ],
+                "explanation": "Dumbo is about a young elephant whose ears allow him to fly."
+            },
+            "400": {
+                "question": "This movie follows a deer growing up in the forest.",
+                "answers": [
+                    "Bambi",
+                    "What is Bambi?"
+                ],
+                "explanation": "Bambi follows a young deer and his forest friends."
+            },
+            "500": {
+                "question": "This 1955 Disney movie features two dogs sharing spaghetti.",
+                "answers": [
+                    "Lady and the Tramp",
+                    "What is Lady and the Tramp?"
+                ],
+                "explanation": "Lady and the Tramp includes the famous spaghetti dinner scene."
+            }
+        },
+        "2": {
+            "100": {
+                "question": "This Pixar film features toys that come to life when humans are not around.",
+                "answers": [
+                    "Toy Story",
+                    "What is Toy Story?"
+                ],
+                "explanation": "Toy Story follows Woody, Buzz Lightyear, and other living toys."
+            },
+            "200": {
+                "question": "This Pixar movie follows a clownfish searching for his son.",
+                "answers": [
+                    "Finding Nemo",
+                    "What is Finding Nemo?"
+                ],
+                "explanation": "Finding Nemo follows Marlin as he searches for Nemo."
+            },
+            "300": {
+                "question": "This Pixar movie features a family of superheroes.",
+                "answers": [
+                    "The Incredibles",
+                    "Incredibles",
+                    "What is The Incredibles?"
+                ],
+                "explanation": "The Incredibles follows a superhero family."
+            },
+            "400": {
+                "question": "This Pixar movie follows a rat who wants to become a chef.",
+                "answers": [
+                    "Ratatouille",
+                    "What is Ratatouille?"
+                ],
+                "explanation": "Ratatouille follows Remy, a rat with a talent for cooking."
+            },
+            "500": {
+                "question": "This Pixar movie follows emotions inside a young girl's mind.",
+                "answers": [
+                    "Inside Out",
+                    "What is Inside Out?"
+                ],
+                "explanation": "Inside Out personifies emotions such as Joy, Sadness, Anger, Fear, and Disgust."
+            }
+        },
+        "3": {
+            "100": {
+                "question": "This song from Frozen became a massive hit and features Elsa embracing her powers.",
+                "answers": [
+                    "Let It Go",
+                    "What is Let It Go?"
+                ],
+                "explanation": "Let It Go is Elsa's signature song from Frozen."
+            },
+            "200": {
+                "question": "This song from The Lion King is sung during Simba's presentation.",
+                "answers": [
+                    "Circle of Life",
+                    "The Circle of Life",
+                    "What is Circle of Life?"
+                ],
+                "explanation": "Circle of Life opens The Lion King."
+            },
+            "300": {
+                "question": "This song from Aladdin is sung during the magic carpet ride.",
+                "answers": [
+                    "A Whole New World",
+                    "What is A Whole New World?"
+                ],
+                "explanation": "A Whole New World is sung by Aladdin and Jasmine."
+            },
+            "400": {
+                "question": "This song from The Little Mermaid is about Ariel wanting to live on land.",
+                "answers": [
+                    "Part of Your World",
+                    "What is Part of Your World?"
+                ],
+                "explanation": "Part of Your World expresses Ariel's desire to join the human world."
+            },
+            "500": {
+                "question": "This song from Moana is performed by Maui about his heroic accomplishments.",
+                "answers": [
+                    "You're Welcome",
+                    "Youre Welcome",
+                    "What is You're Welcome?"
+                ],
+                "explanation": "You're Welcome is Maui's boastful song from Moana."
+            }
+        },
+        "4": {
+            "100": {
+                "question": "This sea witch is the villain in The Little Mermaid.",
+                "answers": [
+                    "Ursula",
+                    "Who is Ursula?"
+                ],
+                "explanation": "Ursula tricks Ariel into trading her voice."
+            },
+            "200": {
+                "question": "This villain from The Lion King is Simba's uncle.",
+                "answers": [
+                    "Scar",
+                    "Who is Scar?"
+                ],
+                "explanation": "Scar is Simba's uncle and the main villain of The Lion King."
+            },
+            "300": {
+                "question": "This villain wants to steal puppies to make a spotted coat.",
+                "answers": [
+                    "Cruella de Vil",
+                    "Cruella",
+                    "Who is Cruella de Vil?"
+                ],
+                "explanation": "Cruella de Vil is the villain of 101 Dalmatians."
+            },
+            "400": {
+                "question": "This villain from Aladdin seeks the magic lamp.",
+                "answers": [
+                    "Jafar",
+                    "Who is Jafar?"
+                ],
+                "explanation": "Jafar wants the lamp to gain power."
+            },
+            "500": {
+                "question": "This fairy curses Princess Aurora in Sleeping Beauty.",
+                "answers": [
+                    "Maleficent",
+                    "Who is Maleficent?"
+                ],
+                "explanation": "Maleficent curses Aurora after being left out of the royal celebration."
+            }
+        },
+        "5": {
+            "100": {
+                "question": "This snowman from Frozen likes warm hugs.",
+                "answers": [
+                    "Olaf",
+                    "Who is Olaf?"
+                ],
+                "explanation": "Olaf is the friendly snowman from Frozen."
+            },
+            "200": {
+                "question": "This dragon is Mulan's small guardian companion.",
+                "answers": [
+                    "Mushu",
+                    "Who is Mushu?"
+                ],
+                "explanation": "Mushu is Mulan's dragon companion."
+            },
+            "300": {
+                "question": "This meerkat and warthog duo befriend Simba.",
+                "answers": [
+                    "Timon and Pumbaa",
+                    "Pumbaa and Timon",
+                    "Who are Timon and Pumbaa?"
+                ],
+                "explanation": "Timon and Pumbaa teach Simba the Hakuna Matata lifestyle."
+            },
+            "400": {
+                "question": "This blue character grants wishes in Aladdin.",
+                "answers": [
+                    "Genie",
+                    "the Genie",
+                    "Who is Genie?"
+                ],
+                "explanation": "Genie grants wishes to the holder of the magic lamp."
+            },
+            "500": {
+                "question": "This rooster is Moana's accidental animal sidekick.",
+                "answers": [
+                    "Heihei",
+                    "Hei Hei",
+                    "Who is Heihei?"
+                ],
+                "explanation": "Heihei is Moana's very confused rooster companion."
+            }
+        },
+        "6": {
+            "100": {
+                "question": "This princess loses a glass slipper.",
+                "answers": [
+                    "Cinderella",
+                    "Who is Cinderella?"
+                ],
+                "explanation": "Cinderella leaves behind a glass slipper at the royal ball."
+            },
+            "200": {
+                "question": "This princess trades her voice for human legs.",
+                "answers": [
+                    "Ariel",
+                    "Who is Ariel?"
+                ],
+                "explanation": "Ariel trades her voice to Ursula in The Little Mermaid."
+            },
+            "300": {
+                "question": "This character disguises herself as a man to join the army.",
+                "answers": [
+                    "Mulan",
+                    "Who is Mulan?"
+                ],
+                "explanation": "Mulan takes her father's place in the army."
+            },
+            "400": {
+                "question": "This princess is known for her long magical hair.",
+                "answers": [
+                    "Rapunzel",
+                    "Who is Rapunzel?"
+                ],
+                "explanation": "Rapunzel has long magical hair in Tangled."
+            },
+            "500": {
+                "question": "This Polynesian heroine sails across the ocean to restore the heart of Te Fiti.",
+                "answers": [
+                    "Moana",
+                    "Who is Moana?"
+                ],
+                "explanation": "Moana journeys across the ocean to restore the heart of Te Fiti."
+            }
+        }
+    }
+}
