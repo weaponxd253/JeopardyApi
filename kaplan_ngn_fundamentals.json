@@ -1,6 +1,3 @@
-import json
-from pathlib import Path
-
 data = {
   "categories": [
     { "id": 1, "name": "Priority & Safety" },
@@ -175,7 +172,3 @@ data = {
     }
   }
 }
-
-path = Path("/mnt/data/kaplan_ngn_fundamentals.json")
-path.write_text(json.dumps(data, indent=2), encoding="utf-8")
-path.as_posix()
