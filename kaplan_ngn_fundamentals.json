@@ -1,0 +1,181 @@
+import json
+from pathlib import Path
+
+data = {
+  "categories": [
+    { "id": 1, "name": "Priority & Safety" },
+    { "id": 2, "name": "Infection Control" },
+    { "id": 3, "name": "Assessment" },
+    { "id": 4, "name": "Med Admin" },
+    { "id": 5, "name": "Fluids & Electrolytes" },
+    { "id": 6, "name": "Ethics & Teaching" }
+  ],
+  "questions": {
+    "1": {
+      "100": {
+        "question": "A client reports chest pain and shortness of breath. What should the nurse assess first?",
+        "answers": ["airway breathing circulation", "abc", "breathing", "airway", "respiratory status"],
+        "explanation": "Priority questions usually start with ABCs: airway, breathing, and circulation. Chest pain with shortness of breath requires immediate respiratory and cardiac assessment."
+      },
+      "200": {
+        "question": "Which client should the nurse see first: stable postop pain rated 4/10, a client with new confusion, a client requesting water, or a client awaiting discharge?",
+        "answers": ["new confusion", "client with new confusion", "confused client"],
+        "explanation": "A sudden change in mental status can signal hypoxia, infection, stroke, medication reaction, or other urgent changes."
+      },
+      "300": {
+        "question": "What safety intervention is most important for a client at high risk for falls?",
+        "answers": ["call light within reach", "bed in lowest position", "fall precautions", "non skid socks"],
+        "explanation": "Fall prevention includes keeping the bed low, call light within reach, clutter removed, proper footwear, and frequent rounding."
+      },
+      "400": {
+        "question": "A client has a potassium level of 6.2 mEq/L. What is the priority concern?",
+        "answers": ["cardiac dysrhythmia", "dysrhythmia", "arrhythmia", "heart rhythm"],
+        "explanation": "Hyperkalemia can cause dangerous cardiac rhythm changes. The nurse should anticipate cardiac monitoring and urgent provider notification."
+      },
+      "500": {
+        "question": "A nurse finds an unresponsive client. What is the first action?",
+        "answers": ["check responsiveness", "assess responsiveness", "call for help", "check pulse and breathing"],
+        "explanation": "The nurse should quickly assess responsiveness, call for help, and then assess breathing and pulse according to emergency response procedures."
+      }
+    },
+    "2": {
+      "100": {
+        "question": "What is the single most effective way to prevent the spread of infection?",
+        "answers": ["hand hygiene", "hand washing", "wash hands"],
+        "explanation": "Hand hygiene is the most important basic infection prevention measure."
+      },
+      "200": {
+        "question": "Which transmission precaution is used for tuberculosis?",
+        "answers": ["airborne", "airborne precautions"],
+        "explanation": "Tuberculosis requires airborne precautions, including an appropriate respirator and negative-pressure room when available."
+      },
+      "300": {
+        "question": "Which precaution type is used for infections spread by large respiratory droplets?",
+        "answers": ["droplet", "droplet precautions"],
+        "explanation": "Droplet precautions are used for organisms spread through large droplets, such as certain respiratory infections."
+      },
+      "400": {
+        "question": "What PPE should be removed first when leaving an isolation room?",
+        "answers": ["gloves", "glove"],
+        "explanation": "Gloves are usually removed first because they are considered the most contaminated piece of PPE."
+      },
+      "500": {
+        "question": "A client has C. difficile. Which hand hygiene method is preferred after care?",
+        "answers": ["soap and water", "wash with soap and water"],
+        "explanation": "Soap and water are preferred for C. difficile because alcohol-based sanitizer is less effective against spores."
+      }
+    },
+    "3": {
+      "100": {
+        "question": "What are the four main vital signs?",
+        "answers": ["temperature pulse respirations blood pressure", "temp pulse respirations bp", "temperature pulse respiratory rate blood pressure"],
+        "explanation": "The classic vital signs are temperature, pulse, respirations, and blood pressure. Pain and oxygen saturation are also commonly assessed."
+      },
+      "200": {
+        "question": "What lung sound is commonly associated with fluid in the lungs?",
+        "answers": ["crackles", "rales"],
+        "explanation": "Crackles may indicate fluid in the alveoli and are commonly associated with conditions such as heart failure or pneumonia."
+      },
+      "300": {
+        "question": "What does capillary refill assess?",
+        "answers": ["perfusion", "circulation", "peripheral perfusion"],
+        "explanation": "Capillary refill helps assess peripheral circulation and tissue perfusion."
+      },
+      "400": {
+        "question": "A client has pale cool skin, weak pulse, and low blood pressure. What condition is the nurse concerned about?",
+        "answers": ["shock", "hypovolemic shock", "circulatory shock"],
+        "explanation": "Cool pale skin, weak pulse, and hypotension can indicate poor perfusion and possible shock."
+      },
+      "500": {
+        "question": "What scale is commonly used to assess level of consciousness after a head injury?",
+        "answers": ["glasgow coma scale", "gcs"],
+        "explanation": "The Glasgow Coma Scale measures eye opening, verbal response, and motor response."
+      }
+    },
+    "4": {
+      "100": {
+        "question": "Before giving any medication, what is the nurse's first safety check?",
+        "answers": ["identify the patient", "patient identification", "check patient identity"],
+        "explanation": "The nurse must verify the correct patient before medication administration."
+      },
+      "200": {
+        "question": "What does PRN mean?",
+        "answers": ["as needed", "when needed"],
+        "explanation": "PRN means a medication is given as needed according to the order and client condition."
+      },
+      "300": {
+        "question": "What route places medication under the tongue?",
+        "answers": ["sublingual", "sl"],
+        "explanation": "Sublingual medications dissolve under the tongue and are absorbed through the oral mucosa."
+      },
+      "400": {
+        "question": "A client is ordered insulin lispro. When is this medication typically given?",
+        "answers": ["with meals", "before meals", "around meals", "meal time"],
+        "explanation": "Insulin lispro is rapid acting and is commonly given with or shortly before meals, depending on the order and glucose level."
+      },
+      "500": {
+        "question": "A client has an allergy to penicillin. What should the nurse do before giving a new antibiotic?",
+        "answers": ["verify allergy", "check for cross sensitivity", "notify provider", "hold medication"],
+        "explanation": "The nurse should verify the allergy, assess the ordered drug for risk, and clarify with the provider or pharmacist before administration if unsafe."
+      }
+    },
+    "5": {
+      "100": {
+        "question": "Which electrolyte is most closely linked to cardiac rhythm problems when abnormal?",
+        "answers": ["potassium", "k"],
+        "explanation": "Potassium imbalances can cause serious cardiac rhythm disturbances."
+      },
+      "200": {
+        "question": "What is the term for low blood glucose?",
+        "answers": ["hypoglycemia", "low blood sugar"],
+        "explanation": "Hypoglycemia means abnormally low blood glucose and can cause sweating, shakiness, confusion, and weakness."
+      },
+      "300": {
+        "question": "What are common signs of dehydration?",
+        "answers": ["dry mucous membranes", "poor skin turgor", "tachycardia", "low urine output"],
+        "explanation": "Dehydration may cause dry mucous membranes, poor skin turgor, increased heart rate, and decreased urine output."
+      },
+      "400": {
+        "question": "A client with fluid volume overload may have which lung sound?",
+        "answers": ["crackles", "rales"],
+        "explanation": "Excess fluid can back up into the lungs and cause crackles on auscultation."
+      },
+      "500": {
+        "question": "A sodium level of 124 mEq/L places the client at risk for what serious complication?",
+        "answers": ["seizures", "seizure"],
+        "explanation": "Severe hyponatremia can cause neurological symptoms, including confusion and seizures."
+      }
+    },
+    "6": {
+      "100": {
+        "question": "What law protects private patient health information?",
+        "answers": ["hipaa"],
+        "explanation": "HIPAA protects the privacy and security of patient health information."
+      },
+      "200": {
+        "question": "What is informed consent?",
+        "answers": ["permission after risks benefits explained", "consent after explanation", "informed permission"],
+        "explanation": "Informed consent means the client receives understandable information about the procedure, risks, benefits, and alternatives before agreeing."
+      },
+      "300": {
+        "question": "What teaching method asks the client to repeat instructions in their own words?",
+        "answers": ["teach back", "teach-back", "teach back method"],
+        "explanation": "Teach-back checks whether the client understands instructions by having them explain the information back."
+      },
+      "400": {
+        "question": "A client refuses a medication. What should the nurse do first?",
+        "answers": ["assess the reason", "ask why", "determine the reason"],
+        "explanation": "The nurse should assess the reason for refusal, provide education if needed, and document the refusal according to policy."
+      },
+      "500": {
+        "question": "Which ethical principle means doing good for the patient?",
+        "answers": ["beneficence"],
+        "explanation": "Beneficence means acting in ways that benefit the patient and promote well-being."
+      }
+    }
+  }
+}
+
+path = Path("/mnt/data/kaplan_ngn_fundamentals.json")
+path.write_text(json.dumps(data, indent=2), encoding="utf-8")
+path.as_posix()
