@@ -1,5 +1,4 @@
-data = {
-  "categories": [
+"categories": [
     { "id": 1, "name": "Priority & Safety" },
     { "id": 2, "name": "Infection Control" },
     { "id": 3, "name": "Assessment" },
@@ -171,4 +170,3 @@ data = {
       }
     }
   }
-}
