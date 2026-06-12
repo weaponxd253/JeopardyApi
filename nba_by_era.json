@@ -1,0 +1,144 @@
+{
+    "categories": [
+        { "id": 171, "name": "Early NBA" },
+        { "id": 172, "name": "1960s Legends" },
+        { "id": 173, "name": "1970s & Merger Era" },
+        { "id": 174, "name": "1980s Showtime & Celtics" },
+        { "id": 175, "name": "1990s Bulls Era" },
+        { "id": 176, "name": "2000s to Today" }
+    ],
+    "questions": {
+        "171": {
+            "100": {
+                "question": "What does NBA stand for?",
+                "answers": ["national basketball association", "the national basketball association"]
+            },
+            "200": {
+                "question": "What earlier league merged with the NBL to form the NBA's direct predecessor structure?",
+                "answers": ["baa", "basketball association of america"]
+            },
+            "300": {
+                "question": "What team won many early NBA titles after relocating from Minneapolis to Los Angeles?",
+                "answers": ["lakers", "los angeles lakers", "minneapolis lakers"]
+            },
+            "400": {
+                "question": "What dominant big man led the Minneapolis Lakers to several early championships?",
+                "answers": ["george mikan", "mikan"]
+            },
+            "500": {
+                "question": "What rule introduced in 1954 forced teams to attempt a shot within a set time?",
+                "answers": ["shot clock", "24-second shot clock", "twenty-four second shot clock"]
+            }
+        },
+        "172": {
+            "100": {
+                "question": "What Boston Celtics center won 11 NBA championships as a player?",
+                "answers": ["bill russell", "russell"]
+            },
+            "200": {
+                "question": "What player scored 100 points in a single NBA game in 1962?",
+                "answers": ["wilt chamberlain", "chamberlain", "wilt"]
+            },
+            "300": {
+                "question": "What Celtics coach led Boston during much of its 1950s and 1960s dynasty?",
+                "answers": ["red auerbach", "auerbach"]
+            },
+            "400": {
+                "question": "What guard was known as The Logo and starred for the Lakers in the 1960s?",
+                "answers": ["jerry west", "west"]
+            },
+            "500": {
+                "question": "What player averaged a triple-double for the 1961-62 season?",
+                "answers": ["oscar robertson", "robertson", "the big o"]
+            }
+        },
+        "173": {
+            "100": {
+                "question": "What rival basketball league merged with the NBA in 1976?",
+                "answers": ["aba", "american basketball association"]
+            },
+            "200": {
+                "question": "What flashy ABA and NBA star was nicknamed Dr. J?",
+                "answers": ["julius erving", "erving", "dr j"]
+            },
+            "300": {
+                "question": "What team won the 1977 NBA Finals behind Bill Walton?",
+                "answers": ["portland trail blazers", "trail blazers", "blazers"]
+            },
+            "400": {
+                "question": "What team won the 1979 NBA championship led by Dennis Johnson and Jack Sikma?",
+                "answers": ["seattle supersonics", "supersonics", "sonics"]
+            },
+            "500": {
+                "question": "What feature from the ABA later became a major part of NBA basketball strategy?",
+                "answers": ["three-point line", "3-point line", "three pointer", "3 pointer"]
+            }
+        },
+        "174": {
+            "100": {
+                "question": "What Lakers point guard led the Showtime offense in the 1980s?",
+                "answers": ["magic johnson", "magic"]
+            },
+            "200": {
+                "question": "What Celtics forward was Magic Johnson's famous rival during the 1980s?",
+                "answers": ["larry bird", "bird"]
+            },
+            "300": {
+                "question": "What Lakers center was famous for the skyhook?",
+                "answers": ["kareem abdul-jabbar", "kareem", "abdul-jabbar"]
+            },
+            "400": {
+                "question": "What Detroit Pistons teams were known for their physical Bad Boys style?",
+                "answers": ["detroit pistons", "bad boys", "bad boy pistons"]
+            },
+            "500": {
+                "question": "What coach led the Lakers to multiple championships during the Showtime era?",
+                "answers": ["pat riley", "riley"]
+            }
+        },
+        "175": {
+            "100": {
+                "question": "What Chicago Bulls player became the defining star of the 1990s NBA?",
+                "answers": ["michael jordan", "jordan", "mj"]
+            },
+            "200": {
+                "question": "What Bulls coach led Chicago to six NBA championships in the 1990s?",
+                "answers": ["phil jackson", "jackson"]
+            },
+            "300": {
+                "question": "What Bulls forward was Jordan's longtime star teammate?",
+                "answers": ["scottie pippen", "pippen"]
+            },
+            "400": {
+                "question": "What Houston Rockets center led the team to back-to-back titles in 1994 and 1995?",
+                "answers": ["hakeem olajuwon", "olajuwon", "hakeem"]
+            },
+            "500": {
+                "question": "What Utah Jazz duo repeatedly challenged the Bulls in the late 1990s Finals?",
+                "answers": ["karl malone and john stockton", "stockton and malone", "john stockton and karl malone"]
+            }
+        },
+        "176": {
+            "100": {
+                "question": "What Lakers star was nicknamed the Black Mamba?",
+                "answers": ["kobe bryant", "kobe", "bryant"]
+            },
+            "200": {
+                "question": "What Spurs power forward was nicknamed The Big Fundamental?",
+                "answers": ["tim duncan", "duncan"]
+            },
+            "300": {
+                "question": "What player led the Cleveland Cavaliers to their first NBA championship in 2016?",
+                "answers": ["lebron james", "lebron", "james"]
+            },
+            "400": {
+                "question": "What Warriors guard helped transform the NBA with high-volume three-point shooting?",
+                "answers": ["stephen curry", "steph curry", "curry"]
+            },
+            "500": {
+                "question": "What Denver Nuggets center won Finals MVP after leading Denver to its first NBA title in 2023?",
+                "answers": ["nikola jokic", "jokic", "nikola jokić", "jokić"]
+            }
+        }
+    }
+}

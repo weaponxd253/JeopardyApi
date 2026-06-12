@@ -27,5 +27,7 @@
   { "label": "Ancient Civilizations",    "filename": "ancient_civilizations",   "category": "Humanities",       "icon": "🏛️" },
   { "label": "Air Traffic Control",      "filename": "air_traffic_control",     "category": "Aviation",         "icon": "🛫" },
   { "label": "Aviation Basics",          "filename": "aviation_basics",         "category": "Aviation",         "icon": "✈️" },
-  { "label": "Flight Instruments",       "filename": "flight_instruments",      "category": "Aviation",         "icon": "🧭" }
+  { "label": "Flight Instruments",       "filename": "flight_instruments",      "category": "Aviation",         "icon": "🧭" },
+  { "label": "NBA by Era",               "filename": "nba_by_era",              "category": "Sports",           "icon": "🏀" },
+  { "label": "NFL by Era",               "filename": "nfl_by_era",              "category": "Sports",           "icon": "🏈" }
 ]

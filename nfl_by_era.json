@@ -1,0 +1,144 @@
+{
+    "categories": [
+        { "id": 161, "name": "Early NFL" },
+        { "id": 162, "name": "1960s & Super Bowl Era" },
+        { "id": 163, "name": "1970s Dynasties" },
+        { "id": 164, "name": "1980s & 1990s Icons" },
+        { "id": 165, "name": "2000s Football" },
+        { "id": 166, "name": "2010s & 2020s" }
+    ],
+    "questions": {
+        "161": {
+            "100": {
+                "question": "What does NFL stand for?",
+                "answers": ["national football league", "the national football league"]
+            },
+            "200": {
+                "question": "What team won the first two Super Bowls under coach Vince Lombardi?",
+                "answers": ["green bay packers", "packers"]
+            },
+            "300": {
+                "question": "What legendary Green Bay coach is the Super Bowl trophy named after?",
+                "answers": ["vince lombardi", "lombardi"]
+            },
+            "400": {
+                "question": "What NFL team is known for having won the 1972 season with a perfect record?",
+                "answers": ["miami dolphins", "dolphins", "1972 dolphins"]
+            },
+            "500": {
+                "question": "What rival league merged with the NFL after helping create the Super Bowl matchup?",
+                "answers": ["afl", "american football league"]
+            }
+        },
+        "162": {
+            "100": {
+                "question": "What game is now officially known as Super Bowl I?",
+                "answers": ["afl-nfl world championship game", "first afl-nfl world championship game", "first super bowl", "super bowl i"]
+            },
+            "200": {
+                "question": "What quarterback famously guaranteed victory for the New York Jets before Super Bowl III?",
+                "answers": ["joe namath", "namath", "broadway joe"]
+            },
+            "300": {
+                "question": "What team did the New York Jets defeat in Super Bowl III?",
+                "answers": ["baltimore colts", "colts"]
+            },
+            "400": {
+                "question": "What year did the AFL-NFL merger officially take effect?",
+                "answers": ["1970"]
+            },
+            "500": {
+                "question": "What two conferences were formed from the merger structure used by the modern NFL?",
+                "answers": ["afc and nfc", "american football conference and national football conference", "nfc and afc"]
+            }
+        },
+        "163": {
+            "100": {
+                "question": "What team won four Super Bowls during the 1970s behind the Steel Curtain defense?",
+                "answers": ["pittsburgh steelers", "steelers"]
+            },
+            "200": {
+                "question": "What Steelers quarterback led the team to four Super Bowl wins in the 1970s?",
+                "answers": ["terry bradshaw", "bradshaw"]
+            },
+            "300": {
+                "question": "What Dallas Cowboys quarterback was nicknamed Captain Comeback?",
+                "answers": ["roger staubach", "staubach"]
+            },
+            "400": {
+                "question": "What Raiders coach was famous for the phrase, 'Just win, baby'?",
+                "answers": ["al davis", "davis"]
+            },
+            "500": {
+                "question": "What running back became the first NFL player to rush for 2,000 yards in a season?",
+                "answers": ["o.j. simpson", "oj simpson", "orenthal james simpson"]
+            }
+        },
+        "164": {
+            "100": {
+                "question": "What San Francisco 49ers quarterback won four Super Bowls during the 1980s?",
+                "answers": ["joe montana", "montana"]
+            },
+            "200": {
+                "question": "What wide receiver holds many major NFL receiving records and starred for the 49ers?",
+                "answers": ["jerry rice", "rice"]
+            },
+            "300": {
+                "question": "What Chicago Bears team is famous for its dominant defense and the Super Bowl Shuffle?",
+                "answers": ["1985 bears", "chicago bears", "85 bears"]
+            },
+            "400": {
+                "question": "What Dallas Cowboys trio was nicknamed The Triplets in the 1990s?",
+                "answers": ["troy aikman emmitt smith michael irvin", "aikman smith irvin", "troy aikman, emmitt smith, and michael irvin"]
+            },
+            "500": {
+                "question": "What Buffalo Bills quarterback led the team to four straight Super Bowl appearances in the early 1990s?",
+                "answers": ["jim kelly", "kelly"]
+            }
+        },
+        "165": {
+            "100": {
+                "question": "What New England Patriots quarterback won his first Super Bowl after the 2001 season?",
+                "answers": ["tom brady", "brady"]
+            },
+            "200": {
+                "question": "What Patriots coach partnered with Tom Brady for multiple Super Bowl wins?",
+                "answers": ["bill belichick", "belichick"]
+            },
+            "300": {
+                "question": "What team defeated the previously unbeaten Patriots in Super Bowl XLII?",
+                "answers": ["new york giants", "giants"]
+            },
+            "400": {
+                "question": "What Colts quarterback was one of the defining passers of the 2000s and won Super Bowl XLI?",
+                "answers": ["peyton manning", "manning"]
+            },
+            "500": {
+                "question": "What Saints quarterback led New Orleans to its first Super Bowl win after the 2009 season?",
+                "answers": ["drew brees", "brees"]
+            }
+        },
+        "166": {
+            "100": {
+                "question": "What Kansas City Chiefs quarterback became one of the defining stars of the late 2010s and 2020s?",
+                "answers": ["patrick mahomes", "mahomes"]
+            },
+            "200": {
+                "question": "What Seattle Seahawks defensive backfield was nicknamed the Legion of Boom?",
+                "answers": ["seattle seahawks", "legion of boom", "seahawks secondary"]
+            },
+            "300": {
+                "question": "What Eagles quarterback caught a touchdown pass in the Philly Special during Super Bowl LII?",
+                "answers": ["nick foles", "foles"]
+            },
+            "400": {
+                "question": "What Rams defensive tackle became one of the dominant defensive players of the 2010s?",
+                "answers": ["aaron donald", "donald"]
+            },
+            "500": {
+                "question": "What Buccaneers quarterback won Super Bowl LV after leaving New England?",
+                "answers": ["tom brady", "brady"]
+            }
+        }
+    }
+}
