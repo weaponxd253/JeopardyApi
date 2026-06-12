@@ -1,0 +1,144 @@
+{
+    "categories": [
+        { "id": 101, "name": "Colonial America" },
+        { "id": 102, "name": "Revolutionary Era" },
+        { "id": 103, "name": "Constitution & Government" },
+        { "id": 104, "name": "Civil War & Reconstruction" },
+        { "id": 105, "name": "Industrial America" },
+        { "id": 106, "name": "Modern America" }
+    ],
+    "questions": {
+        "101": {
+            "100": {
+                "question": "What was the first permanent English settlement in North America?",
+                "answers": ["jamestown", "jamestown virginia", "virginia"]
+            },
+            "200": {
+                "question": "What group of English settlers arrived on the Mayflower in 1620?",
+                "answers": ["pilgrims", "the pilgrims", "separatists"]
+            },
+            "300": {
+                "question": "What cash crop became central to the economy of colonial Virginia?",
+                "answers": ["tobacco", "tobacco farming"]
+            },
+            "400": {
+                "question": "What war between Britain and France helped create colonial tensions that led toward the American Revolution?",
+                "answers": ["french and indian war", "seven years' war", "seven years war"]
+            },
+            "500": {
+                "question": "What colonial protest slogan objected to taxes passed without colonial representation in Parliament?",
+                "answers": ["no taxation without representation", "taxation without representation"]
+            }
+        },
+        "102": {
+            "100": {
+                "question": "Who wrote the main draft of the Declaration of Independence?",
+                "answers": ["thomas jefferson", "jefferson"]
+            },
+            "200": {
+                "question": "In what year was the Declaration of Independence adopted?",
+                "answers": ["1776", "july 4 1776", "july 4, 1776"]
+            },
+            "300": {
+                "question": "What battle is often called the turning point of the American Revolution because it helped secure French support?",
+                "answers": ["saratoga", "battle of saratoga"]
+            },
+            "400": {
+                "question": "Who commanded the Continental Army during the American Revolution?",
+                "answers": ["george washington", "washington"]
+            },
+            "500": {
+                "question": "What treaty officially ended the American Revolutionary War?",
+                "answers": ["treaty of paris", "treaty of paris 1783", "paris treaty"]
+            }
+        },
+        "103": {
+            "100": {
+                "question": "What are the first ten amendments to the U.S. Constitution called?",
+                "answers": ["bill of rights", "the bill of rights"]
+            },
+            "200": {
+                "question": "What principle divides power among the legislative, executive, and judicial branches?",
+                "answers": ["separation of powers", "checks and balances", "separated powers"]
+            },
+            "300": {
+                "question": "What branch of government interprets laws and can rule on constitutionality?",
+                "answers": ["judicial branch", "the judiciary", "supreme court", "federal courts"]
+            },
+            "400": {
+                "question": "What compromise created a two-house Congress with representation by population in one house and equal state representation in the other?",
+                "answers": ["great compromise", "connecticut compromise"]
+            },
+            "500": {
+                "question": "What system allows each branch of government to limit the powers of the others?",
+                "answers": ["checks and balances", "checks & balances"]
+            }
+        },
+        "104": {
+            "100": {
+                "question": "Who was president of the United States during most of the Civil War?",
+                "answers": ["abraham lincoln", "lincoln"]
+            },
+            "200": {
+                "question": "What document declared enslaved people in rebelling Confederate states to be free?",
+                "answers": ["emancipation proclamation", "the emancipation proclamation"]
+            },
+            "300": {
+                "question": "What 1863 battle is often considered the turning point of the Civil War?",
+                "answers": ["gettysburg", "battle of gettysburg"]
+            },
+            "400": {
+                "question": "What amendment abolished slavery in the United States?",
+                "answers": ["13th amendment", "thirteenth amendment", "amendment 13"]
+            },
+            "500": {
+                "question": "What period after the Civil War focused on rebuilding the South and defining rights for formerly enslaved people?",
+                "answers": ["reconstruction", "reconstruction era"]
+            }
+        },
+        "105": {
+            "100": {
+                "question": "What invention by Eli Whitney increased the demand for cotton production in the South?",
+                "answers": ["cotton gin", "the cotton gin"]
+            },
+            "200": {
+                "question": "What term describes the rapid growth of factories, railroads, and mass production in the late 1800s?",
+                "answers": ["industrialization", "industrial revolution", "second industrial revolution"]
+            },
+            "300": {
+                "question": "What immigration processing station opened in New York Harbor in 1892?",
+                "answers": ["ellis island", "ellis island station"]
+            },
+            "400": {
+                "question": "What movement sought to fix problems caused by industrialization, political corruption, and urban poverty?",
+                "answers": ["progressive movement", "progressivism", "progressive era"]
+            },
+            "500": {
+                "question": "What 1896 Supreme Court case upheld racial segregation under the doctrine of separate but equal?",
+                "answers": ["plessy v ferguson", "plessy vs ferguson", "plessy v. ferguson"]
+            }
+        },
+        "106": {
+            "100": {
+                "question": "What economic crisis began with the stock market crash of 1929?",
+                "answers": ["great depression", "the great depression"]
+            },
+            "200": {
+                "question": "What was President Franklin D. Roosevelt's program of relief, recovery, and reform called?",
+                "answers": ["new deal", "the new deal"]
+            },
+            "300": {
+                "question": "What 1954 Supreme Court case declared school segregation unconstitutional?",
+                "answers": ["brown v board of education", "brown vs board of education", "brown v. board of education"]
+            },
+            "400": {
+                "question": "What Cold War conflict divided Korea near the 38th parallel?",
+                "answers": ["korean war", "the korean war"]
+            },
+            "500": {
+                "question": "What 1964 law outlawed discrimination in public accommodations and employment based on race, color, religion, sex, or national origin?",
+                "answers": ["civil rights act of 1964", "1964 civil rights act", "civil rights act"]
+            }
+        }
+    }
+}

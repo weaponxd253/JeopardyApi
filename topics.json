@@ -21,5 +21,8 @@
   { "label": "Marvel",                   "filename": "marvel",                  "category": "Movies & TV",      "icon": "🦸" },
   { "label": "DC Comics",                "filename": "dc_comics",               "category": "Movies & TV",      "icon": "🦇" },
   { "label": "Star Wars",                "filename": "star_wars",               "category": "Movies & TV",      "icon": "🌌" },
-  { "label": "Disney Movies",            "filename": "disney_movies",           "category": "Movies & TV",      "icon": "🏰" }
+  { "label": "Disney Movies",            "filename": "disney_movies",           "category": "Movies & TV",      "icon": "🏰" },
+  { "label": "U.S. History",             "filename": "us_history",              "category": "Humanities",       "icon": "🗽" },
+  { "label": "World History",            "filename": "world_history",           "category": "Humanities",       "icon": "🌍" },
+  { "label": "Ancient Civilizations",    "filename": "ancient_civilizations",   "category": "Humanities",       "icon": "🏛️" }
 ]

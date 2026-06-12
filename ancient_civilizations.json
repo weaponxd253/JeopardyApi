@@ -1,0 +1,144 @@
+{
+    "categories": [
+        { "id": 121, "name": "Mesopotamia" },
+        { "id": 122, "name": "Ancient Egypt" },
+        { "id": 123, "name": "Ancient Greece" },
+        { "id": 124, "name": "Ancient Rome" },
+        { "id": 125, "name": "Ancient China" },
+        { "id": 126, "name": "Mesoamerica" }
+    ],
+    "questions": {
+        "121": {
+            "100": {
+                "question": "What region between the Tigris and Euphrates rivers is often called the cradle of civilization?",
+                "answers": ["mesopotamia", "fertile crescent"]
+            },
+            "200": {
+                "question": "What wedge-shaped writing system was used by ancient Sumerians?",
+                "answers": ["cuneiform"]
+            },
+            "300": {
+                "question": "What Babylonian king is known for one of the earliest written law codes?",
+                "answers": ["hammurabi", "king hammurabi"]
+            },
+            "400": {
+                "question": "What stepped temple structure was common in Mesopotamian cities?",
+                "answers": ["ziggurat", "ziggurats"]
+            },
+            "500": {
+                "question": "What ancient Mesopotamian epic tells the story of a king of Uruk seeking immortality?",
+                "answers": ["epic of gilgamesh", "gilgamesh"]
+            }
+        },
+        "122": {
+            "100": {
+                "question": "What river was central to ancient Egyptian agriculture and transportation?",
+                "answers": ["nile", "nile river", "the nile"]
+            },
+            "200": {
+                "question": "What title was used for the rulers of ancient Egypt?",
+                "answers": ["pharaoh", "pharaohs"]
+            },
+            "300": {
+                "question": "What writing system used picture-like symbols in ancient Egypt?",
+                "answers": ["hieroglyphics", "hieroglyphs"]
+            },
+            "400": {
+                "question": "What process preserved bodies for the afterlife in ancient Egypt?",
+                "answers": ["mummification", "mummifying", "mummy making"]
+            },
+            "500": {
+                "question": "What Egyptian queen ruled as pharaoh during the 18th Dynasty and expanded trade?",
+                "answers": ["hatshepsut"]
+            }
+        },
+        "123": {
+            "100": {
+                "question": "What city-state is often associated with democracy in ancient Greece?",
+                "answers": ["athens", "athens city-state"]
+            },
+            "200": {
+                "question": "What Greek city-state was famous for its military society?",
+                "answers": ["sparta"]
+            },
+            "300": {
+                "question": "What wars were fought between Greek city-states and the Persian Empire?",
+                "answers": ["persian wars", "greco-persian wars"]
+            },
+            "400": {
+                "question": "Who was the student of Socrates and teacher of Aristotle?",
+                "answers": ["plato"]
+            },
+            "500": {
+                "question": "What ruler spread Greek culture across parts of Egypt, Persia, and India?",
+                "answers": ["alexander the great", "alexander iii", "alexander"]
+            }
+        },
+        "124": {
+            "100": {
+                "question": "What city became the center of the Roman Republic and Roman Empire?",
+                "answers": ["rome"]
+            },
+            "200": {
+                "question": "What Roman system of government existed before the empire and included elected officials?",
+                "answers": ["republic", "roman republic"]
+            },
+            "300": {
+                "question": "Who was assassinated on the Ides of March in 44 BCE?",
+                "answers": ["julius caesar", "caesar"]
+            },
+            "400": {
+                "question": "What long period of relative peace and stability began under Augustus?",
+                "answers": ["pax romana", "roman peace"]
+            },
+            "500": {
+                "question": "What set of conflicts between Rome and Carthage included Hannibal crossing the Alps?",
+                "answers": ["punic wars", "second punic war"]
+            }
+        },
+        "125": {
+            "100": {
+                "question": "What structure was built and expanded to help protect northern China from invasions?",
+                "answers": ["great wall", "great wall of china", "the great wall"]
+            },
+            "200": {
+                "question": "What Chinese dynasty is associated with the first emperor, Qin Shi Huang?",
+                "answers": ["qin dynasty", "qin"]
+            },
+            "300": {
+                "question": "What philosophy emphasizes social harmony, respect for elders, and proper relationships?",
+                "answers": ["confucianism", "confucian thought"]
+            },
+            "400": {
+                "question": "What trade route helped connect ancient China with Central Asia and the Mediterranean world?",
+                "answers": ["silk road", "silk roads"]
+            },
+            "500": {
+                "question": "What army of clay soldiers was buried near the tomb of Qin Shi Huang?",
+                "answers": ["terracotta army", "terra cotta army", "terracotta warriors"]
+            }
+        },
+        "126": {
+            "100": {
+                "question": "What ancient Mesoamerican civilization built cities such as Tikal?",
+                "answers": ["maya", "mayan civilization", "maya civilization"]
+            },
+            "200": {
+                "question": "What civilization built the city of Tenochtitlan on an island in Lake Texcoco?",
+                "answers": ["aztec", "aztecs", "mexica"]
+            },
+            "300": {
+                "question": "What Mesoamerican people are known for colossal stone heads?",
+                "answers": ["olmec", "olmecs"]
+            },
+            "400": {
+                "question": "What writing and calendar system was highly developed by the Maya?",
+                "answers": ["maya calendar", "mayan calendar", "maya writing", "mayan writing"]
+            },
+            "500": {
+                "question": "What Spanish conquistador led the expedition that defeated the Aztec Empire?",
+                "answers": ["hernan cortes", "hernán cortés", "cortes", "cortés"]
+            }
+        }
+    }
+}

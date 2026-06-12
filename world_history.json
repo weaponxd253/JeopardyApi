@@ -1,0 +1,144 @@
+{
+    "categories": [
+        { "id": 111, "name": "Empires & Kingdoms" },
+        { "id": 112, "name": "Revolutions" },
+        { "id": 113, "name": "Exploration & Exchange" },
+        { "id": 114, "name": "World Wars" },
+        { "id": 115, "name": "Cold War" },
+        { "id": 116, "name": "Global Change" }
+    ],
+    "questions": {
+        "111": {
+            "100": {
+                "question": "What empire was ruled by Julius Caesar and Augustus?",
+                "answers": ["roman empire", "rome"]
+            },
+            "200": {
+                "question": "What empire preserved Greek and Roman learning after the western Roman Empire fell?",
+                "answers": ["byzantine empire", "byzantium", "eastern roman empire"]
+            },
+            "300": {
+                "question": "What West African empire was famous for the wealth of Mansa Musa?",
+                "answers": ["mali empire", "mali"]
+            },
+            "400": {
+                "question": "What empire conquered Constantinople in 1453?",
+                "answers": ["ottoman empire", "ottomans"]
+            },
+            "500": {
+                "question": "What empire connected much of Eurasia under leaders such as Genghis Khan and Kublai Khan?",
+                "answers": ["mongol empire", "mongols", "mongol khanate"]
+            }
+        },
+        "112": {
+            "100": {
+                "question": "What revolution began in France in 1789?",
+                "answers": ["french revolution", "the french revolution"]
+            },
+            "200": {
+                "question": "What revolution led to the creation of the United States?",
+                "answers": ["american revolution", "american revolutionary war"]
+            },
+            "300": {
+                "question": "What Caribbean revolution led to the independence of Haiti?",
+                "answers": ["haitian revolution", "haiti revolution"]
+            },
+            "400": {
+                "question": "What 1917 revolution helped bring the Bolsheviks to power in Russia?",
+                "answers": ["russian revolution", "bolshevik revolution", "october revolution"]
+            },
+            "500": {
+                "question": "What period of rapid machine-powered production began in Britain in the late 1700s?",
+                "answers": ["industrial revolution", "the industrial revolution"]
+            }
+        },
+        "113": {
+            "100": {
+                "question": "What Italian explorer completed voyages across the Atlantic for Spain beginning in 1492?",
+                "answers": ["christopher columbus", "columbus"]
+            },
+            "200": {
+                "question": "What global transfer of plants, animals, diseases, and people followed European contact with the Americas?",
+                "answers": ["columbian exchange", "the columbian exchange"]
+            },
+            "300": {
+                "question": "What Portuguese explorer led the first expedition to circumnavigate the globe, though he died before it was completed?",
+                "answers": ["ferdinand magellan", "magellan"]
+            },
+            "400": {
+                "question": "What trade route network connected China, Central Asia, the Middle East, and Europe?",
+                "answers": ["silk road", "silk roads", "the silk road"]
+            },
+            "500": {
+                "question": "What triangular trade system forcibly transported millions of Africans across the Atlantic?",
+                "answers": ["transatlantic slave trade", "atlantic slave trade", "middle passage"]
+            }
+        },
+        "114": {
+            "100": {
+                "question": "What event in 1914 helped trigger World War I?",
+                "answers": ["assassination of archduke franz ferdinand", "franz ferdinand assassination", "assassination at sarajevo"]
+            },
+            "200": {
+                "question": "What treaty formally ended World War I with Germany?",
+                "answers": ["treaty of versailles", "versailles treaty"]
+            },
+            "300": {
+                "question": "What 1941 attack brought the United States into World War II?",
+                "answers": ["pearl harbor", "attack on pearl harbor"]
+            },
+            "400": {
+                "question": "What Allied invasion of Normandy began on June 6, 1944?",
+                "answers": ["d-day", "dday", "normandy invasion", "operation overlord"]
+            },
+            "500": {
+                "question": "What systematic genocide by Nazi Germany murdered six million Jews and millions of other victims?",
+                "answers": ["holocaust", "the holocaust"]
+            }
+        },
+        "115": {
+            "100": {
+                "question": "What two superpowers were the main rivals during the Cold War?",
+                "answers": ["united states and soviet union", "us and ussr", "usa and ussr", "united states and ussr"]
+            },
+            "200": {
+                "question": "What military alliance was formed by the United States, Canada, and Western European nations in 1949?",
+                "answers": ["nato", "north atlantic treaty organization"]
+            },
+            "300": {
+                "question": "What wall became a major symbol of Cold War division in Europe?",
+                "answers": ["berlin wall", "the berlin wall"]
+            },
+            "400": {
+                "question": "What 1962 crisis brought the United States and Soviet Union close to nuclear war?",
+                "answers": ["cuban missile crisis", "the cuban missile crisis"]
+            },
+            "500": {
+                "question": "What policy aimed to stop the spread of communism during the Cold War?",
+                "answers": ["containment", "containment policy"]
+            }
+        },
+        "116": {
+            "100": {
+                "question": "What organization was founded in 1945 to promote international peace and cooperation?",
+                "answers": ["united nations", "the united nations", "un"]
+            },
+            "200": {
+                "question": "What term describes the process of colonies gaining independence from imperial powers?",
+                "answers": ["decolonization", "decolonisation"]
+            },
+            "300": {
+                "question": "What South African system of racial segregation ended in the early 1990s?",
+                "answers": ["apartheid"]
+            },
+            "400": {
+                "question": "What 1989 event symbolized the decline of communist control in Eastern Europe?",
+                "answers": ["fall of the berlin wall", "berlin wall fell", "berlin wall opening"]
+            },
+            "500": {
+                "question": "What term describes the increasing connection of economies, cultures, and communication across the world?",
+                "answers": ["globalization", "globalisation"]
+            }
+        }
+    }
+}
