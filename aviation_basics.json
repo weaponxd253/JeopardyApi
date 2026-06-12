@@ -1,0 +1,144 @@
+{
+    "categories": [
+        { "id": 141, "name": "Aircraft Parts" },
+        { "id": 142, "name": "Forces of Flight" },
+        { "id": 143, "name": "Airports" },
+        { "id": 144, "name": "Weather Basics" },
+        { "id": 145, "name": "Flight Rules" },
+        { "id": 146, "name": "Navigation" }
+    ],
+    "questions": {
+        "141": {
+            "100": {
+                "question": "What part of an airplane produces most of its lift?",
+                "answers": ["wings", "wing"]
+            },
+            "200": {
+                "question": "What movable surface on the tail controls pitch?",
+                "answers": ["elevator", "elevators"]
+            },
+            "300": {
+                "question": "What movable surface on the vertical tail controls yaw?",
+                "answers": ["rudder"]
+            },
+            "400": {
+                "question": "What wing surfaces control roll?",
+                "answers": ["ailerons", "aileron"]
+            },
+            "500": {
+                "question": "What high-lift devices are extended to increase lift and drag during takeoff and landing?",
+                "answers": ["flaps", "wing flaps"]
+            }
+        },
+        "142": {
+            "100": {
+                "question": "What are the four forces of flight?",
+                "answers": ["lift weight thrust drag", "lift, weight, thrust, and drag", "lift thrust drag weight"]
+            },
+            "200": {
+                "question": "What force opposes weight in flight?",
+                "answers": ["lift"]
+            },
+            "300": {
+                "question": "What force opposes thrust?",
+                "answers": ["drag"]
+            },
+            "400": {
+                "question": "What force moves an aircraft forward?",
+                "answers": ["thrust"]
+            },
+            "500": {
+                "question": "What term describes the angle between a wing's chord line and the relative wind?",
+                "answers": ["angle of attack", "aoa"]
+            }
+        },
+        "143": {
+            "100": {
+                "question": "What airport area is used for aircraft takeoff and landing?",
+                "answers": ["runway", "runways"]
+            },
+            "200": {
+                "question": "What do runway numbers generally represent?",
+                "answers": ["magnetic heading", "runway magnetic heading", "compass direction"]
+            },
+            "300": {
+                "question": "What airport sign color usually identifies runways?",
+                "answers": ["red", "red signs", "white on red"]
+            },
+            "400": {
+                "question": "What lighting system helps pilots judge their glide path during approach?",
+                "answers": ["papi", "precision approach path indicator", "vasi", "visual approach slope indicator"]
+            },
+            "500": {
+                "question": "What published airport traffic pattern leg is flown parallel to the landing runway in the opposite direction of landing?",
+                "answers": ["downwind", "downwind leg"]
+            }
+        },
+        "144": {
+            "100": {
+                "question": "What weather condition reduces visibility near the ground due to suspended water droplets?",
+                "answers": ["fog"]
+            },
+            "200": {
+                "question": "What does wind direction in aviation usually describe?",
+                "answers": ["where wind comes from", "direction wind is from", "source direction"]
+            },
+            "300": {
+                "question": "What cloud type is often associated with thunderstorms?",
+                "answers": ["cumulonimbus", "cb", "cumulonimbus cloud"]
+            },
+            "400": {
+                "question": "What sudden change in wind speed or direction can be hazardous during takeoff and landing?",
+                "answers": ["wind shear", "windshear"]
+            },
+            "500": {
+                "question": "What altimeter setting adjusts the altimeter to local barometric pressure?",
+                "answers": ["qnh", "local altimeter setting", "barometric pressure setting"]
+            }
+        },
+        "145": {
+            "100": {
+                "question": "What does VFR stand for?",
+                "answers": ["visual flight rules"]
+            },
+            "200": {
+                "question": "What does IFR stand for?",
+                "answers": ["instrument flight rules"]
+            },
+            "300": {
+                "question": "Under VFR, pilots primarily navigate and avoid other aircraft using what?",
+                "answers": ["visual reference", "outside visual references", "see and avoid", "sight"]
+            },
+            "400": {
+                "question": "What flight plan type is used when a pilot flies mainly by instruments and ATC clearances?",
+                "answers": ["ifr flight plan", "instrument flight rules", "ifr"]
+            },
+            "500": {
+                "question": "What document contains federal rules for aviation operations in the United States?",
+                "answers": ["far", "fars", "federal aviation regulations", "14 cfr", "code of federal regulations"]
+            }
+        },
+        "146": {
+            "100": {
+                "question": "What instrument shows an aircraft's heading?",
+                "answers": ["heading indicator", "compass", "magnetic compass"]
+            },
+            "200": {
+                "question": "What radio navigation aid uses radials from a ground station?",
+                "answers": ["vor", "vhf omnidirectional range"]
+            },
+            "300": {
+                "question": "What satellite-based navigation system is widely used by pilots?",
+                "answers": ["gps", "global positioning system"]
+            },
+            "400": {
+                "question": "What aviation chart is commonly used by VFR pilots for visual navigation?",
+                "answers": ["sectional chart", "sectional"]
+            },
+            "500": {
+                "question": "What term describes a planned route flown from one airport or point to another?",
+                "answers": ["cross-country flight", "cross country", "navigation route", "flight route"]
+            }
+        }
+    }
+}

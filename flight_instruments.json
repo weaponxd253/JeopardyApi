@@ -1,0 +1,144 @@
+{
+    "categories": [
+        { "id": 151, "name": "Six Pack" },
+        { "id": 152, "name": "Pitot-Static Instruments" },
+        { "id": 153, "name": "Gyroscopic Instruments" },
+        { "id": 154, "name": "Engine Instruments" },
+        { "id": 155, "name": "Navigation Instruments" },
+        { "id": 156, "name": "Instrument Flying" }
+    ],
+    "questions": {
+        "151": {
+            "100": {
+                "question": "What instrument shows the aircraft's speed through the air?",
+                "answers": ["airspeed indicator", "asi"]
+            },
+            "200": {
+                "question": "What instrument shows the aircraft's altitude above mean sea level?",
+                "answers": ["altimeter"]
+            },
+            "300": {
+                "question": "What instrument shows whether the aircraft is climbing, descending, or level?",
+                "answers": ["vertical speed indicator", "vsi", "rate of climb indicator"]
+            },
+            "400": {
+                "question": "What instrument shows aircraft attitude relative to the horizon?",
+                "answers": ["attitude indicator", "artificial horizon"]
+            },
+            "500": {
+                "question": "What instrument shows aircraft heading using a gyroscope and must be aligned with the magnetic compass?",
+                "answers": ["heading indicator", "directional gyro", "dg"]
+            }
+        },
+        "152": {
+            "100": {
+                "question": "What system provides pressure information to the airspeed indicator, altimeter, and vertical speed indicator?",
+                "answers": ["pitot-static system", "pitot static system"]
+            },
+            "200": {
+                "question": "What aircraft part measures ram air pressure for the airspeed indicator?",
+                "answers": ["pitot tube", "pitot probe"]
+            },
+            "300": {
+                "question": "What port measures outside atmospheric pressure?",
+                "answers": ["static port", "static source"]
+            },
+            "400": {
+                "question": "If the pitot tube is blocked but the static port works, which instrument is most directly affected?",
+                "answers": ["airspeed indicator", "asi"]
+            },
+            "500": {
+                "question": "What cockpit control can provide an alternate source of static pressure if the normal static port is blocked?",
+                "answers": ["alternate static source", "alternate static valve", "alternate static air"]
+            }
+        },
+        "153": {
+            "100": {
+                "question": "What instrument shows bank and pitch attitude?",
+                "answers": ["attitude indicator", "artificial horizon"]
+            },
+            "200": {
+                "question": "What instrument shows aircraft heading and is often called the directional gyro?",
+                "answers": ["heading indicator", "directional gyro", "dg"]
+            },
+            "300": {
+                "question": "What instrument shows rate of turn and coordination using a needle or miniature aircraft and a ball?",
+                "answers": ["turn coordinator", "turn and slip indicator", "turn coordinator and ball"]
+            },
+            "400": {
+                "question": "What gyroscopic principle resists changes to the plane of rotation?",
+                "answers": ["rigidity in space", "gyroscopic rigidity"]
+            },
+            "500": {
+                "question": "What gyroscopic principle causes a force applied to a spinning gyro to appear 90 degrees later in the direction of rotation?",
+                "answers": ["precession", "gyroscopic precession"]
+            }
+        },
+        "154": {
+            "100": {
+                "question": "What instrument shows engine revolutions per minute?",
+                "answers": ["tachometer", "rpm gauge", "rpm indicator"]
+            },
+            "200": {
+                "question": "What instrument shows fuel quantity in the tanks?",
+                "answers": ["fuel gauge", "fuel quantity indicator"]
+            },
+            "300": {
+                "question": "What instrument helps monitor the temperature of oil in a piston engine?",
+                "answers": ["oil temperature gauge", "oil temp gauge", "oil temperature indicator"]
+            },
+            "400": {
+                "question": "What instrument shows oil pressure in an engine lubrication system?",
+                "answers": ["oil pressure gauge", "oil pressure indicator"]
+            },
+            "500": {
+                "question": "What instrument on many constant-speed propeller aircraft indicates engine intake pressure?",
+                "answers": ["manifold pressure gauge", "manifold pressure indicator"]
+            }
+        },
+        "155": {
+            "100": {
+                "question": "What instrument uses a magnetic field to show direction?",
+                "answers": ["magnetic compass", "compass"]
+            },
+            "200": {
+                "question": "What navigation instrument displays the selected VOR radial or localizer course?",
+                "answers": ["course deviation indicator", "cdi"]
+            },
+            "300": {
+                "question": "What instrument combines heading information with navigation course guidance?",
+                "answers": ["horizontal situation indicator", "hsi"]
+            },
+            "400": {
+                "question": "What system provides vertical and lateral guidance for a precision instrument approach?",
+                "answers": ["ils", "instrument landing system"]
+            },
+            "500": {
+                "question": "What onboard system can show aircraft position using satellite navigation?",
+                "answers": ["gps", "global positioning system", "gnss"]
+            }
+        },
+        "156": {
+            "100": {
+                "question": "What does IFR stand for?",
+                "answers": ["instrument flight rules"]
+            },
+            "200": {
+                "question": "What does IMC stand for?",
+                "answers": ["instrument meteorological conditions"]
+            },
+            "300": {
+                "question": "What is the term for flying an aircraft using instruments when outside visual references are limited?",
+                "answers": ["instrument flying", "flying by instruments", "instrument flight"]
+            },
+            "400": {
+                "question": "What scanning technique requires pilots to regularly cross-check attitude, altitude, heading, airspeed, and performance instruments?",
+                "answers": ["instrument scan", "cross-check", "instrument cross-check"]
+            },
+            "500": {
+                "question": "What dangerous condition can occur when a pilot loses awareness of the aircraft's attitude or motion without visual references?",
+                "answers": ["spatial disorientation", "disorientation"]
+            }
+        }
+    }
+}
