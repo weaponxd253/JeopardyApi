@@ -11,133 +11,163 @@
         "111": {
             "100": {
                 "question": "What empire was ruled by Julius Caesar and Augustus?",
-                "answers": ["roman empire", "rome"]
+                "answers": ["roman empire", "rome"],
+                "explanation": "Julius Caesar's rise ended the Roman Republic, and his heir Augustus became the first Roman emperor in 27 BCE."
             },
             "200": {
                 "question": "What empire preserved Greek and Roman learning after the western Roman Empire fell?",
-                "answers": ["byzantine empire", "byzantium", "eastern roman empire"]
+                "answers": ["byzantine empire", "byzantium", "eastern roman empire"],
+                "explanation": "The Byzantine Empire, the eastern half of the Roman Empire, ruled from Constantinople until 1453 and preserved Greek and Roman texts, law, and learning."
             },
             "300": {
                 "question": "What West African empire was famous for the wealth of Mansa Musa?",
-                "answers": ["mali empire", "mali"]
+                "answers": ["mali empire", "mali"],
+                "explanation": "Mansa Musa ruled the Mali Empire in the 1300s. His pilgrimage to Mecca in 1324 spent so much gold that it became legendary."
             },
             "400": {
                 "question": "What empire conquered Constantinople in 1453?",
-                "answers": ["ottoman empire", "ottomans"]
+                "answers": ["ottoman empire", "ottomans"],
+                "explanation": "The Ottoman Turks under Mehmed II captured Constantinople in 1453, ending the Byzantine Empire. The city became the Ottoman capital, later called Istanbul."
             },
             "500": {
                 "question": "What empire connected much of Eurasia under leaders such as Genghis Khan and Kublai Khan?",
-                "answers": ["mongol empire", "mongols", "mongol khanate"]
+                "answers": ["mongol empire", "mongols", "mongol khanate"],
+                "explanation": "Genghis Khan founded the Mongol Empire in 1206. Under his successors, including Kublai Khan, it became the largest connected land empire in history."
             }
         },
         "112": {
             "100": {
                 "question": "What revolution began in France in 1789?",
-                "answers": ["french revolution"]
+                "answers": ["french revolution"],
+                "explanation": "The French Revolution began in 1789 with the storming of the Bastille. It overthrew the monarchy and spread ideas of liberty, equality, and citizens' rights."
             },
             "200": {
                 "question": "What revolution led to the creation of the United States?",
-                "answers": ["american revolution", "american revolutionary war"]
+                "answers": ["american revolution", "american revolutionary war"],
+                "explanation": "The American Revolution (1775-1783) won the Thirteen Colonies independence from Britain and created the United States."
             },
             "300": {
                 "question": "What Caribbean revolution led to the independence of Haiti?",
-                "answers": ["haitian revolution", "haiti revolution"]
+                "answers": ["haitian revolution", "haiti revolution"],
+                "explanation": "The Haitian Revolution (1791-1804), led by Toussaint Louverture and others, was a successful uprising of enslaved people. It made Haiti the first Black-led republic."
             },
             "400": {
                 "question": "What 1917 revolution helped bring the Bolsheviks to power in Russia?",
-                "answers": ["russian revolution", "bolshevik revolution", "october revolution"]
+                "answers": ["russian revolution", "bolshevik revolution", "october revolution"],
+                "explanation": "In the October Revolution of 1917, Lenin's Bolsheviks seized power in Russia, which led to civil war and the creation of the Soviet Union."
             },
             "500": {
                 "question": "What period of rapid machine-powered production began in Britain in the late 1700s?",
-                "answers": ["industrial revolution"]
+                "answers": ["industrial revolution"],
+                "explanation": "The Industrial Revolution began in Britain with steam engines, textile mills, and factories. It moved production from hand work to machines."
             }
         },
         "113": {
             "100": {
                 "question": "What Italian explorer completed voyages across the Atlantic for Spain beginning in 1492?",
-                "answers": ["christopher columbus", "columbus"]
+                "answers": ["christopher columbus", "columbus"],
+                "explanation": "Christopher Columbus, from Genoa, sailed for Spain's Ferdinand and Isabella in 1492, reaching the Caribbean and opening lasting European contact with the Americas."
             },
             "200": {
                 "question": "What global transfer of plants, animals, diseases, and people followed European contact with the Americas?",
-                "answers": ["columbian exchange"]
+                "answers": ["columbian exchange"],
+                "explanation": "The Columbian Exchange moved crops like potatoes and maize to Europe, horses and wheat to the Americas, and diseases like smallpox that devastated Native populations."
             },
             "300": {
                 "question": "What Portuguese explorer led the first expedition to circumnavigate the globe, though he died before it was completed?",
-                "answers": ["ferdinand magellan", "magellan"]
+                "answers": ["ferdinand magellan", "magellan"],
+                "explanation": "Ferdinand Magellan's fleet set out in 1519. Magellan was killed in the Philippines in 1521, and Juan Sebastian Elcano completed the first circumnavigation in 1522."
             },
             "400": {
                 "question": "What trade route network connected China, Central Asia, the Middle East, and Europe?",
-                "answers": ["silk road", "silk roads"]
+                "answers": ["silk road", "silk roads"],
+                "explanation": "The Silk Road linked China to Central Asia, the Middle East, and Europe, carrying silk, spices, technologies, religions, and diseases."
             },
             "500": {
                 "question": "What triangular trade system forcibly transported millions of Africans across the Atlantic?",
-                "answers": ["transatlantic slave trade", "atlantic slave trade", "middle passage"]
+                "answers": ["transatlantic slave trade", "atlantic slave trade", "middle passage"],
+                "explanation": "The transatlantic slave trade forcibly carried over 12 million Africans to the Americas. Their brutal crossing was called the Middle Passage."
             }
         },
         "114": {
             "100": {
                 "question": "What event in 1914 helped trigger World War I?",
-                "answers": ["assassination of archduke franz ferdinand", "franz ferdinand assassination", "assassination at sarajevo"]
+                "answers": ["assassination of archduke franz ferdinand", "franz ferdinand assassination", "assassination at sarajevo"],
+                "explanation": "Gavrilo Princip assassinated Archduke Franz Ferdinand of Austria-Hungary in Sarajevo on June 28, 1914. The alliance system then pulled Europe's powers into war."
             },
             "200": {
                 "question": "What treaty formally ended World War I with Germany?",
-                "answers": ["treaty of versailles", "versailles treaty"]
+                "answers": ["treaty of versailles", "versailles treaty"],
+                "explanation": "The Treaty of Versailles (1919) blamed Germany for the war, took away territory, and demanded heavy reparations. Resentment over it helped lead to World War II."
             },
             "300": {
                 "question": "What 1941 attack brought the United States into World War II?",
-                "answers": ["pearl harbor", "attack on pearl harbor"]
+                "answers": ["pearl harbor", "attack on pearl harbor"],
+                "explanation": "Japan's surprise attack on the U.S. naval base at Pearl Harbor, Hawaii, on December 7, 1941, brought the United States into World War II."
             },
             "400": {
                 "question": "What Allied invasion of Normandy began on June 6, 1944?",
-                "answers": ["d-day", "dday", "normandy invasion", "operation overlord"]
+                "answers": ["d-day", "dday", "normandy invasion", "operation overlord"],
+                "explanation": "On D-Day, code-named Operation Overlord, Allied troops landed on the beaches of Normandy, France, in the largest seaborne invasion in history."
             },
             "500": {
                 "question": "What systematic genocide by Nazi Germany murdered six million Jews and millions of other victims?",
-                "answers": ["holocaust"]
+                "answers": ["holocaust"],
+                "explanation": "In the Holocaust, Nazi Germany systematically murdered about six million Jews, along with millions of Roma, disabled people, Poles, and others."
             }
         },
         "115": {
             "100": {
                 "question": "What two superpowers were the main rivals during the Cold War?",
-                "answers": ["united states and soviet union", "us and ussr", "usa and ussr", "united states and ussr"]
+                "answers": ["united states and soviet union", "us and ussr", "usa and ussr", "united states and ussr"],
+                "explanation": "The United States and the Soviet Union led opposing blocs from 1947 to 1991, competing through arms races, proxy wars, and the space race without fighting each other directly."
             },
             "200": {
                 "question": "What military alliance was formed by the United States, Canada, and Western European nations in 1949?",
-                "answers": ["nato", "north atlantic treaty organization"]
+                "answers": ["nato", "north atlantic treaty organization"],
+                "explanation": "NATO, the North Atlantic Treaty Organization, was formed in 1949. Its members agreed that an attack on one would be treated as an attack on all."
             },
             "300": {
                 "question": "What wall became a major symbol of Cold War division in Europe?",
-                "answers": ["berlin wall"]
+                "answers": ["berlin wall"],
+                "explanation": "East Germany built the Berlin Wall in 1961 to stop people fleeing to West Berlin. It stood as a symbol of the Iron Curtain until 1989."
             },
             "400": {
                 "question": "What 1962 crisis brought the United States and Soviet Union close to nuclear war?",
-                "answers": ["cuban missile crisis"]
+                "answers": ["cuban missile crisis"],
+                "explanation": "During the Cuban Missile Crisis in October 1962, the U.S. discovered Soviet nuclear missiles in Cuba. After 13 tense days, the Soviets agreed to remove them."
             },
             "500": {
                 "question": "What policy aimed to stop the spread of communism during the Cold War?",
-                "answers": ["containment", "containment policy"]
+                "answers": ["containment", "containment policy"],
+                "explanation": "Containment, announced in the 1947 Truman Doctrine, aimed to stop communism from spreading to new countries rather than to overthrow it where it existed."
             }
         },
         "116": {
             "100": {
                 "question": "What organization was founded in 1945 to promote international peace and cooperation?",
-                "answers": ["united nations", "un"]
+                "answers": ["united nations", "un"],
+                "explanation": "The United Nations was founded in 1945, after World War II, to replace the League of Nations and promote peace, security, and cooperation between countries."
             },
             "200": {
                 "question": "What term describes the process of colonies gaining independence from imperial powers?",
-                "answers": ["decolonization", "decolonisation"]
+                "answers": ["decolonization", "decolonisation"],
+                "explanation": "Decolonization swept Africa and Asia after World War II, as dozens of colonies won independence from European powers, often through long struggles."
             },
             "300": {
                 "question": "What South African system of racial segregation ended in the early 1990s?",
-                "answers": ["apartheid"]
+                "answers": ["apartheid"],
+                "explanation": "Apartheid was South Africa's system of legal racial segregation from 1948. It ended in the early 1990s, and Nelson Mandela was elected president in 1994."
             },
             "400": {
                 "question": "What 1989 event symbolized the decline of communist control in Eastern Europe?",
-                "answers": ["fall of the berlin wall", "berlin wall fell", "berlin wall opening"]
+                "answers": ["fall of the berlin wall", "berlin wall fell", "berlin wall opening"],
+                "explanation": "The Berlin Wall opened on November 9, 1989. Communist governments across Eastern Europe soon fell, and Germany reunified in 1990."
             },
             "500": {
                 "question": "What term describes the increasing connection of economies, cultures, and communication across the world?",
-                "answers": ["globalization", "globalisation"]
+                "answers": ["globalization", "globalisation"],
+                "explanation": "Globalization is the growing connection of the world's economies, cultures, and people through trade, travel, and technologies such as the internet."
             }
         }
     }

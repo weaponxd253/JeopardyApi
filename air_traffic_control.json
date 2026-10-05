@@ -11,133 +11,163 @@
         "131": {
             "100": {
                 "question": "What does ATC stand for?",
-                "answers": ["air traffic control", "air traffic controller"]
+                "answers": ["air traffic control", "air traffic controller"],
+                "explanation": "ATC stands for air traffic control, the service that keeps aircraft safely separated and traffic flowing on the ground and in the air."
             },
             "200": {
                 "question": "What ATC position usually controls aircraft on runways and in the immediate airport area?",
-                "answers": ["tower", "control tower", "local control", "tower controller"]
+                "answers": ["tower", "control tower", "local control", "tower controller"],
+                "explanation": "The tower, also called local control, clears aircraft to take off and land and controls traffic on the runways and in the airspace right around the airport."
             },
             "300": {
                 "question": "What ATC position handles aircraft movement on taxiways and airport ramps controlled by ATC?",
-                "answers": ["ground control", "ground controller", "ground"]
+                "answers": ["ground control", "ground controller", "ground"],
+                "explanation": "Ground control issues taxi instructions for aircraft and vehicles on taxiways and the movement areas of the airport, but not the active runways."
             },
             "400": {
                 "question": "What ATC service guides aircraft after departure or before arrival in busy terminal areas?",
-                "answers": ["approach control", "departure control", "tracon", "terminal radar approach control"]
+                "answers": ["approach control", "departure control", "tracon", "terminal radar approach control"],
+                "explanation": "Approach and departure control, usually run from a TRACON, use radar to sequence arriving and departing aircraft in busy terminal airspace."
             },
             "500": {
                 "question": "What ATC facility typically handles aircraft during the en route portion of IFR flights?",
-                "answers": ["center", "air route traffic control center", "artcc", "en route center"]
+                "answers": ["center", "air route traffic control center", "artcc", "en route center"],
+                "explanation": "An Air Route Traffic Control Center (ARTCC), called Center, handles IFR aircraft on the en route part of their flights, between terminal areas."
             }
         },
         "132": {
             "100": {
                 "question": "What word means yes or correct in standard aviation radio communication?",
-                "answers": ["affirmative", "affirm"]
+                "answers": ["affirmative", "affirm"],
+                "explanation": "Affirmative, often shortened to affirm, is the standard radio word for yes. Using it avoids confusion with similar-sounding words."
             },
             "200": {
                 "question": "What word means no or permission is not granted in aviation communication?",
-                "answers": ["negative"]
+                "answers": ["negative"],
+                "explanation": "Negative is the standard radio word for no, permission not granted, or that is not correct."
             },
             "300": {
                 "question": "What does a pilot say to indicate they understood an instruction and will comply?",
-                "answers": ["wilco", "will comply"]
+                "answers": ["wilco", "will comply"],
+                "explanation": "Wilco is short for will comply. It means the pilot received the message, understands it, and will follow it."
             },
             "400": {
                 "question": "What is the standard phrase used to ask someone to repeat a radio transmission?",
-                "answers": ["say again", "repeat transmission"]
+                "answers": ["say again", "repeat transmission"],
+                "explanation": "Say again is the standard way to ask for a transmission to be repeated. Repeat is avoided because it can be confused with other meanings."
             },
             "500": {
                 "question": "What part of an ATC clearance must pilots read back to confirm accuracy?",
-                "answers": ["hold short instructions", "runway assignments", "altitudes", "headings", "clearance limit", "readback items"]
+                "answers": ["hold short instructions", "runway assignments", "altitudes", "headings", "clearance limit", "readback items"],
+                "explanation": "Pilots must read back runway hold short instructions and assignments, and should read back altitudes, headings, and other key clearance items so controllers can catch mistakes."
             }
         },
         "133": {
             "100": {
                 "question": "What class of airspace usually surrounds the busiest airports and requires an ATC clearance to enter?",
-                "answers": ["class b", "class bravo", "bravo airspace"]
+                "answers": ["class b", "class bravo", "bravo airspace"],
+                "explanation": "Class B airspace surrounds the busiest airports. Pilots need an explicit ATC clearance to enter it."
             },
             "200": {
                 "question": "What class of airspace usually surrounds airports with operating control towers and radar approach control?",
-                "answers": ["class c", "class charlie", "charlie airspace"]
+                "answers": ["class c", "class charlie", "charlie airspace"],
+                "explanation": "Class C airspace surrounds airports with an operating control tower and radar approach control. Pilots must establish two-way radio contact before entering."
             },
             "300": {
                 "question": "What class of airspace usually surrounds airports with an operating control tower but less traffic than Class C?",
-                "answers": ["class d", "class delta", "delta airspace"]
+                "answers": ["class d", "class delta", "delta airspace"],
+                "explanation": "Class D airspace surrounds smaller towered airports. Pilots must establish two-way radio contact with the tower before entering."
             },
             "400": {
                 "question": "What airspace begins at 18,000 feet MSL in the United States?",
-                "answers": ["class a", "class alpha", "alpha airspace"]
+                "answers": ["class a", "class alpha", "alpha airspace"],
+                "explanation": "In the United States, Class A airspace runs from 18,000 feet MSL up to FL600. All flights there must be under IFR."
             },
             "500": {
                 "question": "What type of airspace is established where flight may be hazardous or restricted for safety or security reasons?",
-                "answers": ["special use airspace", "sua", "restricted airspace", "prohibited airspace"]
+                "answers": ["special use airspace", "sua", "restricted airspace", "prohibited airspace"],
+                "explanation": "Special use airspace, such as restricted, prohibited, and military operations areas, marks places where flight is limited because of hazards or security."
             }
         },
         "134": {
             "100": {
                 "question": "What is the purpose of aircraft separation in air traffic control?",
-                "answers": ["prevent collisions", "maintain safe distance", "safety", "avoid traffic conflicts"]
+                "answers": ["prevent collisions", "maintain safe distance", "safety", "avoid traffic conflicts"],
+                "explanation": "Separation keeps a minimum safe distance between aircraft so they never come close enough to collide."
             },
             "200": {
                 "question": "What type of separation uses altitude differences between aircraft?",
-                "answers": ["vertical separation", "altitude separation"]
+                "answers": ["vertical separation", "altitude separation"],
+                "explanation": "Vertical separation assigns aircraft different altitudes, typically at least 1,000 feet apart, so they can pass safely."
             },
             "300": {
                 "question": "What type of separation uses distance or time between aircraft on the same or crossing routes?",
-                "answers": ["horizontal separation", "lateral separation", "longitudinal separation"]
+                "answers": ["horizontal separation", "lateral separation", "longitudinal separation"],
+                "explanation": "Horizontal separation uses lateral distance between routes or longitudinal distance or time between aircraft on the same route."
             },
             "400": {
                 "question": "What hazard behind large aircraft can require extra spacing for following aircraft?",
-                "answers": ["wake turbulence", "wingtip vortices", "wake vortices"]
+                "answers": ["wake turbulence", "wingtip vortices", "wake vortices"],
+                "explanation": "Large aircraft shed powerful wingtip vortices, called wake turbulence. Following aircraft need extra spacing so the vortices can't roll or upset them."
             },
             "500": {
                 "question": "What system helps pilots and controllers identify aircraft position, altitude, and identity on radar?",
-                "answers": ["transponder", "secondary radar", "mode c", "ads-b"]
+                "answers": ["transponder", "secondary radar", "mode c", "ads-b"],
+                "explanation": "A transponder replies to radar with the aircraft's code and altitude. ADS-B broadcasts GPS position, so controllers can identify and track each aircraft."
             }
         },
         "135": {
             "100": {
                 "question": "What airport surface is used by aircraft for takeoff and landing?",
-                "answers": ["runway", "runways"]
+                "answers": ["runway", "runways"],
+                "explanation": "Runways are the surfaces built for takeoff and landing. ATC controls who may use them at any moment."
             },
             "200": {
                 "question": "What airport surface is used by aircraft to move between runways, ramps, and terminals?",
-                "answers": ["taxiway", "taxiways"]
+                "answers": ["taxiway", "taxiways"],
+                "explanation": "Taxiways connect runways with ramps, hangars, and terminals so aircraft can move around the airport without using the runway."
             },
             "300": {
                 "question": "What does a hold short instruction require a pilot to do?",
-                "answers": ["stop before runway", "do not enter runway", "hold before crossing", "stop at hold line"]
+                "answers": ["stop before runway", "do not enter runway", "hold before crossing", "stop at hold line"],
+                "explanation": "A hold short instruction means the pilot must stop before the hold short line and not enter the runway until cleared."
             },
             "400": {
                 "question": "What clearance allows an aircraft to enter a runway and begin its takeoff roll?",
-                "answers": ["cleared for takeoff", "takeoff clearance"]
+                "answers": ["cleared for takeoff", "takeoff clearance"],
+                "explanation": "Cleared for takeoff is the clearance that allows an aircraft to enter the runway and begin its takeoff roll."
             },
             "500": {
                 "question": "What airport signal tells pilots a runway, taxiway, or airport is closed?",
-                "answers": ["yellow x", "runway closed marking", "x marking", "closed runway marking"]
+                "answers": ["yellow x", "runway closed marking", "x marking", "closed runway marking"],
+                "explanation": "A yellow X painted on a runway or taxiway, or shown on the segmented circle, means it is closed and must not be used."
             }
         },
         "136": {
             "100": {
                 "question": "What radio word is used to declare a life-threatening emergency?",
-                "answers": ["mayday"]
+                "answers": ["mayday"],
+                "explanation": "Mayday, said three times, declares a distress situation: a grave and immediate danger to life that needs help right away."
             },
             "200": {
                 "question": "What radio phrase is used for an urgent situation that is not immediately life-threatening?",
-                "answers": ["pan-pan"]
+                "answers": ["pan-pan"],
+                "explanation": "Pan-pan, said three times, signals an urgent situation, such as a mechanical problem or sick passenger, that is not an immediate danger to life."
             },
             "300": {
                 "question": "What four-digit transponder code is commonly used for a general emergency?",
-                "answers": ["7700"]
+                "answers": ["7700"],
+                "explanation": "Squawking 7700 on the transponder alerts every radar facility that the aircraft has an emergency."
             },
             "400": {
                 "question": "What transponder code is commonly used for radio communication failure?",
-                "answers": ["7600"]
+                "answers": ["7600"],
+                "explanation": "Squawking 7600 tells ATC the aircraft has lost radio communication, so controllers expect it to follow lost-communication procedures."
             },
             "500": {
                 "question": "What transponder code is commonly used to indicate unlawful interference or hijacking?",
-                "answers": ["7500"]
+                "answers": ["7500"],
+                "explanation": "Squawking 7500 silently tells ATC the aircraft is being hijacked or faces unlawful interference."
             }
         }
     }

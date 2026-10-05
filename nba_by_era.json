@@ -11,133 +11,163 @@
         "171": {
             "100": {
                 "question": "What does NBA stand for?",
-                "answers": ["national basketball association"]
+                "answers": ["national basketball association"],
+                "explanation": "The National Basketball Association was formed in 1949 and is the top professional basketball league in North America."
             },
             "200": {
                 "question": "What earlier league merged with the NBL to form the NBA's direct predecessor structure?",
-                "answers": ["baa", "basketball association of america"]
+                "answers": ["baa", "basketball association of america"],
+                "explanation": "The Basketball Association of America (BAA), founded in 1946, merged with the National Basketball League (NBL) in 1949 to form the NBA."
             },
             "300": {
                 "question": "What team won many early NBA titles after relocating from Minneapolis to Los Angeles?",
-                "answers": ["lakers", "los angeles lakers", "minneapolis lakers"]
+                "answers": ["lakers", "los angeles lakers", "minneapolis lakers"],
+                "explanation": "The Lakers won five early NBA titles in Minneapolis, then moved to Los Angeles in 1960 and kept their name, even though Los Angeles has few lakes."
             },
             "400": {
                 "question": "What dominant big man led the Minneapolis Lakers to several early championships?",
-                "answers": ["george mikan", "mikan"]
+                "answers": ["george mikan", "mikan"],
+                "explanation": "George Mikan, a 6-foot-10 center, was the league's first dominant big man. He led the Minneapolis Lakers to five championships."
             },
             "500": {
                 "question": "What rule introduced in 1954 forced teams to attempt a shot within a set time?",
-                "answers": ["shot clock", "24-second shot clock", "twenty-four second shot clock"]
+                "answers": ["shot clock", "24-second shot clock", "twenty-four second shot clock"],
+                "explanation": "The 24-second shot clock, adopted in 1954, ended slow stalling games and sped up play. Scoring jumped right away."
             }
         },
         "172": {
             "100": {
                 "question": "What Boston Celtics center won 11 NBA championships as a player?",
-                "answers": ["bill russell", "russell"]
+                "answers": ["bill russell", "russell"],
+                "explanation": "Bill Russell won 11 championships in his 13 seasons with the Celtics, the most of any player in NBA history."
             },
             "200": {
                 "question": "What player scored 100 points in a single NBA game in 1962?",
-                "answers": ["wilt chamberlain", "chamberlain", "wilt"]
+                "answers": ["wilt chamberlain", "chamberlain", "wilt"],
+                "explanation": "Wilt Chamberlain scored 100 points for the Philadelphia Warriors against the New York Knicks on March 2, 1962, an NBA record that still stands."
             },
             "300": {
                 "question": "What Celtics coach led Boston during much of its 1950s and 1960s dynasty?",
-                "answers": ["red auerbach", "auerbach"]
+                "answers": ["red auerbach", "auerbach"],
+                "explanation": "Red Auerbach coached the Celtics to nine championships, including eight in a row from 1959 to 1966, and was known for lighting a victory cigar."
             },
             "400": {
                 "question": "What guard was known as The Logo and starred for the Lakers in the 1960s?",
-                "answers": ["jerry west", "west"]
+                "answers": ["jerry west", "west"],
+                "explanation": "Jerry West's silhouette is widely believed to be the model for the NBA logo, which earned him the nickname The Logo."
             },
             "500": {
                 "question": "What player averaged a triple-double for the 1961-62 season?",
-                "answers": ["oscar robertson", "robertson", "the big o"]
+                "answers": ["oscar robertson", "robertson", "the big o"],
+                "explanation": "Oscar Robertson averaged a triple-double for the 1961-62 season: 30.8 points, 12.5 rebounds, and 11.4 assists per game."
             }
         },
         "173": {
             "100": {
                 "question": "What rival basketball league merged with the NBA in 1976?",
-                "answers": ["aba", "american basketball association"]
+                "answers": ["aba", "american basketball association"],
+                "explanation": "The American Basketball Association merged with the NBA in 1976. Four ABA teams joined: the Nuggets, Pacers, Nets, and Spurs."
             },
             "200": {
                 "question": "What flashy ABA and NBA star was nicknamed Dr. J?",
-                "answers": ["julius erving", "erving", "dr j"]
+                "answers": ["julius erving", "erving", "dr j"],
+                "explanation": "Julius Erving, Dr. J, brought high-flying dunks to the ABA and NBA and won a championship with the Philadelphia 76ers in 1983."
             },
             "300": {
                 "question": "What team won the 1977 NBA Finals behind Bill Walton?",
-                "answers": ["portland trail blazers", "trail blazers", "blazers"]
+                "answers": ["portland trail blazers", "trail blazers", "blazers"],
+                "explanation": "Bill Walton led the Portland Trail Blazers past the Philadelphia 76ers for the 1977 title and was named Finals MVP."
             },
             "400": {
                 "question": "What team won the 1979 NBA championship led by Dennis Johnson and Jack Sikma?",
-                "answers": ["seattle supersonics", "supersonics", "sonics"]
+                "answers": ["seattle supersonics", "supersonics", "sonics"],
+                "explanation": "The Seattle SuperSonics beat the Washington Bullets in the 1979 Finals for the franchise's only title. Dennis Johnson was Finals MVP."
             },
             "500": {
                 "question": "What feature from the ABA later became a major part of NBA basketball strategy?",
-                "answers": ["three-point line", "3-point line", "three pointer", "3 pointer"]
+                "answers": ["three-point line", "3-point line", "three pointer", "3 pointer"],
+                "explanation": "The ABA used a three-point line from its start in 1967. The NBA adopted it in 1979, and today the three-pointer is central to the game."
             }
         },
         "174": {
             "100": {
                 "question": "What Lakers point guard led the Showtime offense in the 1980s?",
-                "answers": ["magic johnson", "magic"]
+                "answers": ["magic johnson", "magic"],
+                "explanation": "Magic Johnson ran the fast-breaking Showtime Lakers and won five championships in the 1980s."
             },
             "200": {
                 "question": "What Celtics forward was Magic Johnson's famous rival during the 1980s?",
-                "answers": ["larry bird", "bird"]
+                "answers": ["larry bird", "bird"],
+                "explanation": "Larry Bird led the Celtics to three titles in the 1980s. His rivalry with Magic Johnson, which began in college, helped revive the NBA's popularity."
             },
             "300": {
                 "question": "What Lakers center was famous for the skyhook?",
-                "answers": ["kareem abdul-jabbar", "kareem", "abdul-jabbar"]
+                "answers": ["kareem abdul-jabbar", "kareem", "abdul-jabbar"],
+                "explanation": "Kareem Abdul-Jabbar's nearly unstoppable skyhook made him the NBA's all-time leading scorer for almost 39 years."
             },
             "400": {
                 "question": "What Detroit Pistons teams were known for their physical Bad Boys style?",
-                "answers": ["detroit pistons", "bad boys", "bad boy pistons"]
+                "answers": ["detroit pistons", "bad boys", "bad boy pistons"],
+                "explanation": "The Bad Boys Pistons, led by Isiah Thomas and Bill Laimbeer, used tough, physical defense to win back-to-back titles in 1989 and 1990."
             },
             "500": {
                 "question": "What coach led the Lakers to multiple championships during the Showtime era?",
-                "answers": ["pat riley", "riley"]
+                "answers": ["pat riley", "riley"],
+                "explanation": "Pat Riley coached the Showtime Lakers to four championships in the 1980s and later won another as coach of the Miami Heat."
             }
         },
         "175": {
             "100": {
                 "question": "What Chicago Bulls player became the defining star of the 1990s NBA?",
-                "answers": ["michael jordan", "jordan", "mj"]
+                "answers": ["michael jordan", "jordan", "mj"],
+                "explanation": "Michael Jordan led the Bulls to six titles in the 1990s, winning Finals MVP every time, and became a global icon."
             },
             "200": {
                 "question": "What Bulls coach led Chicago to six NBA championships in the 1990s?",
-                "answers": ["phil jackson", "jackson"]
+                "answers": ["phil jackson", "jackson"],
+                "explanation": "Phil Jackson coached the Bulls to six titles with his triangle offense, then won five more with the Lakers, for 11 in total."
             },
             "300": {
                 "question": "What Bulls forward was Jordan's longtime star teammate?",
-                "answers": ["scottie pippen", "pippen"]
+                "answers": ["scottie pippen", "pippen"],
+                "explanation": "Scottie Pippen, a versatile forward and elite defender, was Jordan's teammate for all six Bulls championships."
             },
             "400": {
                 "question": "What Houston Rockets center led the team to back-to-back titles in 1994 and 1995?",
-                "answers": ["hakeem olajuwon", "olajuwon", "hakeem"]
+                "answers": ["hakeem olajuwon", "olajuwon", "hakeem"],
+                "explanation": "Hakeem Olajuwon, famous for his Dream Shake post moves, led the Houston Rockets to titles in 1994 and 1995 while Jordan was away from the Bulls."
             },
             "500": {
                 "question": "What Utah Jazz duo repeatedly challenged the Bulls in the late 1990s Finals?",
-                "answers": ["karl malone and john stockton", "stockton and malone", "john stockton and karl malone"]
+                "answers": ["karl malone and john stockton", "stockton and malone", "john stockton and karl malone"],
+                "explanation": "Karl Malone and John Stockton, masters of the pick-and-roll, led the Utah Jazz to the 1997 and 1998 Finals, losing both to the Bulls."
             }
         },
         "176": {
             "100": {
                 "question": "What Lakers star was nicknamed the Black Mamba?",
-                "answers": ["kobe bryant", "kobe", "bryant"]
+                "answers": ["kobe bryant", "kobe", "bryant"],
+                "explanation": "Kobe Bryant, the Black Mamba, spent his whole 20-year career with the Lakers and won five championships."
             },
             "200": {
                 "question": "What Spurs power forward was nicknamed The Big Fundamental?",
-                "answers": ["tim duncan", "duncan"]
+                "answers": ["tim duncan", "duncan"],
+                "explanation": "Tim Duncan's simple, flawless technique earned him the nickname The Big Fundamental. He won five titles with the Spurs."
             },
             "300": {
                 "question": "What player led the Cleveland Cavaliers to their first NBA championship in 2016?",
-                "answers": ["lebron james", "lebron", "james"]
+                "answers": ["lebron james", "lebron", "james"],
+                "explanation": "LeBron James led the Cavaliers back from a 3-1 deficit against the Golden State Warriors in 2016 to win Cleveland's first NBA title."
             },
             "400": {
                 "question": "What Warriors guard helped transform the NBA with high-volume three-point shooting?",
-                "answers": ["stephen curry", "steph curry", "curry"]
+                "answers": ["stephen curry", "steph curry", "curry"],
+                "explanation": "Stephen Curry's deep, high-volume three-point shooting changed how teams play. He holds the NBA record for career three-pointers made."
             },
             "500": {
                 "question": "What Denver Nuggets center won Finals MVP after leading Denver to its first NBA title in 2023?",
-                "answers": ["nikola jokic", "jokic"]
+                "answers": ["nikola jokic", "jokic"],
+                "explanation": "Nikola Jokic, a center known for elite passing, led the Nuggets past the Miami Heat in 2023 and was named Finals MVP."
             }
         }
     }

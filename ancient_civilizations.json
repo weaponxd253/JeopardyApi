@@ -11,133 +11,163 @@
         "121": {
             "100": {
                 "question": "What region between the Tigris and Euphrates rivers is often called the cradle of civilization?",
-                "answers": ["mesopotamia", "fertile crescent"]
+                "answers": ["mesopotamia", "fertile crescent"],
+                "explanation": "Mesopotamia, meaning land between the rivers, sits between the Tigris and Euphrates in modern Iraq. Some of the first cities, writing, and laws appeared there."
             },
             "200": {
                 "question": "What wedge-shaped writing system was used by ancient Sumerians?",
-                "answers": ["cuneiform"]
+                "answers": ["cuneiform"],
+                "explanation": "Cuneiform was made by pressing a reed stylus into wet clay, leaving wedge-shaped marks. It is one of the earliest known writing systems."
             },
             "300": {
                 "question": "What Babylonian king is known for one of the earliest written law codes?",
-                "answers": ["hammurabi", "king hammurabi"]
+                "answers": ["hammurabi", "king hammurabi"],
+                "explanation": "Hammurabi of Babylon issued the Code of Hammurabi around 1754 BCE, a set of about 282 laws carved on a stone stele."
             },
             "400": {
                 "question": "What stepped temple structure was common in Mesopotamian cities?",
-                "answers": ["ziggurat", "ziggurats"]
+                "answers": ["ziggurat", "ziggurats"],
+                "explanation": "Ziggurats were massive stepped temple towers built of mud brick, with a shrine to the city's god at the top."
             },
             "500": {
                 "question": "What ancient Mesopotamian epic tells the story of a king of Uruk seeking immortality?",
-                "answers": ["epic of gilgamesh", "gilgamesh"]
+                "answers": ["epic of gilgamesh", "gilgamesh"],
+                "explanation": "The Epic of Gilgamesh follows Gilgamesh, king of Uruk, on his search for eternal life. It is one of the oldest surviving works of literature."
             }
         },
         "122": {
             "100": {
                 "question": "What river was central to ancient Egyptian agriculture and transportation?",
-                "answers": ["nile", "nile river"]
+                "answers": ["nile", "nile river"],
+                "explanation": "The Nile flooded every year, leaving rich soil for farming, and served as Egypt's main highway for trade and travel."
             },
             "200": {
                 "question": "What title was used for the rulers of ancient Egypt?",
-                "answers": ["pharaoh", "pharaohs"]
+                "answers": ["pharaoh", "pharaohs"],
+                "explanation": "Pharaohs were Egypt's kings, seen as both political rulers and divine figures who kept order in the world."
             },
             "300": {
                 "question": "What writing system used picture-like symbols in ancient Egypt?",
-                "answers": ["hieroglyphics", "hieroglyphs"]
+                "answers": ["hieroglyphics", "hieroglyphs"],
+                "explanation": "Hieroglyphics used picture symbols for sounds and ideas. They were finally decoded in the 1820s using the Rosetta Stone."
             },
             "400": {
                 "question": "What process preserved bodies for the afterlife in ancient Egypt?",
-                "answers": ["mummification", "mummifying", "mummy making"]
+                "answers": ["mummification", "mummifying", "mummy making"],
+                "explanation": "Mummification removed the organs, dried the body with natron salt, and wrapped it in linen, because Egyptians believed the body was needed in the afterlife."
             },
             "500": {
                 "question": "What Egyptian queen ruled as pharaoh during the 18th Dynasty and expanded trade?",
-                "answers": ["hatshepsut"]
+                "answers": ["hatshepsut"],
+                "explanation": "Hatshepsut ruled as pharaoh in the 18th Dynasty, sent a famous trading expedition to the land of Punt, and built a great temple at Deir el-Bahri."
             }
         },
         "123": {
             "100": {
                 "question": "What city-state is often associated with democracy in ancient Greece?",
-                "answers": ["athens", "athens city-state"]
+                "answers": ["athens", "athens city-state"],
+                "explanation": "Athens developed one of the first democracies in the 500s BCE, where male citizens voted directly on laws in the assembly."
             },
             "200": {
                 "question": "What Greek city-state was famous for its military society?",
-                "answers": ["sparta"]
+                "answers": ["sparta"],
+                "explanation": "Sparta trained boys for war from age seven, and its citizens were full-time soldiers, making it the strongest land power in Greece."
             },
             "300": {
                 "question": "What wars were fought between Greek city-states and the Persian Empire?",
-                "answers": ["persian wars", "greco-persian wars"]
+                "answers": ["persian wars", "greco-persian wars"],
+                "explanation": "In the Persian Wars of the early 400s BCE, Greek city-states defeated Persian invasions at battles including Marathon, Thermopylae, and Salamis."
             },
             "400": {
                 "question": "Who was the student of Socrates and teacher of Aristotle?",
-                "answers": ["plato"]
+                "answers": ["plato"],
+                "explanation": "Plato studied under Socrates, wrote down his teacher's ideas in dialogues, and founded the Academy in Athens, where Aristotle studied."
             },
             "500": {
                 "question": "What ruler spread Greek culture across parts of Egypt, Persia, and India?",
-                "answers": ["alexander the great", "alexander iii", "alexander"]
+                "answers": ["alexander the great", "alexander iii", "alexander"],
+                "explanation": "Alexander the Great of Macedon conquered an empire from Greece to India, spreading Greek language and culture in what became the Hellenistic world."
             }
         },
         "124": {
             "100": {
                 "question": "What city became the center of the Roman Republic and Roman Empire?",
-                "answers": ["rome"]
+                "answers": ["rome"],
+                "explanation": "Rome, on the Tiber River in Italy, grew from a small city into the capital of the Roman Republic and later the Roman Empire."
             },
             "200": {
                 "question": "What Roman system of government existed before the empire and included elected officials?",
-                "answers": ["republic", "roman republic"]
+                "answers": ["republic", "roman republic"],
+                "explanation": "From about 509 BCE, the Roman Republic was led by elected officials such as consuls, advised by the Senate, instead of by a king."
             },
             "300": {
                 "question": "Who was assassinated on the Ides of March in 44 BCE?",
-                "answers": ["julius caesar", "caesar"]
+                "answers": ["julius caesar", "caesar"],
+                "explanation": "Julius Caesar was stabbed to death by a group of senators, including Brutus and Cassius, who feared he would make himself king."
             },
             "400": {
                 "question": "What long period of relative peace and stability began under Augustus?",
-                "answers": ["pax romana", "roman peace"]
+                "answers": ["pax romana", "roman peace"],
+                "explanation": "The Pax Romana, or Roman Peace, lasted about 200 years from Augustus's reign. Trade and culture flourished across the empire during this time."
             },
             "500": {
                 "question": "What set of conflicts between Rome and Carthage included Hannibal crossing the Alps?",
-                "answers": ["punic wars", "second punic war"]
+                "answers": ["punic wars", "second punic war"],
+                "explanation": "Rome and Carthage fought three Punic Wars for control of the Mediterranean. In the Second, Hannibal crossed the Alps with elephants, but Rome won in the end."
             }
         },
         "125": {
             "100": {
                 "question": "What structure was built and expanded to help protect northern China from invasions?",
-                "answers": ["great wall", "great wall of china"]
+                "answers": ["great wall", "great wall of china"],
+                "explanation": "The Great Wall was built and rebuilt over many centuries to defend against northern nomadic peoples. Most of what stands today dates from the Ming dynasty."
             },
             "200": {
                 "question": "What Chinese dynasty is associated with the first emperor, Qin Shi Huang?",
-                "answers": ["qin dynasty", "qin"]
+                "answers": ["qin dynasty", "qin"],
+                "explanation": "Qin Shi Huang unified China in 221 BCE and founded the Qin dynasty, standardizing writing, money, and weights and measures."
             },
             "300": {
                 "question": "What philosophy emphasizes social harmony, respect for elders, and proper relationships?",
-                "answers": ["confucianism", "confucian thought"]
+                "answers": ["confucianism", "confucian thought"],
+                "explanation": "Confucianism, based on the teachings of Confucius, stresses respect for elders and family, proper conduct in relationships, and good government."
             },
             "400": {
                 "question": "What trade route helped connect ancient China with Central Asia and the Mediterranean world?",
-                "answers": ["silk road", "silk roads"]
+                "answers": ["silk road", "silk roads"],
+                "explanation": "The Silk Road was a network of trade routes carrying silk, spices, ideas, and religions such as Buddhism between China and the Mediterranean."
             },
             "500": {
                 "question": "What army of clay soldiers was buried near the tomb of Qin Shi Huang?",
-                "answers": ["terracotta army", "terra cotta army", "terracotta warriors"]
+                "answers": ["terracotta army", "terra cotta army", "terracotta warriors"],
+                "explanation": "The Terracotta Army is thousands of life-size clay soldiers buried to guard Qin Shi Huang in the afterlife. Farmers found it in 1974 near Xi'an."
             }
         },
         "126": {
             "100": {
                 "question": "What ancient Mesoamerican civilization built cities such as Tikal?",
-                "answers": ["maya", "mayan civilization", "maya civilization"]
+                "answers": ["maya", "mayan civilization", "maya civilization"],
+                "explanation": "The Maya built city-states such as Tikal in present-day Guatemala, with stone pyramids, palaces, and plazas."
             },
             "200": {
                 "question": "What civilization built the city of Tenochtitlan on an island in Lake Texcoco?",
-                "answers": ["aztec", "aztecs", "mexica"]
+                "answers": ["aztec", "aztecs", "mexica"],
+                "explanation": "The Aztecs, who called themselves the Mexica, founded Tenochtitlan in 1325 on an island in Lake Texcoco. Mexico City stands there today."
             },
             "300": {
                 "question": "What Mesoamerican people are known for colossal stone heads?",
-                "answers": ["olmec", "olmecs"]
+                "answers": ["olmec", "olmecs"],
+                "explanation": "The Olmec, one of Mesoamerica's earliest civilizations, carved giant basalt heads that may portray their rulers."
             },
             "400": {
                 "question": "What writing and calendar system was highly developed by the Maya?",
-                "answers": ["maya calendar", "mayan calendar", "maya writing", "mayan writing"]
+                "answers": ["maya calendar", "mayan calendar", "maya writing", "mayan writing"],
+                "explanation": "The Maya developed a full writing system of glyphs and precise calendars, including the Long Count, and used the concept of zero."
             },
             "500": {
                 "question": "What Spanish conquistador led the expedition that defeated the Aztec Empire?",
-                "answers": ["hernan cortes", "cortes"]
+                "answers": ["hernan cortes", "cortes"],
+                "explanation": "Hernan Cortes landed in Mexico in 1519 and, with Indigenous allies and the help of smallpox, conquered the Aztec capital Tenochtitlan in 1521."
             }
         }
     }

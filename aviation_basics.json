@@ -11,133 +11,163 @@
         "141": {
             "100": {
                 "question": "What part of an airplane produces most of its lift?",
-                "answers": ["wings", "wing"]
+                "answers": ["wings", "wing"],
+                "explanation": "Air flowing over the curved wings creates lower pressure above them than below, producing most of the airplane's lift."
             },
             "200": {
                 "question": "What movable surface on the tail controls pitch?",
-                "answers": ["elevator", "elevators"]
+                "answers": ["elevator", "elevators"],
+                "explanation": "The elevator on the horizontal tail moves up or down to raise or lower the nose, which controls pitch."
             },
             "300": {
                 "question": "What movable surface on the vertical tail controls yaw?",
-                "answers": ["rudder"]
+                "answers": ["rudder"],
+                "explanation": "The rudder on the vertical tail swings left or right to move the nose side to side, which controls yaw."
             },
             "400": {
                 "question": "What wing surfaces control roll?",
-                "answers": ["ailerons", "aileron"]
+                "answers": ["ailerons", "aileron"],
+                "explanation": "Ailerons on the outer trailing edge of each wing move in opposite directions, raising one wing and lowering the other to roll the airplane."
             },
             "500": {
                 "question": "What high-lift devices are extended to increase lift and drag during takeoff and landing?",
-                "answers": ["flaps", "wing flaps"]
+                "answers": ["flaps", "wing flaps"],
+                "explanation": "Flaps extend from the trailing edge of the wing to increase lift and drag, allowing slower, steeper approaches and shorter takeoffs and landings."
             }
         },
         "142": {
             "100": {
                 "question": "What are the four forces of flight?",
-                "answers": ["lift weight thrust drag", "lift, weight, thrust, and drag", "lift thrust drag weight"]
+                "answers": ["lift weight thrust drag", "lift, weight, thrust, and drag", "lift thrust drag weight"],
+                "explanation": "Lift, weight, thrust, and drag act on every aircraft in flight. Lift opposes weight, and thrust opposes drag."
             },
             "200": {
                 "question": "What force opposes weight in flight?",
-                "answers": ["lift"]
+                "answers": ["lift"],
+                "explanation": "Lift, produced mainly by the wings, acts upward against weight, the pull of gravity."
             },
             "300": {
                 "question": "What force opposes thrust?",
-                "answers": ["drag"]
+                "answers": ["drag"],
+                "explanation": "Drag is the air resistance that acts against the aircraft's motion, opposing the thrust that moves it forward."
             },
             "400": {
                 "question": "What force moves an aircraft forward?",
-                "answers": ["thrust"]
+                "answers": ["thrust"],
+                "explanation": "Thrust, produced by a propeller or jet engine, pushes the aircraft forward through the air."
             },
             "500": {
                 "question": "What term describes the angle between a wing's chord line and the relative wind?",
-                "answers": ["angle of attack", "aoa"]
+                "answers": ["angle of attack", "aoa"],
+                "explanation": "Angle of attack is the angle between the wing's chord line and the oncoming relative wind. Exceeding the critical angle of attack causes a stall."
             }
         },
         "143": {
             "100": {
                 "question": "What airport area is used for aircraft takeoff and landing?",
-                "answers": ["runway", "runways"]
+                "answers": ["runway", "runways"],
+                "explanation": "Runways are the paved or grass strips used for takeoff and landing. Taxiways connect them to ramps and terminals."
             },
             "200": {
                 "question": "What do runway numbers generally represent?",
-                "answers": ["magnetic heading", "runway magnetic heading", "compass direction"]
+                "answers": ["magnetic heading", "runway magnetic heading", "compass direction"],
+                "explanation": "A runway's number is its magnetic heading rounded to the nearest 10 degrees with the last zero dropped, so runway 27 points about 270 degrees, due west."
             },
             "300": {
                 "question": "What airport sign color usually identifies runways?",
-                "answers": ["red", "red signs", "white on red"]
+                "answers": ["red", "red signs", "white on red"],
+                "explanation": "Mandatory instruction signs, such as runway holding position signs, have white letters on a red background. Pilots must stop there unless ATC clears them past."
             },
             "400": {
                 "question": "What lighting system helps pilots judge their glide path during approach?",
-                "answers": ["papi", "precision approach path indicator", "vasi", "visual approach slope indicator"]
+                "answers": ["papi", "precision approach path indicator", "vasi", "visual approach slope indicator"],
+                "explanation": "A PAPI uses a row of lights that show red or white depending on the approach angle. Two white and two red means the aircraft is on the correct glide path."
             },
             "500": {
                 "question": "What published airport traffic pattern leg is flown parallel to the landing runway in the opposite direction of landing?",
-                "answers": ["downwind", "downwind leg"]
+                "answers": ["downwind", "downwind leg"],
+                "explanation": "On the downwind leg, the aircraft flies parallel to the runway in the opposite direction of landing before turning onto base and final."
             }
         },
         "144": {
             "100": {
                 "question": "What weather condition reduces visibility near the ground due to suspended water droplets?",
-                "answers": ["fog"]
+                "answers": ["fog"],
+                "explanation": "Fog is a cloud at ground level made of tiny suspended water droplets. It can drop visibility below the minimums needed to take off or land."
             },
             "200": {
                 "question": "What does wind direction in aviation usually describe?",
-                "answers": ["where wind comes from", "direction wind is from", "source direction"]
+                "answers": ["where wind comes from", "direction wind is from", "source direction"],
+                "explanation": "Aviation wind direction is the direction the wind is blowing from. A wind from 270 degrees blows from the west toward the east."
             },
             "300": {
                 "question": "What cloud type is often associated with thunderstorms?",
-                "answers": ["cumulonimbus", "cb", "cumulonimbus cloud"]
+                "answers": ["cumulonimbus", "cb", "cumulonimbus cloud"],
+                "explanation": "Cumulonimbus clouds are tall, towering storm clouds that bring lightning, heavy rain, hail, severe turbulence, and wind shear."
             },
             "400": {
                 "question": "What sudden change in wind speed or direction can be hazardous during takeoff and landing?",
-                "answers": ["wind shear", "windshear"]
+                "answers": ["wind shear", "windshear"],
+                "explanation": "Wind shear is a sudden change in wind speed or direction. Near the ground it can cause a rapid loss of airspeed and altitude during takeoff or landing."
             },
             "500": {
                 "question": "What altimeter setting adjusts the altimeter to local barometric pressure?",
-                "answers": ["qnh", "local altimeter setting", "barometric pressure setting"]
+                "answers": ["qnh", "local altimeter setting", "barometric pressure setting"],
+                "explanation": "Setting the altimeter to the local altimeter setting (QNH) corrects for current barometric pressure, so the altimeter shows altitude above mean sea level."
             }
         },
         "145": {
             "100": {
                 "question": "What does VFR stand for?",
-                "answers": ["visual flight rules"]
+                "answers": ["visual flight rules"],
+                "explanation": "VFR means Visual Flight Rules: the pilot flies by looking outside, which requires weather good enough to see the ground and other traffic."
             },
             "200": {
                 "question": "What does IFR stand for?",
-                "answers": ["instrument flight rules"]
+                "answers": ["instrument flight rules"],
+                "explanation": "IFR means Instrument Flight Rules: the pilot flies by reference to instruments and ATC clearances, which allows flight in clouds and low visibility."
             },
             "300": {
                 "question": "Under VFR, pilots primarily navigate and avoid other aircraft using what?",
-                "answers": ["visual reference", "outside visual references", "see and avoid", "sight"]
+                "answers": ["visual reference", "outside visual references", "see and avoid", "sight"],
+                "explanation": "Under VFR, pilots navigate by landmarks and are responsible to see and avoid other aircraft by looking outside."
             },
             "400": {
                 "question": "What flight plan type is used when a pilot flies mainly by instruments and ATC clearances?",
-                "answers": ["ifr flight plan", "instrument flight rules", "ifr"]
+                "answers": ["ifr flight plan", "instrument flight rules", "ifr"],
+                "explanation": "An IFR flight plan is filed when flying under Instrument Flight Rules. ATC then issues clearances and provides separation from other IFR traffic."
             },
             "500": {
                 "question": "What document contains federal rules for aviation operations in the United States?",
-                "answers": ["far", "fars", "federal aviation regulations", "14 cfr", "code of federal regulations"]
+                "answers": ["far", "fars", "federal aviation regulations", "14 cfr", "code of federal regulations"],
+                "explanation": "The Federal Aviation Regulations (FARs), Title 14 of the Code of Federal Regulations, set the rules for pilots, aircraft, and operations in the United States."
             }
         },
         "146": {
             "100": {
                 "question": "What instrument shows an aircraft's heading?",
-                "answers": ["heading indicator", "compass", "magnetic compass"]
+                "answers": ["heading indicator", "compass", "magnetic compass"],
+                "explanation": "The heading indicator shows which direction the nose is pointing. It is set to agree with the magnetic compass, which is its backup."
             },
             "200": {
                 "question": "What radio navigation aid uses radials from a ground station?",
-                "answers": ["vor", "vhf omnidirectional range"]
+                "answers": ["vor", "vhf omnidirectional range"],
+                "explanation": "A VOR, or VHF omnidirectional range, ground station transmits 360 radials. Pilots fly to or from the station along a chosen radial."
             },
             "300": {
                 "question": "What satellite-based navigation system is widely used by pilots?",
-                "answers": ["gps", "global positioning system"]
+                "answers": ["gps", "global positioning system"],
+                "explanation": "GPS, the Global Positioning System, uses signals from satellites to give an aircraft's precise position anywhere in the world."
             },
             "400": {
                 "question": "What aviation chart is commonly used by VFR pilots for visual navigation?",
-                "answers": ["sectional chart", "sectional"]
+                "answers": ["sectional chart", "sectional"],
+                "explanation": "Sectional charts show terrain, landmarks, airports, airspace, and navaids at a scale designed for visual navigation by VFR pilots."
             },
             "500": {
                 "question": "What term describes a planned route flown from one airport or point to another?",
-                "answers": ["cross-country flight", "cross country", "navigation route", "flight route"]
+                "answers": ["cross-country flight", "cross country", "navigation route", "flight route"],
+                "explanation": "A cross-country flight is a planned trip from one airport or point to another, using checkpoints, headings, and fuel planning along the route."
             }
         }
     }

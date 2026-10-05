@@ -11,133 +11,163 @@
         "13": {
             "100": {
                 "question": "What is the function of the mitochondria?",
-                "answers": ["powerhouse of the cell", "producing atp", "cellular respiration", "energy production"]
+                "answers": ["powerhouse of the cell", "producing atp", "cellular respiration", "energy production"],
+                "explanation": "Mitochondria carry out cellular respiration, breaking down glucose to produce ATP, the cell's main energy currency. That is why they are called the powerhouse of the cell."
             },
             "200": {
                 "question": "What is the primary function of the cell membrane?",
-                "answers": ["controls movement of substances", "maintains cell's internal environment", "selective permeability", "cell membrane function"]
+                "answers": ["controls movement of substances", "maintains cell's internal environment", "selective permeability", "cell membrane function"],
+                "explanation": "The cell membrane is selectively permeable: its phospholipid bilayer and proteins control which substances enter and leave, keeping the cell's internal environment stable."
             },
             "300": {
                 "question": "What structure is responsible for protein synthesis in the cell?",
-                "answers": ["ribosomes", "protein synthesis", "ribosome"]
+                "answers": ["ribosomes", "protein synthesis", "ribosome"],
+                "explanation": "Ribosomes read messenger RNA and link amino acids together to build proteins. They float free in the cytoplasm or sit on the rough endoplasmic reticulum."
             },
             "400": {
                 "question": "What is the role of the Golgi apparatus?",
-                "answers": ["modifies proteins", "packages proteins", "sorts proteins", "delivery to organelles", "golgi apparatus role"]
+                "answers": ["modifies proteins", "packages proteins", "sorts proteins", "delivery to organelles", "golgi apparatus role"],
+                "explanation": "The Golgi apparatus receives proteins from the endoplasmic reticulum, modifies them, sorts them, and packages them into vesicles for delivery inside or outside the cell."
             },
             "500": {
                 "question": "What is the difference between rough and smooth endoplasmic reticulum?",
-                "answers": ["ribosomes on surface", "protein synthesis", "lipid synthesis", "detoxification", "rough er", "smooth er"]
+                "answers": ["ribosomes on surface", "protein synthesis", "lipid synthesis", "detoxification", "rough er", "smooth er"],
+                "explanation": "Rough ER is studded with ribosomes and makes proteins. Smooth ER has no ribosomes and makes lipids and detoxifies drugs and poisons."
             }
         },
         "14": {
             "100": {
                 "question": "What is the difference between genotype and phenotype?",
-                "answers": ["genetic makeup", "observable traits", "physical traits", "physiological traits", "genotype", "phenotype"]
+                "answers": ["genetic makeup", "observable traits", "physical traits", "physiological traits", "genotype", "phenotype"],
+                "explanation": "Genotype is an organism's genetic makeup, the alleles it carries. Phenotype is the observable result, such as eye color or height."
             },
             "200": {
                 "question": "What is a Punnett square used for?",
-                "answers": ["predict genotypes", "predict phenotypes", "genetic cross", "punnett square"]
+                "answers": ["predict genotypes", "predict phenotypes", "genetic cross", "punnett square"],
+                "explanation": "A Punnett square lays out the parents' alleles in a grid to predict the likely genotypes and phenotypes of their offspring."
             },
             "300": {
                 "question": "What is the term for a gene that masks the expression of another gene?",
-                "answers": ["dominant gene", "dominance", "recessive gene", "masks expression", "gene masking"]
+                "answers": ["dominant gene", "dominance", "recessive gene", "masks expression", "gene masking"],
+                "explanation": "A dominant allele masks the effect of a recessive allele, so only one copy is needed for the dominant trait to show."
             },
             "400": {
                 "question": "What is incomplete dominance?",
-                "answers": ["neither allele dominant", "blend of phenotypes", "heterozygous phenotype", "incomplete dominance"]
+                "answers": ["neither allele dominant", "blend of phenotypes", "heterozygous phenotype", "incomplete dominance"],
+                "explanation": "In incomplete dominance neither allele fully masks the other, so heterozygotes show a blend, such as red and white snapdragons producing pink flowers."
             },
             "500": {
                 "question": "What is the significance of Mendel's law of independent assortment?",
-                "answers": ["genes inherited independently", "genetic variation", "different traits inheritance", "mendel's law"]
+                "answers": ["genes inherited independently", "genetic variation", "different traits inheritance", "mendel's law"],
+                "explanation": "Mendel's law of independent assortment says alleles for different genes are sorted into gametes independently, which creates new combinations of traits and genetic variation."
             }
         },
         "15": {
             "100": {
                 "question": "What is the function of the circulatory system?",
-                "answers": ["transports oxygen", "transports nutrients", "transports hormones", "transports waste", "circulatory system function"]
+                "answers": ["transports oxygen", "transports nutrients", "transports hormones", "transports waste", "circulatory system function"],
+                "explanation": "The heart and blood vessels move blood around the body, carrying oxygen, nutrients, and hormones to cells and taking carbon dioxide and wastes away."
             },
             "200": {
                 "question": "What are the three types of muscle tissue in the human body?",
-                "answers": ["skeletal muscle", "cardiac muscle", "smooth muscle", "three types of muscle"]
+                "answers": ["skeletal muscle", "cardiac muscle", "smooth muscle", "three types of muscle"],
+                "explanation": "Skeletal muscle moves the bones under voluntary control, cardiac muscle pumps the heart, and smooth muscle lines organs such as the stomach and blood vessels."
             },
             "300": {
                 "question": "What is the role of the liver in the body?",
-                "answers": ["detoxifies chemicals", "metabolizes drugs", "produces bile", "digests fats", "liver role"]
+                "answers": ["detoxifies chemicals", "metabolizes drugs", "produces bile", "digests fats", "liver role"],
+                "explanation": "The liver filters and detoxifies the blood, metabolizes drugs and nutrients, stores glycogen, and produces bile that helps digest fats."
             },
             "400": {
                 "question": "What is the main function of the small intestine?",
-                "answers": ["absorbs nutrients", "absorbs minerals", "digests food", "small intestine function"]
+                "answers": ["absorbs nutrients", "absorbs minerals", "digests food", "small intestine function"],
+                "explanation": "Most digestion finishes and most nutrient absorption happens in the small intestine, whose villi and microvilli give it a huge surface area."
             },
             "500": {
                 "question": "Which part of the brain is responsible for coordinating voluntary movements?",
-                "answers": ["cerebellum", "coordinates movements", "balance", "voluntary movements"]
+                "answers": ["cerebellum", "coordinates movements", "balance", "voluntary movements"],
+                "explanation": "The cerebellum, at the back of the brain, coordinates voluntary movements and controls balance and posture."
             }
         },
         "16": {
             "100": {
                 "question": "What is an ecosystem?",
-                "answers": ["community of organisms", "interacting with environment", "living organisms interaction", "ecosystem"]
+                "answers": ["community of organisms", "interacting with environment", "living organisms interaction", "ecosystem"],
+                "explanation": "An ecosystem is all the living organisms in an area interacting with each other and with their nonliving environment, such as water, soil, and climate."
             },
             "200": {
                 "question": "What is the process by which plants convert carbon dioxide into oxygen?",
-                "answers": ["photosynthesis", "carbon dioxide conversion", "oxygen production", "photosynthesis process"]
+                "answers": ["photosynthesis", "carbon dioxide conversion", "oxygen production", "photosynthesis process"],
+                "explanation": "In photosynthesis, plants use sunlight to turn carbon dioxide and water into glucose, releasing oxygen as a by-product."
             },
             "300": {
                 "question": "What is the difference between a food chain and a food web?",
-                "answers": ["linear sequence", "energy flow", "network of food chains", "interconnected chains", "food chain", "food web"]
+                "answers": ["linear sequence", "energy flow", "network of food chains", "interconnected chains", "food chain", "food web"],
+                "explanation": "A food chain is a single linear path of energy from one organism to the next. A food web links many overlapping food chains to show all the feeding relationships in an ecosystem."
             },
             "400": {
                 "question": "What is the role of a producer in an ecosystem?",
-                "answers": ["creates energy compounds", "photosynthesis", "base of food chain", "ecosystem producer"]
+                "answers": ["creates energy compounds", "photosynthesis", "base of food chain", "ecosystem producer"],
+                "explanation": "Producers such as plants and algae make their own food by photosynthesis, forming the base of the food chain that every other organism depends on."
             },
             "500": {
                 "question": "What is the term for the variety of life in a particular habitat or ecosystem?",
-                "answers": ["biodiversity", "variety of life", "ecosystem diversity"]
+                "answers": ["biodiversity", "variety of life", "ecosystem diversity"],
+                "explanation": "Biodiversity is the variety of life in an area, including the number of species, the genetic variation within them, and the variety of ecosystems."
             }
         },
         "17": {
             "100": {
                 "question": "What is natural selection?",
-                "answers": ["favorable traits", "survival and reproduction", "evolutionary change", "natural selection"]
+                "answers": ["favorable traits", "survival and reproduction", "evolutionary change", "natural selection"],
+                "explanation": "In natural selection, individuals with traits better suited to their environment survive and reproduce more, so those traits become more common over generations."
             },
             "200": {
                 "question": "What is the term for the preserved remains or traces of ancient organisms?",
-                "answers": ["fossils", "preserved remains", "ancient organisms traces", "fossil"]
+                "answers": ["fossils", "preserved remains", "ancient organisms traces", "fossil"],
+                "explanation": "Fossils are preserved remains or traces of ancient organisms, such as bones, shells, footprints, or impressions in rock."
             },
             "300": {
                 "question": "What is the significance of the Galápagos Islands to the study of evolution?",
-                "answers": ["darwin's observation", "diverse species", "natural selection", "galapagos islands"]
+                "answers": ["darwin's observation", "diverse species", "natural selection", "galapagos islands"],
+                "explanation": "Charles Darwin saw that finches and tortoises on the Galapagos Islands differed from island to island, which helped him develop the theory of natural selection."
             },
             "400": {
                 "question": "What is an example of a homologous structure?",
-                "answers": ["shared ancestry", "forelimbs of mammals", "similar anatomy", "homologous structure"]
+                "answers": ["shared ancestry", "forelimbs of mammals", "similar anatomy", "homologous structure"],
+                "explanation": "Homologous structures share the same underlying anatomy because of common ancestry, like the forelimbs of humans, bats, whales, and cats."
             },
             "500": {
                 "question": "What is genetic drift?",
-                "answers": ["random allele change", "evolutionary changes", "population change", "genetic drift"]
+                "answers": ["random allele change", "evolutionary changes", "population change", "genetic drift"],
+                "explanation": "Genetic drift is a random change in allele frequencies from one generation to the next. It has the biggest effect in small populations."
             }
         },
         "18": {
             "100": {
                 "question": "What is a prokaryote?",
-                "answers": ["single-celled organism", "no nucleus", "bacteria", "archaea", "prokaryote"]
+                "answers": ["single-celled organism", "no nucleus", "bacteria", "archaea", "prokaryote"],
+                "explanation": "A prokaryote is a single-celled organism with no nucleus or membrane-bound organelles. Bacteria and archaea are prokaryotes."
             },
             "200": {
                 "question": "What is the role of bacteria in the nitrogen cycle?",
-                "answers": ["converts nitrogen gas", "ammonia production", "nitrates production", "bacteria nitrogen cycle"]
+                "answers": ["converts nitrogen gas", "ammonia production", "nitrates production", "bacteria nitrogen cycle"],
+                "explanation": "Nitrogen-fixing bacteria convert nitrogen gas into ammonia, and other bacteria turn ammonia into nitrates that plants can absorb."
             },
             "300": {
                 "question": "What is the function of the bacterial cell wall?",
-                "answers": ["structural support", "cell protection", "maintains shape", "bacterial cell wall"]
+                "answers": ["structural support", "cell protection", "maintains shape", "bacterial cell wall"],
+                "explanation": "The cell wall gives a bacterium its shape and structural support and protects it from bursting when water rushes in."
             },
             "400": {
                 "question": "What is an antibiotic?",
-                "answers": ["kills bacteria", "inhibits bacteria", "treats bacterial infections", "antibiotic"]
+                "answers": ["kills bacteria", "inhibits bacteria", "treats bacterial infections", "antibiotic"],
+                "explanation": "An antibiotic is a drug that kills bacteria or stops them from growing. Antibiotics treat bacterial infections but don't work against viruses."
             },
             "500": {
                 "question": "What is the difference between a virus and a bacterium?",
-                "answers": ["non-living particle", "requires host cell", "independent reproduction", "virus vs bacterium"]
+                "answers": ["non-living particle", "requires host cell", "independent reproduction", "virus vs bacterium"],
+                "explanation": "Bacteria are living cells that can reproduce on their own. Viruses are not cells and can only reproduce inside a host cell."
             }
         }
     }

@@ -11,133 +11,163 @@
         "151": {
             "100": {
                 "question": "What instrument shows the aircraft's speed through the air?",
-                "answers": ["airspeed indicator", "asi"]
+                "answers": ["airspeed indicator", "asi"],
+                "explanation": "The airspeed indicator compares ram air pressure from the pitot tube with static pressure to show how fast the aircraft is moving through the air."
             },
             "200": {
                 "question": "What instrument shows the aircraft's altitude above mean sea level?",
-                "answers": ["altimeter"]
+                "answers": ["altimeter"],
+                "explanation": "The altimeter measures static air pressure, which drops as the aircraft climbs. When set to the local altimeter setting, it shows altitude above mean sea level."
             },
             "300": {
                 "question": "What instrument shows whether the aircraft is climbing, descending, or level?",
-                "answers": ["vertical speed indicator", "vsi", "rate of climb indicator"]
+                "answers": ["vertical speed indicator", "vsi", "rate of climb indicator"],
+                "explanation": "The vertical speed indicator measures how quickly static pressure is changing and shows the rate of climb or descent in feet per minute."
             },
             "400": {
                 "question": "What instrument shows aircraft attitude relative to the horizon?",
-                "answers": ["attitude indicator", "artificial horizon"]
+                "answers": ["attitude indicator", "artificial horizon"],
+                "explanation": "The attitude indicator uses a gyroscope to show the aircraft's pitch and bank against an artificial horizon, which is critical when the real horizon can't be seen."
             },
             "500": {
                 "question": "What instrument shows aircraft heading using a gyroscope and must be aligned with the magnetic compass?",
-                "answers": ["heading indicator", "directional gyro", "dg"]
+                "answers": ["heading indicator", "directional gyro", "dg"],
+                "explanation": "The heading indicator is gyroscopic, so it is steadier than the magnetic compass in turns. It slowly drifts from precession and must be realigned with the compass."
             }
         },
         "152": {
             "100": {
                 "question": "What system provides pressure information to the airspeed indicator, altimeter, and vertical speed indicator?",
-                "answers": ["pitot-static system"]
+                "answers": ["pitot-static system"],
+                "explanation": "The pitot-static system uses ram air pressure from the pitot tube and outside pressure from the static ports to drive the airspeed indicator, altimeter, and VSI."
             },
             "200": {
                 "question": "What aircraft part measures ram air pressure for the airspeed indicator?",
-                "answers": ["pitot tube", "pitot probe"]
+                "answers": ["pitot tube", "pitot probe"],
+                "explanation": "The pitot tube faces into the oncoming air and captures ram air pressure, which the airspeed indicator compares with static pressure."
             },
             "300": {
                 "question": "What port measures outside atmospheric pressure?",
-                "answers": ["static port", "static source"]
+                "answers": ["static port", "static source"],
+                "explanation": "Static ports, usually flush on the side of the fuselage, sense the undisturbed outside air pressure used by all three pitot-static instruments."
             },
             "400": {
                 "question": "If the pitot tube is blocked but the static port works, which instrument is most directly affected?",
-                "answers": ["airspeed indicator", "asi"]
+                "answers": ["airspeed indicator", "asi"],
+                "explanation": "The airspeed indicator is the only instrument that uses pitot pressure, so a blocked pitot tube makes it read incorrectly while the altimeter and VSI keep working."
             },
             "500": {
                 "question": "What cockpit control can provide an alternate source of static pressure if the normal static port is blocked?",
-                "answers": ["alternate static source", "alternate static valve", "alternate static air"]
+                "answers": ["alternate static source", "alternate static valve", "alternate static air"],
+                "explanation": "The alternate static source lets pressure in from inside the cabin when the outside static ports are blocked, for example by ice. Cabin pressure is slightly lower, so the instruments read slightly high."
             }
         },
         "153": {
             "100": {
                 "question": "What instrument shows bank and pitch attitude?",
-                "answers": ["attitude indicator", "artificial horizon"]
+                "answers": ["attitude indicator", "artificial horizon"],
+                "explanation": "The attitude indicator shows bank and pitch against an artificial horizon, giving the pilot an instant picture of the aircraft's attitude."
             },
             "200": {
                 "question": "What instrument shows aircraft heading and is often called the directional gyro?",
-                "answers": ["heading indicator", "directional gyro", "dg"]
+                "answers": ["heading indicator", "directional gyro", "dg"],
+                "explanation": "The heading indicator, or directional gyro, shows heading without the swinging and turning errors of the magnetic compass."
             },
             "300": {
                 "question": "What instrument shows rate of turn and coordination using a needle or miniature aircraft and a ball?",
-                "answers": ["turn coordinator", "turn and slip indicator", "turn coordinator and ball"]
+                "answers": ["turn coordinator", "turn and slip indicator", "turn coordinator and ball"],
+                "explanation": "The turn coordinator shows the rate of turn with a miniature aircraft. The ball in the inclinometer shows whether the turn is coordinated or slipping and skidding."
             },
             "400": {
                 "question": "What gyroscopic principle resists changes to the plane of rotation?",
-                "answers": ["rigidity in space", "gyroscopic rigidity"]
+                "answers": ["rigidity in space", "gyroscopic rigidity"],
+                "explanation": "Rigidity in space means a spinning gyroscope stays fixed in its plane of rotation. The attitude and heading indicators rely on this."
             },
             "500": {
                 "question": "What gyroscopic principle causes a force applied to a spinning gyro to appear 90 degrees later in the direction of rotation?",
-                "answers": ["precession", "gyroscopic precession"]
+                "answers": ["precession", "gyroscopic precession"],
+                "explanation": "Precession means a force applied to a spinning gyro takes effect 90 degrees later in the direction of rotation. It is why heading indicators slowly drift."
             }
         },
         "154": {
             "100": {
                 "question": "What instrument shows engine revolutions per minute?",
-                "answers": ["tachometer", "rpm gauge", "rpm indicator"]
+                "answers": ["tachometer", "rpm gauge", "rpm indicator"],
+                "explanation": "The tachometer shows engine RPM. On a fixed-pitch propeller it is the main indicator of engine power."
             },
             "200": {
                 "question": "What instrument shows fuel quantity in the tanks?",
-                "answers": ["fuel gauge", "fuel quantity indicator"]
+                "answers": ["fuel gauge", "fuel quantity indicator"],
+                "explanation": "The fuel quantity indicator shows how much fuel is in each tank. Gauges can be inaccurate, so pilots also check the tanks visually before flight."
             },
             "300": {
                 "question": "What instrument helps monitor the temperature of oil in a piston engine?",
-                "answers": ["oil temperature gauge", "oil temp gauge", "oil temperature indicator"]
+                "answers": ["oil temperature gauge", "oil temp gauge", "oil temperature indicator"],
+                "explanation": "The oil temperature gauge shows whether the engine oil is cooling and lubricating properly. Rising oil temperature can warn of low oil or overheating."
             },
             "400": {
                 "question": "What instrument shows oil pressure in an engine lubrication system?",
-                "answers": ["oil pressure gauge", "oil pressure indicator"]
+                "answers": ["oil pressure gauge", "oil pressure indicator"],
+                "explanation": "The oil pressure gauge shows whether oil is being pumped through the engine. Pilots check it right after starting, and a loss of pressure can mean engine failure is coming."
             },
             "500": {
                 "question": "What instrument on many constant-speed propeller aircraft indicates engine intake pressure?",
-                "answers": ["manifold pressure gauge", "manifold pressure indicator"]
+                "answers": ["manifold pressure gauge", "manifold pressure indicator"],
+                "explanation": "The manifold pressure gauge shows the pressure in the engine's intake manifold, in inches of mercury. With a constant-speed propeller, it and the tachometer together set engine power."
             }
         },
         "155": {
             "100": {
                 "question": "What instrument uses a magnetic field to show direction?",
-                "answers": ["magnetic compass", "compass"]
+                "answers": ["magnetic compass", "compass"],
+                "explanation": "The magnetic compass aligns with Earth's magnetic field and needs no electrical or vacuum power. It has errors during turns and acceleration."
             },
             "200": {
                 "question": "What navigation instrument displays the selected VOR radial or localizer course?",
-                "answers": ["course deviation indicator", "cdi"]
+                "answers": ["course deviation indicator", "cdi"],
+                "explanation": "The course deviation indicator shows whether the aircraft is left or right of the selected VOR radial or localizer course, and by how much."
             },
             "300": {
                 "question": "What instrument combines heading information with navigation course guidance?",
-                "answers": ["horizontal situation indicator", "hsi"]
+                "answers": ["horizontal situation indicator", "hsi"],
+                "explanation": "The horizontal situation indicator combines a heading indicator with a course deviation indicator in one display, which makes tracking a course easier."
             },
             "400": {
                 "question": "What system provides vertical and lateral guidance for a precision instrument approach?",
-                "answers": ["ils", "instrument landing system"]
+                "answers": ["ils", "instrument landing system"],
+                "explanation": "An instrument landing system uses a localizer for left-right guidance and a glideslope for up-down guidance down to the runway."
             },
             "500": {
                 "question": "What onboard system can show aircraft position using satellite navigation?",
-                "answers": ["gps", "global positioning system", "gnss"]
+                "answers": ["gps", "global positioning system", "gnss"],
+                "explanation": "GPS, part of the wider GNSS family of satellite systems, gives the aircraft's precise position for navigation and moving-map displays."
             }
         },
         "156": {
             "100": {
                 "question": "What does IFR stand for?",
-                "answers": ["instrument flight rules"]
+                "answers": ["instrument flight rules"],
+                "explanation": "IFR stands for Instrument Flight Rules, which govern flight by reference to instruments with ATC clearances, including in clouds and low visibility."
             },
             "200": {
                 "question": "What does IMC stand for?",
-                "answers": ["instrument meteorological conditions"]
+                "answers": ["instrument meteorological conditions"],
+                "explanation": "IMC means Instrument Meteorological Conditions: weather below the minimums for visual flight, so pilots must fly under IFR."
             },
             "300": {
                 "question": "What is the term for flying an aircraft using instruments when outside visual references are limited?",
-                "answers": ["instrument flying", "flying by instruments", "instrument flight"]
+                "answers": ["instrument flying", "flying by instruments", "instrument flight"],
+                "explanation": "Instrument flying is controlling and navigating the aircraft using only the instruments, without outside visual references."
             },
             "400": {
                 "question": "What scanning technique requires pilots to regularly cross-check attitude, altitude, heading, airspeed, and performance instruments?",
-                "answers": ["instrument scan", "cross-check", "instrument cross-check"]
+                "answers": ["instrument scan", "cross-check", "instrument cross-check"],
+                "explanation": "An instrument scan, or cross-check, moves the eyes steadily across the instruments, centered on the attitude indicator, so no single reading is trusted alone."
             },
             "500": {
                 "question": "What dangerous condition can occur when a pilot loses awareness of the aircraft's attitude or motion without visual references?",
-                "answers": ["spatial disorientation", "disorientation"]
+                "answers": ["spatial disorientation", "disorientation"],
+                "explanation": "Spatial disorientation happens when the inner ear gives false signals about attitude or motion without outside references. The fix is to trust the instruments."
             }
         }
     }

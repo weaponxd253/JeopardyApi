@@ -11,133 +11,163 @@
         "101": {
             "100": {
                 "question": "What was the first permanent English settlement in North America?",
-                "answers": ["jamestown", "jamestown virginia", "virginia"]
+                "answers": ["jamestown", "jamestown virginia", "virginia"],
+                "explanation": "Jamestown, Virginia, founded in 1607, was the first permanent English settlement in North America."
             },
             "200": {
                 "question": "What group of English settlers arrived on the Mayflower in 1620?",
-                "answers": ["pilgrims", "separatists"]
+                "answers": ["pilgrims", "separatists"],
+                "explanation": "The Pilgrims, Separatists who had left the Church of England, sailed on the Mayflower in 1620 and founded Plymouth Colony."
             },
             "300": {
                 "question": "What cash crop became central to the economy of colonial Virginia?",
-                "answers": ["tobacco", "tobacco farming"]
+                "answers": ["tobacco", "tobacco farming"],
+                "explanation": "John Rolfe introduced a sweeter tobacco strain, and tobacco became Virginia's main export, driving the growth of plantations."
             },
             "400": {
                 "question": "What war between Britain and France helped create colonial tensions that led toward the American Revolution?",
-                "answers": ["french and indian war", "seven years' war"]
+                "answers": ["french and indian war", "seven years' war"],
+                "explanation": "Britain won the French and Indian War (1754-1763) but went deep into debt. The new taxes it then placed on the colonies, like the Stamp Act, angered colonists."
             },
             "500": {
                 "question": "What colonial protest slogan objected to taxes passed without colonial representation in Parliament?",
-                "answers": ["no taxation without representation", "taxation without representation"]
+                "answers": ["no taxation without representation", "taxation without representation"],
+                "explanation": "Colonists argued that Parliament had no right to tax them because they had no representatives in it, summed up as no taxation without representation."
             }
         },
         "102": {
             "100": {
                 "question": "Who wrote the main draft of the Declaration of Independence?",
-                "answers": ["thomas jefferson", "jefferson"]
+                "answers": ["thomas jefferson", "jefferson"],
+                "explanation": "Thomas Jefferson wrote the main draft of the Declaration of Independence in 1776 for a committee of the Continental Congress."
             },
             "200": {
                 "question": "In what year was the Declaration of Independence adopted?",
-                "answers": ["1776", "july 4, 1776"]
+                "answers": ["1776", "july 4, 1776"],
+                "explanation": "The Continental Congress adopted the Declaration of Independence on July 4, 1776, the date now celebrated as Independence Day."
             },
             "300": {
                 "question": "What battle is often called the turning point of the American Revolution because it helped secure French support?",
-                "answers": ["saratoga", "battle of saratoga"]
+                "answers": ["saratoga", "battle of saratoga"],
+                "explanation": "The American victory at Saratoga in 1777 convinced France to formally ally with the colonies, bringing troops, money, and a navy."
             },
             "400": {
                 "question": "Who commanded the Continental Army during the American Revolution?",
-                "answers": ["george washington", "washington"]
+                "answers": ["george washington", "washington"],
+                "explanation": "George Washington led the Continental Army through the whole war and later became the first President of the United States."
             },
             "500": {
                 "question": "What treaty officially ended the American Revolutionary War?",
-                "answers": ["treaty of paris", "treaty of paris 1783", "paris treaty"]
+                "answers": ["treaty of paris", "treaty of paris 1783", "paris treaty"],
+                "explanation": "The Treaty of Paris of 1783 ended the war, recognized American independence, and set the new nation's borders."
             }
         },
         "103": {
             "100": {
                 "question": "What are the first ten amendments to the U.S. Constitution called?",
-                "answers": ["bill of rights"]
+                "answers": ["bill of rights"],
+                "explanation": "The Bill of Rights, ratified in 1791, is the first ten amendments. It protects rights such as free speech, religion, and the press, and the right to a fair trial."
             },
             "200": {
                 "question": "What principle divides power among the legislative, executive, and judicial branches?",
-                "answers": ["separation of powers", "checks and balances", "separated powers"]
+                "answers": ["separation of powers", "checks and balances", "separated powers"],
+                "explanation": "Separation of powers splits government into legislative, executive, and judicial branches so no single group holds all power."
             },
             "300": {
                 "question": "What branch of government interprets laws and can rule on constitutionality?",
-                "answers": ["judicial branch", "the judiciary", "supreme court", "federal courts"]
+                "answers": ["judicial branch", "the judiciary", "supreme court", "federal courts"],
+                "explanation": "The judicial branch, led by the Supreme Court, interprets laws and can strike down laws that violate the Constitution through judicial review."
             },
             "400": {
                 "question": "What compromise created a two-house Congress with representation by population in one house and equal state representation in the other?",
-                "answers": ["great compromise", "connecticut compromise"]
+                "answers": ["great compromise", "connecticut compromise"],
+                "explanation": "The Great Compromise, or Connecticut Compromise, created a House of Representatives based on population and a Senate with two members per state."
             },
             "500": {
                 "question": "What system allows each branch of government to limit the powers of the others?",
-                "answers": ["checks and balances", "checks & balances"]
+                "answers": ["checks and balances", "checks & balances"],
+                "explanation": "Checks and balances let each branch limit the others: the President can veto laws, Congress can override vetoes, and courts can rule laws unconstitutional."
             }
         },
         "104": {
             "100": {
                 "question": "Who was president of the United States during most of the Civil War?",
-                "answers": ["abraham lincoln", "lincoln"]
+                "answers": ["abraham lincoln", "lincoln"],
+                "explanation": "Abraham Lincoln was president from 1861 until his assassination in April 1865, just after the Confederacy surrendered."
             },
             "200": {
                 "question": "What document declared enslaved people in rebelling Confederate states to be free?",
-                "answers": ["emancipation proclamation"]
+                "answers": ["emancipation proclamation"],
+                "explanation": "Lincoln's Emancipation Proclamation took effect on January 1, 1863. It freed enslaved people in Confederate states still in rebellion and made ending slavery a war aim."
             },
             "300": {
                 "question": "What 1863 battle is often considered the turning point of the Civil War?",
-                "answers": ["gettysburg", "battle of gettysburg"]
+                "answers": ["gettysburg", "battle of gettysburg"],
+                "explanation": "At Gettysburg in July 1863, Union forces stopped Robert E. Lee's invasion of the North. The Confederacy never launched another major offensive there."
             },
             "400": {
                 "question": "What amendment abolished slavery in the United States?",
-                "answers": ["13th amendment", "thirteenth amendment", "amendment 13"]
+                "answers": ["13th amendment", "thirteenth amendment", "amendment 13"],
+                "explanation": "The 13th Amendment, ratified in 1865, abolished slavery throughout the United States, except as punishment for a crime."
             },
             "500": {
                 "question": "What period after the Civil War focused on rebuilding the South and defining rights for formerly enslaved people?",
-                "answers": ["reconstruction", "reconstruction era"]
+                "answers": ["reconstruction", "reconstruction era"],
+                "explanation": "Reconstruction (1865-1877) rebuilt the South and brought the 14th and 15th Amendments, granting citizenship and voting rights to formerly enslaved people."
             }
         },
         "105": {
             "100": {
                 "question": "What invention by Eli Whitney increased the demand for cotton production in the South?",
-                "answers": ["cotton gin"]
+                "answers": ["cotton gin"],
+                "explanation": "Eli Whitney's 1793 cotton gin quickly separated seeds from cotton fiber. This made cotton very profitable and greatly expanded slavery in the South."
             },
             "200": {
                 "question": "What term describes the rapid growth of factories, railroads, and mass production in the late 1800s?",
-                "answers": ["industrialization", "industrial revolution", "second industrial revolution"]
+                "answers": ["industrialization", "industrial revolution", "second industrial revolution"],
+                "explanation": "Industrialization transformed the U.S. in the late 1800s with factories, railroads, steel, and mass production, drawing workers into growing cities."
             },
             "300": {
                 "question": "What immigration processing station opened in New York Harbor in 1892?",
-                "answers": ["ellis island", "ellis island station"]
+                "answers": ["ellis island", "ellis island station"],
+                "explanation": "Ellis Island in New York Harbor processed about 12 million immigrants between 1892 and 1954."
             },
             "400": {
                 "question": "What movement sought to fix problems caused by industrialization, political corruption, and urban poverty?",
-                "answers": ["progressive movement", "progressivism", "progressive era"]
+                "answers": ["progressive movement", "progressivism", "progressive era"],
+                "explanation": "The Progressive movement, from about the 1890s to the 1920s, fought corruption, monopolies, unsafe working conditions, and urban poverty through reforms and new laws."
             },
             "500": {
                 "question": "What 1896 Supreme Court case upheld racial segregation under the doctrine of separate but equal?",
-                "answers": ["plessy vs ferguson", "plessy v. ferguson"]
+                "answers": ["plessy vs ferguson", "plessy v. ferguson"],
+                "explanation": "Plessy v. Ferguson ruled that racially segregated facilities were legal if they were separate but equal. Brown v. Board of Education overturned it for schools in 1954."
             }
         },
         "106": {
             "100": {
                 "question": "What economic crisis began with the stock market crash of 1929?",
-                "answers": ["great depression"]
+                "answers": ["great depression"],
+                "explanation": "The Great Depression followed the 1929 stock market crash and lasted through the 1930s, bringing massive unemployment and bank failures."
             },
             "200": {
                 "question": "What was President Franklin D. Roosevelt's program of relief, recovery, and reform called?",
-                "answers": ["new deal"]
+                "answers": ["new deal"],
+                "explanation": "Franklin D. Roosevelt's New Deal created programs such as Social Security, the CCC, and the WPA to provide relief, recover the economy, and reform the banks."
             },
             "300": {
                 "question": "What 1954 Supreme Court case declared school segregation unconstitutional?",
-                "answers": ["brown vs board of education", "brown v. board of education"]
+                "answers": ["brown vs board of education", "brown v. board of education"],
+                "explanation": "In Brown v. Board of Education (1954), the Supreme Court ruled unanimously that segregated public schools were unconstitutional."
             },
             "400": {
                 "question": "What Cold War conflict divided Korea near the 38th parallel?",
-                "answers": ["korean war"]
+                "answers": ["korean war"],
+                "explanation": "The Korean War (1950-1953) began when North Korea invaded South Korea. It ended in an armistice with the border near the 38th parallel."
             },
             "500": {
                 "question": "What 1964 law outlawed discrimination in public accommodations and employment based on race, color, religion, sex, or national origin?",
-                "answers": ["civil rights act of 1964", "1964 civil rights act", "civil rights act"]
+                "answers": ["civil rights act of 1964", "1964 civil rights act", "civil rights act"],
+                "explanation": "Signed by President Lyndon B. Johnson, the Civil Rights Act of 1964 banned segregation in public places and discrimination in employment."
             }
         }
     }
