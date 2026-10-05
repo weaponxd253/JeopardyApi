@@ -75,3 +75,28 @@ The questions are stored in JSON format, and each question is associated with a 
     ...
   }
 }
+
+## Checking the Data
+
+Run the checker before pushing changes to any topic file:
+
+```bash
+node scripts/check-data.mjs
+```
+
+It needs Node 18 or newer and no installs. It checks that `topics.json` and every
+topic file it lists are valid, that each question has question text, at least
+one accepted answer, and an explanation, and that categories match their
+question groups. Errors fail the check; warnings (such as two topics sharing an
+icon) are only reported.
+
+It also reports redundant accepted answers, ones the game already treats as the
+same answer, like `"What is the CPU?"` next to `"CPU"`. Remove them automatically
+with:
+
+```bash
+node scripts/check-data.mjs --fix
+```
+
+The same check runs on every pull request and every push to `main`.
+
