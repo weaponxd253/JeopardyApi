@@ -33,7 +33,7 @@
         "112": {
             "100": {
                 "question": "What revolution began in France in 1789?",
-                "answers": ["french revolution", "the french revolution"]
+                "answers": ["french revolution"]
             },
             "200": {
                 "question": "What revolution led to the creation of the United States?",
@@ -49,7 +49,7 @@
             },
             "500": {
                 "question": "What period of rapid machine-powered production began in Britain in the late 1700s?",
-                "answers": ["industrial revolution", "the industrial revolution"]
+                "answers": ["industrial revolution"]
             }
         },
         "113": {
@@ -59,7 +59,7 @@
             },
             "200": {
                 "question": "What global transfer of plants, animals, diseases, and people followed European contact with the Americas?",
-                "answers": ["columbian exchange", "the columbian exchange"]
+                "answers": ["columbian exchange"]
             },
             "300": {
                 "question": "What Portuguese explorer led the first expedition to circumnavigate the globe, though he died before it was completed?",
@@ -67,7 +67,7 @@
             },
             "400": {
                 "question": "What trade route network connected China, Central Asia, the Middle East, and Europe?",
-                "answers": ["silk road", "silk roads", "the silk road"]
+                "answers": ["silk road", "silk roads"]
             },
             "500": {
                 "question": "What triangular trade system forcibly transported millions of Africans across the Atlantic?",
@@ -93,7 +93,7 @@
             },
             "500": {
                 "question": "What systematic genocide by Nazi Germany murdered six million Jews and millions of other victims?",
-                "answers": ["holocaust", "the holocaust"]
+                "answers": ["holocaust"]
             }
         },
         "115": {
@@ -107,11 +107,11 @@
             },
             "300": {
                 "question": "What wall became a major symbol of Cold War division in Europe?",
-                "answers": ["berlin wall", "the berlin wall"]
+                "answers": ["berlin wall"]
             },
             "400": {
                 "question": "What 1962 crisis brought the United States and Soviet Union close to nuclear war?",
-                "answers": ["cuban missile crisis", "the cuban missile crisis"]
+                "answers": ["cuban missile crisis"]
             },
             "500": {
                 "question": "What policy aimed to stop the spread of communism during the Cold War?",
@@ -121,7 +121,7 @@
         "116": {
             "100": {
                 "question": "What organization was founded in 1945 to promote international peace and cooperation?",
-                "answers": ["united nations", "the united nations", "un"]
+                "answers": ["united nations", "un"]
             },
             "200": {
                 "question": "What term describes the process of colonies gaining independence from imperial powers?",

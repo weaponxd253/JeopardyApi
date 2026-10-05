@@ -30,16 +30,14 @@
             "100": {
                 "question": "This DC hero is also known as Bruce Wayne.",
                 "answers": [
-                    "Batman",
-                    "Who is Batman?"
+                    "Batman"
                 ],
                 "explanation": "Bruce Wayne is Batman's secret identity."
             },
             "200": {
                 "question": "This hero is also known as Clark Kent.",
                 "answers": [
-                    "Superman",
-                    "Who is Superman?"
+                    "Superman"
                 ],
                 "explanation": "Clark Kent is Superman's identity on Earth."
             },
@@ -47,8 +45,7 @@
                 "question": "This Amazon warrior princess is also known as Diana Prince.",
                 "answers": [
                     "Wonder Woman",
-                    "Diana Prince",
-                    "Who is Wonder Woman?"
+                    "Diana Prince"
                 ],
                 "explanation": "Wonder Woman is Diana of Themyscira, also known as Diana Prince."
             },
@@ -56,9 +53,7 @@
                 "question": "This fastest man alive is commonly associated with the Speed Force.",
                 "answers": [
                     "The Flash",
-                    "Flash",
-                    "Barry Allen",
-                    "Who is The Flash?"
+                    "Barry Allen"
                 ],
                 "explanation": "The Flash uses the Speed Force to move at super speed."
             },
@@ -66,8 +61,7 @@
                 "question": "This underwater hero is the king of Atlantis.",
                 "answers": [
                     "Aquaman",
-                    "Arthur Curry",
-                    "Who is Aquaman?"
+                    "Arthur Curry"
                 ],
                 "explanation": "Aquaman, also known as Arthur Curry, rules Atlantis."
             }
@@ -76,9 +70,7 @@
             "100": {
                 "question": "This clown-themed villain is Batman's most famous enemy.",
                 "answers": [
-                    "Joker",
-                    "The Joker",
-                    "Who is the Joker?"
+                    "Joker"
                 ],
                 "explanation": "The Joker is Batman's most iconic villain."
             },
@@ -86,8 +78,7 @@
                 "question": "This Superman villain is a brilliant billionaire businessman.",
                 "answers": [
                     "Lex Luthor",
-                    "Luthor",
-                    "Who is Lex Luthor?"
+                    "Luthor"
                 ],
                 "explanation": "Lex Luthor is one of Superman's greatest enemies."
             },
@@ -95,9 +86,7 @@
                 "question": "This villain often uses fear toxin against Gotham City.",
                 "answers": [
                     "Scarecrow",
-                    "The Scarecrow",
-                    "Jonathan Crane",
-                    "Who is Scarecrow?"
+                    "Jonathan Crane"
                 ],
                 "explanation": "Scarecrow uses fear toxin to terrify his victims."
             },
@@ -105,17 +94,14 @@
                 "question": "This Batman villain leaves clue-based crimes and question marks.",
                 "answers": [
                     "Riddler",
-                    "The Riddler",
-                    "Edward Nygma",
-                    "Who is the Riddler?"
+                    "Edward Nygma"
                 ],
                 "explanation": "The Riddler uses puzzles and riddles in his crimes."
             },
             "500": {
                 "question": "This cosmic tyrant from Apokolips seeks the Anti-Life Equation.",
                 "answers": [
-                    "Darkseid",
-                    "Who is Darkseid?"
+                    "Darkseid"
                 ],
                 "explanation": "Darkseid is a powerful ruler of Apokolips."
             }
@@ -124,18 +110,14 @@
             "100": {
                 "question": "This DC superhero team includes Superman, Batman, Wonder Woman, The Flash, Aquaman, and others.",
                 "answers": [
-                    "Justice League",
-                    "The Justice League",
-                    "Who are the Justice League?"
+                    "Justice League"
                 ],
                 "explanation": "The Justice League is DC's major superhero team."
             },
             "200": {
                 "question": "This younger superhero team often includes Robin, Starfire, Cyborg, Beast Boy, and Raven.",
                 "answers": [
-                    "Teen Titans",
-                    "The Teen Titans",
-                    "Who are the Teen Titans?"
+                    "Teen Titans"
                 ],
                 "explanation": "The Teen Titans are a team of younger DC heroes."
             },
@@ -143,18 +125,14 @@
                 "question": "This villain team is also known as Task Force X.",
                 "answers": [
                     "Suicide Squad",
-                    "The Suicide Squad",
-                    "Task Force X",
-                    "Who are the Suicide Squad?"
+                    "Task Force X"
                 ],
                 "explanation": "The Suicide Squad is officially called Task Force X."
             },
             "400": {
                 "question": "This space-policing organization uses power rings.",
                 "answers": [
-                    "Green Lantern Corps",
-                    "The Green Lantern Corps",
-                    "Who are the Green Lantern Corps?"
+                    "Green Lantern Corps"
                 ],
                 "explanation": "The Green Lantern Corps protects the universe using power rings."
             },
@@ -162,8 +140,7 @@
                 "question": "This DC team includes heroes from the 31st century.",
                 "answers": [
                     "Legion of Super-Heroes",
-                    "Legion of Superheroes",
-                    "Who are the Legion of Super-Heroes?"
+                    "Legion of Superheroes"
                 ],
                 "explanation": "The Legion of Super-Heroes is a futuristic DC superhero team."
             }
@@ -173,40 +150,35 @@
                 "question": "This fictional city is Batman's home.",
                 "answers": [
                     "Gotham City",
-                    "Gotham",
-                    "What is Gotham City?"
+                    "Gotham"
                 ],
                 "explanation": "Batman protects Gotham City."
             },
             "200": {
                 "question": "This fictional city is Superman's main home base.",
                 "answers": [
-                    "Metropolis",
-                    "What is Metropolis?"
+                    "Metropolis"
                 ],
                 "explanation": "Superman is commonly associated with Metropolis."
             },
             "300": {
                 "question": "This island is the home of Wonder Woman and the Amazons.",
                 "answers": [
-                    "Themyscira",
-                    "What is Themyscira?"
+                    "Themyscira"
                 ],
                 "explanation": "Themyscira is the hidden island home of the Amazons."
             },
             "400": {
                 "question": "This underwater kingdom is ruled by Aquaman.",
                 "answers": [
-                    "Atlantis",
-                    "What is Atlantis?"
+                    "Atlantis"
                 ],
                 "explanation": "Atlantis is Aquaman's underwater kingdom."
             },
             "500": {
                 "question": "This planet is Superman's original home world.",
                 "answers": [
-                    "Krypton",
-                    "What is Krypton?"
+                    "Krypton"
                 ],
                 "explanation": "Superman was born on Krypton before being sent to Earth."
             }
@@ -215,26 +187,21 @@
             "100": {
                 "question": "This substance is famously harmful to Superman.",
                 "answers": [
-                    "kryptonite",
-                    "What is kryptonite?"
+                    "kryptonite"
                 ],
                 "explanation": "Kryptonite weakens Superman."
             },
             "200": {
                 "question": "This Batman tool is a boomerang-like throwing weapon.",
                 "answers": [
-                    "Batarang",
-                    "a Batarang",
-                    "What is a Batarang?"
+                    "Batarang"
                 ],
                 "explanation": "Batman uses Batarangs as throwing weapons."
             },
             "300": {
                 "question": "This Wonder Woman item forces many people to tell the truth.",
                 "answers": [
-                    "Lasso of Truth",
-                    "the Lasso of Truth",
-                    "What is the Lasso of Truth?"
+                    "Lasso of Truth"
                 ],
                 "explanation": "Wonder Woman's Lasso of Truth compels honesty."
             },
@@ -242,17 +209,14 @@
                 "question": "This object allows Green Lanterns to create energy constructs.",
                 "answers": [
                     "power ring",
-                    "Green Lantern ring",
-                    "What is a power ring?"
+                    "Green Lantern ring"
                 ],
                 "explanation": "Green Lantern power rings create constructs powered by will."
             },
             "500": {
                 "question": "This extra-dimensional energy source gives The Flash his speed.",
                 "answers": [
-                    "Speed Force",
-                    "the Speed Force",
-                    "What is the Speed Force?"
+                    "Speed Force"
                 ],
                 "explanation": "The Speed Force is the source of speedster powers in DC."
             }
@@ -262,42 +226,35 @@
                 "question": "This 1978 movie starred Christopher Reeve as the Man of Steel.",
                 "answers": [
                     "Superman",
-                    "Superman: The Movie",
-                    "What is Superman?"
+                    "Superman: The Movie"
                 ],
                 "explanation": "Christopher Reeve starred in Superman, also known as Superman: The Movie."
             },
             "200": {
                 "question": "This 1989 film was directed by Tim Burton and starred Michael Keaton as Batman.",
                 "answers": [
-                    "Batman",
-                    "What is Batman?"
+                    "Batman"
                 ],
                 "explanation": "Tim Burton directed the 1989 Batman film."
             },
             "300": {
                 "question": "This animated DC series from the 1990s is widely praised for its Batman stories.",
                 "answers": [
-                    "Batman: The Animated Series",
-                    "Batman The Animated Series",
-                    "What is Batman: The Animated Series?"
+                    "Batman: The Animated Series"
                 ],
                 "explanation": "Batman: The Animated Series is a landmark DC animated show."
             },
             "400": {
                 "question": "This 2008 Batman film features Heath Ledger as the Joker.",
                 "answers": [
-                    "The Dark Knight",
-                    "Dark Knight",
-                    "What is The Dark Knight?"
+                    "The Dark Knight"
                 ],
                 "explanation": "The Dark Knight features Heath Ledger's portrayal of the Joker."
             },
             "500": {
                 "question": "This 2017 film brought DC's main superhero team together in live action.",
                 "answers": [
-                    "Justice League",
-                    "What is Justice League?"
+                    "Justice League"
                 ],
                 "explanation": "Justice League brought together Batman, Wonder Woman, Flash, Aquaman, Cyborg, and Superman."
             }

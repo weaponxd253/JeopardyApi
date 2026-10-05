@@ -30,27 +30,21 @@
             "100": {
                 "question": "This is a testable prediction in a research study.",
                 "answers": [
-                    "hypothesis",
-                    "a hypothesis",
-                    "What is a hypothesis?"
+                    "hypothesis"
                 ],
                 "explanation": "A hypothesis is a testable prediction about the relationship between variables."
             },
             "200": {
                 "question": "This variable is manipulated by the researcher in an experiment.",
                 "answers": [
-                    "independent variable",
-                    "the independent variable",
-                    "What is the independent variable?"
+                    "independent variable"
                 ],
                 "explanation": "The independent variable is the factor the researcher changes."
             },
             "300": {
                 "question": "This variable is measured as the outcome in an experiment.",
                 "answers": [
-                    "dependent variable",
-                    "the dependent variable",
-                    "What is the dependent variable?"
+                    "dependent variable"
                 ],
                 "explanation": "The dependent variable is the measured result or outcome."
             },
@@ -59,16 +53,14 @@
                 "answers": [
                     "correlational research",
                     "correlation",
-                    "correlational method",
-                    "What is correlational research?"
+                    "correlational method"
                 ],
                 "explanation": "Correlation shows association, but it does not prove causation."
             },
             "500": {
                 "question": "This research safeguard means participants are told the basic purpose, risks, and rights before agreeing to participate.",
                 "answers": [
-                    "informed consent",
-                    "What is informed consent?"
+                    "informed consent"
                 ],
                 "explanation": "Informed consent requires participants to understand key details before joining a study."
             }
@@ -77,9 +69,7 @@
             "100": {
                 "question": "This organ is the main control center of the nervous system.",
                 "answers": [
-                    "brain",
-                    "the brain",
-                    "What is the brain?"
+                    "brain"
                 ],
                 "explanation": "The brain controls behavior, thought, emotion, and many bodily processes."
             },
@@ -87,8 +77,7 @@
                 "question": "These cells transmit information throughout the nervous system.",
                 "answers": [
                     "neurons",
-                    "nerve cells",
-                    "What are neurons?"
+                    "nerve cells"
                 ],
                 "explanation": "Neurons are specialized cells that send and receive signals."
             },
@@ -96,26 +85,21 @@
                 "question": "This chemical messenger carries signals between neurons.",
                 "answers": [
                     "neurotransmitter",
-                    "neurotransmitters",
-                    "What is a neurotransmitter?"
+                    "neurotransmitters"
                 ],
                 "explanation": "Neurotransmitters are chemical messengers released between neurons."
             },
             "400": {
                 "question": "This brain structure is strongly involved in forming new memories.",
                 "answers": [
-                    "hippocampus",
-                    "the hippocampus",
-                    "What is the hippocampus?"
+                    "hippocampus"
                 ],
                 "explanation": "The hippocampus plays an important role in forming new long-term memories."
             },
             "500": {
                 "question": "This brain area is involved in decision-making, planning, and impulse control.",
                 "answers": [
-                    "prefrontal cortex",
-                    "the prefrontal cortex",
-                    "What is the prefrontal cortex?"
+                    "prefrontal cortex"
                 ],
                 "explanation": "The prefrontal cortex supports executive functions such as planning and self-control."
             }
@@ -124,32 +108,28 @@
             "100": {
                 "question": "This type of learning occurs when behavior is shaped by rewards and punishments.",
                 "answers": [
-                    "operant conditioning",
-                    "What is operant conditioning?"
+                    "operant conditioning"
                 ],
                 "explanation": "Operant conditioning uses consequences to increase or decrease behavior."
             },
             "200": {
                 "question": "This type of learning occurs by associating two stimuli.",
                 "answers": [
-                    "classical conditioning",
-                    "What is classical conditioning?"
+                    "classical conditioning"
                 ],
                 "explanation": "Classical conditioning links a neutral stimulus with a meaningful stimulus."
             },
             "300": {
                 "question": "This consequence increases the likelihood of a behavior.",
                 "answers": [
-                    "reinforcement",
-                    "What is reinforcement?"
+                    "reinforcement"
                 ],
                 "explanation": "Reinforcement makes a behavior more likely to happen again."
             },
             "400": {
                 "question": "This consequence decreases the likelihood of a behavior.",
                 "answers": [
-                    "punishment",
-                    "What is punishment?"
+                    "punishment"
                 ],
                 "explanation": "Punishment makes a behavior less likely to happen again."
             },
@@ -157,8 +137,7 @@
                 "question": "This type of learning occurs by watching and imitating others.",
                 "answers": [
                     "observational learning",
-                    "modeling",
-                    "What is observational learning?"
+                    "modeling"
                 ],
                 "explanation": "Observational learning occurs through watching others and copying behavior."
             }
@@ -167,24 +146,21 @@
             "100": {
                 "question": "This is the process of getting information into memory.",
                 "answers": [
-                    "encoding",
-                    "What is encoding?"
+                    "encoding"
                 ],
                 "explanation": "Encoding is the first step of memory formation."
             },
             "200": {
                 "question": "This is the process of keeping information in memory over time.",
                 "answers": [
-                    "storage",
-                    "What is storage?"
+                    "storage"
                 ],
                 "explanation": "Storage is maintaining information in memory."
             },
             "300": {
                 "question": "This is the process of bringing stored information back into awareness.",
                 "answers": [
-                    "retrieval",
-                    "What is retrieval?"
+                    "retrieval"
                 ],
                 "explanation": "Retrieval is accessing stored information."
             },
@@ -192,18 +168,14 @@
                 "question": "This type of memory holds information briefly for immediate use.",
                 "answers": [
                     "short-term memory",
-                    "short term memory",
-                    "working memory",
-                    "What is short-term memory?"
+                    "working memory"
                 ],
                 "explanation": "Short-term or working memory holds a small amount of information temporarily."
             },
             "500": {
                 "question": "This type of memory stores information for long periods of time.",
                 "answers": [
-                    "long-term memory",
-                    "long term memory",
-                    "What is long-term memory?"
+                    "long-term memory"
                 ],
                 "explanation": "Long-term memory can store information for extended periods."
             }
@@ -213,9 +185,7 @@
                 "question": "This psychologist proposed stages of cognitive development in children.",
                 "answers": [
                     "Jean Piaget",
-                    "Piaget",
-                    "Who is Jean Piaget?",
-                    "Who is Piaget?"
+                    "Piaget"
                 ],
                 "explanation": "Jean Piaget is known for his theory of cognitive development."
             },
@@ -223,34 +193,28 @@
                 "question": "This psychologist proposed stages of psychosocial development.",
                 "answers": [
                     "Erik Erikson",
-                    "Erikson",
-                    "Who is Erik Erikson?",
-                    "Who is Erikson?"
+                    "Erikson"
                 ],
                 "explanation": "Erik Erikson proposed eight stages of psychosocial development."
             },
             "300": {
                 "question": "This stage of Piaget's theory occurs from birth to about age 2.",
                 "answers": [
-                    "sensorimotor stage",
-                    "the sensorimotor stage",
-                    "What is the sensorimotor stage?"
+                    "sensorimotor stage"
                 ],
                 "explanation": "The sensorimotor stage is when infants learn through senses and actions."
             },
             "400": {
                 "question": "This concept means understanding that objects still exist even when they cannot be seen.",
                 "answers": [
-                    "object permanence",
-                    "What is object permanence?"
+                    "object permanence"
                 ],
                 "explanation": "Object permanence is the awareness that hidden objects still exist."
             },
             "500": {
                 "question": "This period of development is the transition from childhood to adulthood.",
                 "answers": [
-                    "adolescence",
-                    "What is adolescence?"
+                    "adolescence"
                 ],
                 "explanation": "Adolescence is the developmental period between childhood and adulthood."
             }
@@ -260,8 +224,7 @@
                 "question": "This term refers to a pattern of thoughts, feelings, or behaviors that causes distress or impairment.",
                 "answers": [
                     "psychological disorder",
-                    "mental disorder",
-                    "What is a psychological disorder?"
+                    "mental disorder"
                 ],
                 "explanation": "A psychological disorder involves significant distress, dysfunction, or impairment."
             },
@@ -269,8 +232,7 @@
                 "question": "This disorder category involves excessive fear, worry, or nervousness.",
                 "answers": [
                     "anxiety disorders",
-                    "anxiety disorder",
-                    "What are anxiety disorders?"
+                    "anxiety disorder"
                 ],
                 "explanation": "Anxiety disorders involve excessive fear or worry."
             },
@@ -278,17 +240,14 @@
                 "question": "This therapy approach focuses on changing unhelpful thoughts and behaviors.",
                 "answers": [
                     "cognitive behavioral therapy",
-                    "CBT",
-                    "What is cognitive behavioral therapy?"
+                    "CBT"
                 ],
                 "explanation": "CBT focuses on changing patterns of thinking and behavior."
             },
             "400": {
                 "question": "This professional can prescribe medication and has a medical degree.",
                 "answers": [
-                    "psychiatrist",
-                    "a psychiatrist",
-                    "What is a psychiatrist?"
+                    "psychiatrist"
                 ],
                 "explanation": "A psychiatrist is a medical doctor who can diagnose disorders and prescribe medication."
             },
@@ -297,8 +256,7 @@
                 "answers": [
                     "DSM",
                     "DSM-5",
-                    "Diagnostic and Statistical Manual of Mental Disorders",
-                    "What is the DSM?"
+                    "Diagnostic and Statistical Manual of Mental Disorders"
                 ],
                 "explanation": "The DSM is used to classify and diagnose mental disorders."
             }

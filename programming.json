@@ -16,12 +16,12 @@
             },
             "200": {
                 "question": "What tag is used to create a hyperlink?",
-                "answers": ["a", "<a>", "anchor tag"],
+                "answers": ["<a>", "anchor tag"],
                 "explanation": "The <a> tag, also known as the anchor tag, is used to create hyperlinks in HTML."
             },
             "300": {
                 "question": "What tag is used to create a paragraph?",
-                "answers": ["p", "<p>", "paragraph tag"],
+                "answers": ["<p>", "paragraph tag"],
                 "explanation": "The <p> tag is used to create paragraphs in HTML."
             },
             "400": {
@@ -31,7 +31,7 @@
             },
             "500": {
                 "question": "What tag is used to define a table row?",
-                "answers": ["tr", "<tr>", "table row tag"],
+                "answers": ["<tr>", "table row tag"],
                 "explanation": "The <tr> tag is used to define a row in an HTML table."
             }
         },
@@ -48,17 +48,17 @@
             },
             "300": {
                 "question": "How do you center a block element?",
-                "answers": ["margin: 0 auto;", "margin 0 auto", "center a block"],
+                "answers": ["margin: 0 auto;", "center a block"],
                 "explanation": "To center a block element, you can use the CSS rule 'margin: 0 auto;'."
             },
             "400": {
                 "question": "What property is used to change the font size?",
-                "answers": ["font-size", "font size", "change font size"],
+                "answers": ["font-size", "change font size"],
                 "explanation": "The font-size property in CSS is used to change the size of the text."
             },
             "500": {
                 "question": "What property is used to make text bold?",
-                "answers": ["font-weight", "font weight", "bold"],
+                "answers": ["font-weight", "bold"],
                 "explanation": "The font-weight property in CSS is used to make text bold."
             }
         },
@@ -119,7 +119,7 @@
         "5": {
             "100": {
                 "question": "What is Java?",
-                "answers": ["a programming language", "java", "programming language"],
+                "answers": ["a programming language", "java"],
                 "explanation": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible."
             },
             "200": {

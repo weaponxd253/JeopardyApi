@@ -11,7 +11,7 @@
         "161": {
             "100": {
                 "question": "What does NFL stand for?",
-                "answers": ["national football league", "the national football league"]
+                "answers": ["national football league"]
             },
             "200": {
                 "question": "What team won the first two Super Bowls under coach Vince Lombardi?",
@@ -71,7 +71,7 @@
             },
             "500": {
                 "question": "What running back became the first NFL player to rush for 2,000 yards in a season?",
-                "answers": ["o.j. simpson", "oj simpson", "orenthal james simpson"]
+                "answers": ["o.j. simpson", "orenthal james simpson"]
             }
         },
         "164": {

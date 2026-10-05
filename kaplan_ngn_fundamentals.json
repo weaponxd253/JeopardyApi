@@ -156,7 +156,7 @@
       },
       "300": {
         "question": "What teaching method asks the client to repeat instructions in their own words?",
-        "answers": ["teach back", "teach-back", "teach back method"],
+        "answers": ["teach back", "teach back method"],
         "explanation": "Teach-back checks whether the client understands instructions by having them explain the information back."
       },
       "400": {

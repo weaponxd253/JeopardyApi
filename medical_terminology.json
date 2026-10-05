@@ -30,27 +30,21 @@
             "100": {
                 "question": "The root 'cardi' refers to this organ.",
                 "answers": [
-                    "heart",
-                    "the heart",
-                    "What is the heart?"
+                    "heart"
                 ],
                 "explanation": "Cardi/o refers to the heart."
             },
             "200": {
                 "question": "The root 'derm' refers to this body covering.",
                 "answers": [
-                    "skin",
-                    "the skin",
-                    "What is skin?"
+                    "skin"
                 ],
                 "explanation": "Derm/o and dermat/o refer to the skin."
             },
             "300": {
                 "question": "The root 'gastr' refers to this digestive organ.",
                 "answers": [
-                    "stomach",
-                    "the stomach",
-                    "What is the stomach?"
+                    "stomach"
                 ],
                 "explanation": "Gastr/o refers to the stomach."
             },
@@ -59,16 +53,14 @@
                 "answers": [
                     "nerve",
                     "nerves",
-                    "nervous system",
-                    "What are nerves?"
+                    "nervous system"
                 ],
                 "explanation": "Neur/o refers to nerves or the nervous system."
             },
             "500": {
                 "question": "The root 'hemat' or 'hem' refers to this fluid.",
                 "answers": [
-                    "blood",
-                    "What is blood?"
+                    "blood"
                 ],
                 "explanation": "Hemat/o and hem/o refer to blood."
             }
@@ -77,45 +69,35 @@
             "100": {
                 "question": "This prefix means above or excessive.",
                 "answers": [
-                    "hyper-",
-                    "hyper",
-                    "What is hyper?"
+                    "hyper-"
                 ],
                 "explanation": "Hyper- means above, excessive, or more than normal."
             },
             "200": {
                 "question": "This prefix means below or deficient.",
                 "answers": [
-                    "hypo-",
-                    "hypo",
-                    "What is hypo?"
+                    "hypo-"
                 ],
                 "explanation": "Hypo- means below, deficient, or less than normal."
             },
             "300": {
                 "question": "This prefix means fast.",
                 "answers": [
-                    "tachy-",
-                    "tachy",
-                    "What is tachy?"
+                    "tachy-"
                 ],
                 "explanation": "Tachy- means fast, as in tachycardia."
             },
             "400": {
                 "question": "This prefix means slow.",
                 "answers": [
-                    "brady-",
-                    "brady",
-                    "What is brady?"
+                    "brady-"
                 ],
                 "explanation": "Brady- means slow, as in bradycardia."
             },
             "500": {
                 "question": "This prefix means around.",
                 "answers": [
-                    "peri-",
-                    "peri",
-                    "What is peri?"
+                    "peri-"
                 ],
                 "explanation": "Peri- means around or surrounding."
             }
@@ -124,45 +106,35 @@
             "100": {
                 "question": "This suffix means inflammation.",
                 "answers": [
-                    "-itis",
-                    "itis",
-                    "What is -itis?"
+                    "-itis"
                 ],
                 "explanation": "-itis means inflammation."
             },
             "200": {
                 "question": "This suffix means pain.",
                 "answers": [
-                    "-algia",
-                    "algia",
-                    "What is -algia?"
+                    "-algia"
                 ],
                 "explanation": "-algia means pain."
             },
             "300": {
                 "question": "This suffix means surgical removal.",
                 "answers": [
-                    "-ectomy",
-                    "ectomy",
-                    "What is -ectomy?"
+                    "-ectomy"
                 ],
                 "explanation": "-ectomy means surgical removal or excision."
             },
             "400": {
                 "question": "This suffix means surgical repair.",
                 "answers": [
-                    "-plasty",
-                    "plasty",
-                    "What is -plasty?"
+                    "-plasty"
                 ],
                 "explanation": "-plasty means surgical repair or reconstruction."
             },
             "500": {
                 "question": "This suffix means study of.",
                 "answers": [
-                    "-logy",
-                    "logy",
-                    "What is -logy?"
+                    "-logy"
                 ],
                 "explanation": "-logy means the study of a subject."
             }
@@ -172,27 +144,21 @@
                 "question": "The term 'pulmonary' relates to this organ system.",
                 "answers": [
                     "respiratory system",
-                    "lungs",
-                    "the respiratory system",
-                    "What is the respiratory system?"
+                    "lungs"
                 ],
                 "explanation": "Pulmonary terms relate to the lungs and respiratory system."
             },
             "200": {
                 "question": "The term 'renal' relates to these organs.",
                 "answers": [
-                    "kidneys",
-                    "the kidneys",
-                    "What are the kidneys?"
+                    "kidneys"
                 ],
                 "explanation": "Renal means related to the kidneys."
             },
             "300": {
                 "question": "The term 'hepatic' relates to this organ.",
                 "answers": [
-                    "liver",
-                    "the liver",
-                    "What is the liver?"
+                    "liver"
                 ],
                 "explanation": "Hepatic means related to the liver."
             },
@@ -200,9 +166,7 @@
                 "question": "The term 'gastrointestinal' relates mainly to this body system.",
                 "answers": [
                     "digestive system",
-                    "the digestive system",
-                    "GI system",
-                    "What is the digestive system?"
+                    "GI system"
                 ],
                 "explanation": "Gastrointestinal refers to the stomach, intestines, and digestive tract."
             },
@@ -210,9 +174,7 @@
                 "question": "The term 'musculoskeletal' refers to muscles and this body structure.",
                 "answers": [
                     "bones",
-                    "skeleton",
-                    "the skeleton",
-                    "What are bones?"
+                    "skeleton"
                 ],
                 "explanation": "The musculoskeletal system includes muscles, bones, joints, tendons, and ligaments."
             }
@@ -221,18 +183,14 @@
             "100": {
                 "question": "This abbreviation means blood pressure.",
                 "answers": [
-                    "BP",
-                    "B.P.",
-                    "What is BP?"
+                    "B.P."
                 ],
                 "explanation": "BP is the common abbreviation for blood pressure."
             },
             "200": {
                 "question": "This abbreviation means heart rate.",
                 "answers": [
-                    "HR",
-                    "H.R.",
-                    "What is HR?"
+                    "H.R."
                 ],
                 "explanation": "HR stands for heart rate."
             },
@@ -241,28 +199,22 @@
                 "answers": [
                     "T",
                     "temp",
-                    "temperature",
-                    "What is T?",
-                    "What is temp?"
+                    "temperature"
                 ],
                 "explanation": "T or temp is commonly used for temperature."
             },
             "400": {
                 "question": "This abbreviation means by mouth.",
                 "answers": [
-                    "PO",
                     "p.o.",
-                    "per os",
-                    "What is PO?"
+                    "per os"
                 ],
                 "explanation": "PO means by mouth, from the Latin per os."
             },
             "500": {
                 "question": "This abbreviation means as needed.",
                 "answers": [
-                    "PRN",
-                    "p.r.n.",
-                    "What is PRN?"
+                    "p.r.n."
                 ],
                 "explanation": "PRN means as needed."
             }
@@ -272,8 +224,7 @@
                 "question": "This term means toward the front of the body.",
                 "answers": [
                     "anterior",
-                    "ventral",
-                    "What is anterior?"
+                    "ventral"
                 ],
                 "explanation": "Anterior means toward the front of the body."
             },
@@ -281,32 +232,28 @@
                 "question": "This term means toward the back of the body.",
                 "answers": [
                     "posterior",
-                    "dorsal",
-                    "What is posterior?"
+                    "dorsal"
                 ],
                 "explanation": "Posterior means toward the back of the body."
             },
             "300": {
                 "question": "This term means toward the midline of the body.",
                 "answers": [
-                    "medial",
-                    "What is medial?"
+                    "medial"
                 ],
                 "explanation": "Medial means closer to the body's midline."
             },
             "400": {
                 "question": "This term means away from the midline of the body.",
                 "answers": [
-                    "lateral",
-                    "What is lateral?"
+                    "lateral"
                 ],
                 "explanation": "Lateral means farther from the body's midline."
             },
             "500": {
                 "question": "This term means farther from the point of attachment.",
                 "answers": [
-                    "distal",
-                    "What is distal?"
+                    "distal"
                 ],
                 "explanation": "Distal means farther from the point of attachment or origin."
             }

@@ -11,7 +11,7 @@
         "171": {
             "100": {
                 "question": "What does NBA stand for?",
-                "answers": ["national basketball association", "the national basketball association"]
+                "answers": ["national basketball association"]
             },
             "200": {
                 "question": "What earlier league merged with the NBL to form the NBA's direct predecessor structure?",
@@ -137,7 +137,7 @@
             },
             "500": {
                 "question": "What Denver Nuggets center won Finals MVP after leading Denver to its first NBA title in 2023?",
-                "answers": ["nikola jokic", "jokic", "nikola jokić", "jokić"]
+                "answers": ["nikola jokic", "jokic"]
             }
         }
     }

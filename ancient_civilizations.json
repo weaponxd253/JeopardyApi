@@ -33,7 +33,7 @@
         "122": {
             "100": {
                 "question": "What river was central to ancient Egyptian agriculture and transportation?",
-                "answers": ["nile", "nile river", "the nile"]
+                "answers": ["nile", "nile river"]
             },
             "200": {
                 "question": "What title was used for the rulers of ancient Egypt?",
@@ -99,7 +99,7 @@
         "125": {
             "100": {
                 "question": "What structure was built and expanded to help protect northern China from invasions?",
-                "answers": ["great wall", "great wall of china", "the great wall"]
+                "answers": ["great wall", "great wall of china"]
             },
             "200": {
                 "question": "What Chinese dynasty is associated with the first emperor, Qin Shi Huang?",
@@ -137,7 +137,7 @@
             },
             "500": {
                 "question": "What Spanish conquistador led the expedition that defeated the Aztec Empire?",
-                "answers": ["hernan cortes", "hernán cortés", "cortes", "cortés"]
+                "answers": ["hernan cortes", "cortes"]
             }
         }
     }

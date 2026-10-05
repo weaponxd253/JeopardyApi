@@ -125,7 +125,7 @@
             },
             "200": {
                 "question": "What radio phrase is used for an urgent situation that is not immediately life-threatening?",
-                "answers": ["pan-pan", "pan pan"]
+                "answers": ["pan-pan"]
             },
             "300": {
                 "question": "What four-digit transponder code is commonly used for a general emergency?",

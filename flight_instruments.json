@@ -33,7 +33,7 @@
         "152": {
             "100": {
                 "question": "What system provides pressure information to the airspeed indicator, altimeter, and vertical speed indicator?",
-                "answers": ["pitot-static system", "pitot static system"]
+                "answers": ["pitot-static system"]
             },
             "200": {
                 "question": "What aircraft part measures ram air pressure for the airspeed indicator?",

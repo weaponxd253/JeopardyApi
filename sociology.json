@@ -30,8 +30,7 @@
             "100": {
                 "question": "This is the scientific study of society and social behavior.",
                 "answers": [
-                    "sociology",
-                    "What is sociology?"
+                    "sociology"
                 ],
                 "explanation": "Sociology studies human society, social interaction, and social patterns."
             },
@@ -39,8 +38,7 @@
                 "question": "This perspective focuses on how different parts of society work together to maintain stability.",
                 "answers": [
                     "functionalism",
-                    "structural functionalism",
-                    "What is functionalism?"
+                    "structural functionalism"
                 ],
                 "explanation": "Functionalism views society as a system of parts that contribute to stability."
             },
@@ -48,8 +46,7 @@
                 "question": "This perspective focuses on power, inequality, and competition for resources.",
                 "answers": [
                     "conflict theory",
-                    "conflict perspective",
-                    "What is conflict theory?"
+                    "conflict perspective"
                 ],
                 "explanation": "Conflict theory emphasizes power struggles and inequality in society."
             },
@@ -57,17 +54,14 @@
                 "question": "This perspective focuses on symbols, meanings, and everyday interactions.",
                 "answers": [
                     "symbolic interactionism",
-                    "interactionism",
-                    "What is symbolic interactionism?"
+                    "interactionism"
                 ],
                 "explanation": "Symbolic interactionism examines how people create meaning through interaction."
             },
             "500": {
                 "question": "This term describes seeing the connection between personal experiences and larger social forces.",
                 "answers": [
-                    "sociological imagination",
-                    "the sociological imagination",
-                    "What is the sociological imagination?"
+                    "sociological imagination"
                 ],
                 "explanation": "The sociological imagination connects individual experiences to broader social patterns."
             }
@@ -76,8 +70,7 @@
             "100": {
                 "question": "This term refers to the shared beliefs, values, customs, and material objects of a group.",
                 "answers": [
-                    "culture",
-                    "What is culture?"
+                    "culture"
                 ],
                 "explanation": "Culture includes shared ways of life, beliefs, values, norms, and artifacts."
             },
@@ -85,32 +78,28 @@
                 "question": "These are rules and expectations for behavior in a society.",
                 "answers": [
                     "norms",
-                    "social norms",
-                    "What are norms?"
+                    "social norms"
                 ],
                 "explanation": "Norms are shared expectations for behavior."
             },
             "300": {
                 "question": "These are deeply held ideas about what is good, right, or important.",
                 "answers": [
-                    "values",
-                    "What are values?"
+                    "values"
                 ],
                 "explanation": "Values are cultural beliefs about what matters."
             },
             "400": {
                 "question": "This term describes judging another culture using the standards of one's own culture.",
                 "answers": [
-                    "ethnocentrism",
-                    "What is ethnocentrism?"
+                    "ethnocentrism"
                 ],
                 "explanation": "Ethnocentrism evaluates other cultures from the viewpoint of one's own culture."
             },
             "500": {
                 "question": "This term means trying to understand another culture on its own terms.",
                 "answers": [
-                    "cultural relativism",
-                    "What is cultural relativism?"
+                    "cultural relativism"
                 ],
                 "explanation": "Cultural relativism means understanding cultural practices within their own context."
             }
@@ -119,17 +108,14 @@
             "100": {
                 "question": "This is the lifelong process of learning society's norms, values, and roles.",
                 "answers": [
-                    "socialization",
-                    "What is socialization?"
+                    "socialization"
                 ],
                 "explanation": "Socialization teaches people how to function in society."
             },
             "200": {
                 "question": "This is usually the first and most influential agent of socialization.",
                 "answers": [
-                    "family",
-                    "the family",
-                    "What is family?"
+                    "family"
                 ],
                 "explanation": "Family is often the earliest and strongest influence on socialization."
             },
@@ -137,8 +123,7 @@
                 "question": "These are people of similar age or status who influence behavior and identity.",
                 "answers": [
                     "peers",
-                    "peer group",
-                    "What are peers?"
+                    "peer group"
                 ],
                 "explanation": "Peers influence attitudes, behavior, and identity, especially during adolescence."
             },
@@ -146,8 +131,7 @@
                 "question": "This term refers to expected behavior attached to a social position.",
                 "answers": [
                     "role",
-                    "social role",
-                    "What is a role?"
+                    "social role"
                 ],
                 "explanation": "A role is the expected behavior linked to a social status."
             },
@@ -155,8 +139,7 @@
                 "question": "This term refers to a recognized social position a person occupies.",
                 "answers": [
                     "status",
-                    "social status",
-                    "What is status?"
+                    "social status"
                 ],
                 "explanation": "Status is a social position, such as student, parent, employee, or citizen."
             }
@@ -166,8 +149,7 @@
                 "question": "This term refers to the ranking of people or groups in society.",
                 "answers": [
                     "social stratification",
-                    "stratification",
-                    "What is social stratification?"
+                    "stratification"
                 ],
                 "explanation": "Social stratification is the structured ranking of groups in society."
             },
@@ -176,16 +158,14 @@
                 "answers": [
                     "socioeconomic status",
                     "SES",
-                    "social class",
-                    "What is socioeconomic status?"
+                    "social class"
                 ],
                 "explanation": "Socioeconomic status reflects social and economic position."
             },
             "300": {
                 "question": "This term refers to movement up or down the social class ladder.",
                 "answers": [
-                    "social mobility",
-                    "What is social mobility?"
+                    "social mobility"
                 ],
                 "explanation": "Social mobility is movement between social class positions."
             },
@@ -193,8 +173,7 @@
                 "question": "This term refers to unequal treatment or outcomes based on social categories.",
                 "answers": [
                     "inequality",
-                    "social inequality",
-                    "What is inequality?"
+                    "social inequality"
                 ],
                 "explanation": "Social inequality involves unequal access to resources, status, or opportunities."
             },
@@ -203,8 +182,7 @@
                 "answers": [
                     "capital",
                     "social capital",
-                    "cultural capital",
-                    "What is capital?"
+                    "cultural capital"
                 ],
                 "explanation": "Sociologists use forms of capital to describe resources that provide social advantage."
             }
@@ -214,8 +192,7 @@
                 "question": "These are organized systems that meet basic social needs, such as family, education, religion, economy, and government.",
                 "answers": [
                     "social institutions",
-                    "institutions",
-                    "What are social institutions?"
+                    "institutions"
                 ],
                 "explanation": "Social institutions are organized structures that shape society and meet social needs."
             },
@@ -223,17 +200,14 @@
                 "question": "This institution teaches knowledge, skills, norms, and values through schools.",
                 "answers": [
                     "education",
-                    "the education system",
-                    "What is education?"
+                    "the education system"
                 ],
                 "explanation": "Education transmits knowledge and social expectations."
             },
             "300": {
                 "question": "This institution organizes production, distribution, and consumption of goods and services.",
                 "answers": [
-                    "economy",
-                    "the economy",
-                    "What is the economy?"
+                    "economy"
                 ],
                 "explanation": "The economy organizes how goods and services are produced and distributed."
             },
@@ -241,17 +215,14 @@
                 "question": "This institution creates and enforces laws and public policies.",
                 "answers": [
                     "government",
-                    "the government",
-                    "political institution",
-                    "What is government?"
+                    "political institution"
                 ],
                 "explanation": "Government creates rules, laws, and policies for society."
             },
             "500": {
                 "question": "This institution often provides beliefs, rituals, and moral guidance related to sacred or spiritual ideas.",
                 "answers": [
-                    "religion",
-                    "What is religion?"
+                    "religion"
                 ],
                 "explanation": "Religion is a social institution involving beliefs and practices related to the sacred or spiritual."
             }
@@ -260,8 +231,7 @@
             "100": {
                 "question": "This term refers to behavior that violates social norms.",
                 "answers": [
-                    "deviance",
-                    "What is deviance?"
+                    "deviance"
                 ],
                 "explanation": "Deviance is behavior that goes against social norms."
             },
@@ -269,8 +239,7 @@
                 "question": "This term refers to formal rules created and enforced by government.",
                 "answers": [
                     "laws",
-                    "law",
-                    "What are laws?"
+                    "law"
                 ],
                 "explanation": "Laws are formal rules backed by government authority."
             },
@@ -278,25 +247,21 @@
                 "question": "This term refers to rewards or punishments used to encourage conformity.",
                 "answers": [
                     "sanctions",
-                    "social sanctions",
-                    "What are sanctions?"
+                    "social sanctions"
                 ],
                 "explanation": "Sanctions are responses to behavior that encourage conformity or discourage deviance."
             },
             "400": {
                 "question": "This theory argues that deviance can result from society labeling someone as deviant.",
                 "answers": [
-                    "labeling theory",
-                    "the labeling theory",
-                    "What is labeling theory?"
+                    "labeling theory"
                 ],
                 "explanation": "Labeling theory focuses on how labels affect identity and social treatment."
             },
             "500": {
                 "question": "This term refers to techniques and strategies society uses to regulate behavior.",
                 "answers": [
-                    "social control",
-                    "What is social control?"
+                    "social control"
                 ],
                 "explanation": "Social control includes formal and informal ways society encourages conformity."
             }
